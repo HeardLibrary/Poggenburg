@@ -1,0 +1,150 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10880
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/01/1866
+        </temporal>
+        <temporal point = "end">
+            07/02/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+         1 ou 2 VII ou 66
+    </note>
+    <note type = "journal content">
+        Accompagné par sa mère et Arthur Stevens, Baudelaire est ramené à Paris en chemin de fer {1}.  Asselineau les attend sur le quai de la gare {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            EJC
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire: étude biographique / d'Eugène Crépet, revue et mise à jour par Jacques Crépet, suivie des Baudelairiana d'Asselineau et de nombreuses lettres adressées à Ch. Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Eugène
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A. Messein
+            </publisher>
+            <dateIssued>
+                1906
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    200
+                </start>
+                <end>
+                    200
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Crépet R
+        </indentifier>
+        <titleInfo>
+            <title>
+                Dix lettres inédites de Charles Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1946
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    24
+                </start>
+                <end>
+                    24
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>La Revue Fontaine<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>9</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>48-49</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        262
+                    </start>
+                    <end>
+                        277
+                    </end>
+                </extent>
+                <date>02/01/1946</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

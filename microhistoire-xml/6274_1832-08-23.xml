@@ -1,0 +1,28 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6274
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/23/1832
+        </temporal>
+        <temporal point = "end">
+            08/23/1832
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        23 VIII 32
+    </note>
+    <note type = "journal content">
+        Fin de l'année scolaire du Collège royal.  Baudelaire a un 4e accessit en thème.  Son professeur est Bobet {1}.
+    </note>
+</mods>

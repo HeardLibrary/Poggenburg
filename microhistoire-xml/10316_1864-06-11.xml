@@ -1,0 +1,379 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10316
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/11/1864
+        </temporal>
+        <temporal point = "end">
+            06/11/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        11 VI 64
+    </note>
+    <note type = "journal content">
+        Baudelaire informe Noël Parfait qu'il s'inquiète des conséquences des fautes de composition de Marie Roget, raison pour laquelle il ne peut s'installer dans d'autres villes belges car il se sent obliger de revenir à Bruxelles pour s'enquérir des épreuves. Il amasse des notes de voyage pour son livre {1}.  Après avoir réfléchi, Baudelaire répond à la lettre du mois de mai d'Albert Collignon.  Ayant besoin d'aller à Namur pour "étudier de [sic] certaines choses", il a besoin de 50 francs, dont il envoie un reçu à Collignon; il attendra la réponse avant de se mettre en route.  C'est la deuxième fois qu'il adresse un tel reçu à Collignon, qui n'a rien envoyé la première fois {2}.  Baudelaire répond à sa mère qu'on pourra utiliser sa chambre à Honfleur mais qu'il ne s'y rendra pas car il a besoin de repos.  Il est en mauvaise santé depuis son arrivée à Bruxelles.  Baudelaire attribue l'inimitié des partisans de Victor Hugo--y compris Lacroix--à son article sur l'anniversaire de la naissance de Shakespeare. Lacroix, que Baudelaire voudrait amener à publier certains de ses livres, a été cité dans l'article où il soutenait que l'unique raison de cette manifestation soi-disant poétique était en vérité le lancement du livre de Hugo.  De ce fait, Lacroix aurait été peu enclin  à s'intéresser à Baudelaire, qu'il considérerait comme un adversaire.  Baudelaire demande à sa mère son opinion sur le roman de Théophile Gautier: Le Capitaine Fracasse. Il y trouve des "beautés étonnantes". Baudelaire  prie sa mère de lui envoyer de l'argent si  elle peut le faire sans grever son budget {3}. Baudelaire écrit à Poulet-Malassis pour lui donner rendez-vous le lundi soir à 8h30 à son hôtel; ils iront ensemble chez Prosper Crabbe, à qui Baudelaire le présentera.  Ce jour-ci, Baudelaire passe cinq heures en compagnie de deux dames [ou Mme et Mlle Stevens, femme et fille de Joseph Stevens ou Mme et Mlle Collaert].  On a "jasé" sur Arthur Stevens {4}. La Bibliographie de la France enregistre qu'Achille Chardin publie chez Delalain son Choix de matières et pièces de vers latins; on y trouve L'Exilé de Baudelaire {5}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    379
+                </start>
+                <end>
+                    379
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    378
+                </start>
+                <end>
+                    378
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    376
+                </start>
+                <end>
+                    376
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    381
+                </start>
+                <end>
+                    381
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

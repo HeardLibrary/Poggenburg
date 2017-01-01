@@ -1,0 +1,607 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8491
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/13/1857
+        </temporal>
+        <temporal point = "end">
+            06/13/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        13 VI 57
+    </note>
+    <note type = "journal content">
+        Morale du joujou paraît à nouveau dans le Rabelais.  Le morceau est décrit comme extrait de Variétés et curiosités esthétiques publiées par Poulet-Malassis et De Broise, ouvrage "sous presse" {1}.  Baudelaire envoie à Eugène De Broise la liste de presse des Fleurs du mal ed. de 1857: Th. Gautier; Guillaume Guizot; Sainte-Beuve; Edouard Thierry; Dalloz; Barbey d'Aurevilly; Ph. Boyer; A. De Pontmartin; L. Veuillot; P. Limayrac; Ph. Chasles; Ratisbonne; Leconte de Lisle; Ch. Asselineau; Sasanoff; Morel; Buloz; Lacaussade; A. Fould; M. Pelletier; G. Rouland; G. Rouland fils; H. de Larozerie; N.P. Willis; H.W. Longfellow; A. Tennyson; R. Browning; De Quincey; V. Hugo.  Baudelaire entend changer et agrandir l'affiche annonçant son livre et demandera à M. Fowler, libraire anglais, quels journaux de son pays pourraient lui fournir de la publicité pour son ouvrage.  Baudelaire promet d'écrire à Gautier à propos de la publication par Poulet-Malassis d'Emaux et camées {2}.  Baudelaire a reçu 20 exemplaires des Fleurs du mal ed. de 1857 pour lui: 16 sur papier vulgaire, 4 sur grand papier {3}. Recevront des exemplaires sur grand papier: Mme Aupick; Asselineau; Delacroix; Dumas père ("l'immortel auteur d'Antony"); Champfleury; Achille Fould; Mérimée; Paul de Saint-Victor; Edouard Thierry; Walewski; Pincebourde. Il fera envoyer un exemplaire à Sainte-Beuve ("amitié fidèle"); à Chaix d'Est-Ange; à Nadar ("A mon ami Nadar"); à A. Lemaréchal {4}. Celui de Mme Sabatier sera complété d'un dessin, qu'elle-même ou un autre y aura placé, celui de Jeanne Duval par Baudelaire. Sur ce dessin Mme Sabatier écrira: "Son idéal" {5}. Armand Dumesnil recevra un exemplaire (`témoignage d'amitié") {6}.  Celui d'Auguste Préault portera les mots: "A mon ami Auguste Préault {7}. Emile Deschamps en reçoit un également {8}.  Celui de Th. Gautier porte un ex-dono admiratif {9}. Murger ayant reçu un exemplaire, il adresse à Baudelaire l'invitation d'en envoyer un à la Revue des deux mondes {10}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    406
+                </start>
+                <end>
+                    406
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    410
+                </start>
+                <end>
+                    410
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OCPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome I
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1975
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    907
+                </start>
+                <end>
+                    907
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatBN57
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Bibliothèque Nationale de France
+            </publisher>
+            <dateIssued>
+                1957
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    115
+                </start>
+                <end>
+                    115
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Cat145
+        </indentifier>
+        <titleInfo>
+            <title>
+                Bibliophilie de qualite?
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Loewy, Édouard
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <dateIssued>
+                1959-1960
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <detail type = "volume">
+                <number>145</number>
+                <caption>volume</caption>
+            </detail>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+        <note type = "source note">
+            No. 9
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Cat11
+        </indentifier>
+        <titleInfo>
+            <title>
+                E?ditions originales et autographes de Charles Baudelaire, Paul Verlaine, Arthur Rimbaud
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Maggs Bros.
+            </publisher>
+            <dateIssued>
+                1922
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Catalog
+        </genre>
+        <note type = "source note">
+            No. 11
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OP II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Juvenilia. Oeuvres posthumes. Reliquiae II
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Éditions Louis Conard
+            </publisher>
+            <dateIssued>
+                1952
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    292
+                </start>
+                <end>
+                    292
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OC61
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. texte établi et annoté par Y.-G. Le Dantec; édition révisée, complétée et présentée par Claude Pichois
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1961
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1506
+                </start>
+                <end>
+                    1506
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    933
+                </start>
+                <end>
+                    933
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

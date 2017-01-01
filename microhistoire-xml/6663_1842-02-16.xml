@@ -1,0 +1,192 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6663
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/16/1842
+        </temporal>
+        <temporal point = "end">
+            02/16/1842
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        16 II 42
+    </note>
+    <note type = "journal content">
+        L'Alcide revient à Bordeaux {1}.  Le Mémorial bordelais et l'Indicateur signalent son arrivée {2}.  Baudelaire écrit à Aupick pour annoncer son retour et pour évoquer son manque d'argent.  A sa mère il écrit qu'il a parlé d'elle à Amédée Zédé.  Il n'a pas reçu de lettres de Paris pendant tout son voyage {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Hérisson
+        </indentifier>
+        <titleInfo>
+            <title>
+                ***
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Hérisson
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    293
+                </start>
+                <end>
+                    293
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <part>
+                <date>NULL</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            TITLE? Print for Poggenburg
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    91
+                </start>
+                <end>
+                    91
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

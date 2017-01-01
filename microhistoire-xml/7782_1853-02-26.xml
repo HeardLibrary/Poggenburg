@@ -1,0 +1,166 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7782
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/26/1853
+        </temporal>
+        <temporal point = "end">
+            02/26/1853
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        26 II 53
+    </note>
+    <note type = "journal content">
+        La Bibliographie de la France enregistre la publication des Caractères et récits du temps, contenant Souffrances d'un houzard de Paul de Molènes {1}.  Baudelaire essayera de tirer un drame de ce dernier écrit {2}. La Bibliographie de la France enregistre également la Presse parisienne, publiée chez Krabbe, où Henry Izambard mentionne Le Salut public.  Il nomme les membres de la rédaction, Baudelaire, Champfleury et Toubin {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OP I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Juvenalia. Oeuvres posthumes. Reliquiae I
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Éditions Louis Conard
+            </publisher>
+            <dateIssued>
+                1939
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    479
+                </start>
+                <end>
+                    479
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BJ
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire judged by his contemporaries (1845-1867)
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">New York</placeTerm>
+            </place>
+            <publisher>
+                Columbia University Press
+            </publisher>
+            <dateIssued>
+                1933
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    164
+                </start>
+                <end>
+                    164
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Publications of the Institute of French Studies, Inc.
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

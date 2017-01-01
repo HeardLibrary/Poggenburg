@@ -1,0 +1,181 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9598
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/19/1861
+        </temporal>
+        <temporal point = "end">
+            05/19/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        19 V 61
+    </note>
+    <note type = "journal content">
+        Dans Diogène, Jules Claretie fait une allusion satirique au Diable qui lit les Fleurs du mal ed. de 1861 {1}. Dans Figaro, Lemercier de Neuville donne une recette satirique d'un "Salmis de cadavres à la Baudelaire" {2}. Dans le Charivari, Albert Wolff suggère, en badinant,  un tableau pour le Salon de 1863 avec notamment Baudelaire en aide-de-camp de Wagner {3}.  Baudelaire assiste à l'inauguration du Théâtre des marionnettes de Duranty aux Tuileries, à l'invitation de celui-ci {4}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Crouzet
+        </indentifier>
+        <titleInfo>
+            <title>
+                Un méconnu du réalisme, Duranty (1833-1880), l'homme, le critique, le romancier
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crouzet, Marcel
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Librairie Nizet
+            </publisher>
+            <dateIssued>
+                1964
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    144
+                </start>
+                <end>
+                    144
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

@@ -1,0 +1,102 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8324
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/01/1856
+        </temporal>
+        <temporal point = "end">
+            11/30/1856
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        XI 56
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis et De Broise s'installent 4, rue de Buci, à Paris {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Calot
+        </indentifier>
+        <titleInfo>
+            <title>
+                Poulet-Malassis, Lorédan Larchey et la Revue anecdotique
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Calot, Franz
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1940
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    97
+                </start>
+                <end>
+                    97
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        33
+                    </start>
+                    <end>
+                        41
+                    </end>
+                </extent>
+                <date>03/01/1940</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        91
+                    </start>
+                    <end>
+                        99
+                    </end>
+                </extent>
+                <date>03/01/1940</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

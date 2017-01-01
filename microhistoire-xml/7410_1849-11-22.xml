@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7410
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/22/1849
+        </temporal>
+        <temporal point = "end">
+            11/22/1849
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        avant le 22 XI 49
+    </note>
+    <note type = "journal content">
+        Baudelaire assiste à la répétition générale de La Vie de Bohême, pièce d'Henry Murger et Théodore Barrière.  Cette pièce est "cuisinée" à partir des feuilletons du Corsaire-Satan.  Y assistent également: Nadar; Banville; Champfleury; Vitu; Privat; Asselineau; Calino; Wallon; Lefranc; Desbrosses; Le Gothique; Bache ("le violoncelliste fou devenu comédien"); Pierre Dupont; Fauchery; Jean Journet; Jules de La Madelène; les frères Toubin; Léon Noël; d'autres {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Greaves
+        </indentifier>
+        <titleInfo>
+            <title>
+                Nadar, ou le paradoxe vital
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Greaves, Roger
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Flammarion
+            </publisher>
+            <dateIssued>
+                1980
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    129
+                </start>
+                <end>
+                    129
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

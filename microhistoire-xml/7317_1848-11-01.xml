@@ -1,0 +1,226 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7317
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/01/1848
+        </temporal>
+        <temporal point = "end">
+            11/30/1848
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        XI 48
+    </note>
+    <note type = "journal content">
+        Le Vin de l'assassin paraît dans l'Echo des marchands de vin {1}.  On y trouve également l'annonce de la publication des Limbes, poésies de Baudelaire, qui doivent paraître chez Lévy, en février {2}.  Dans un article de la Revue de Belgique sur Banville, Retchezken cite Les Chats et voit en Baudelaire un élu de la nouvelle école parisienne {3}.  Ce mois-ci on note le nom de Baudelaire accolé à l'adresse du 46, rue Pigalle et le nom de Caroline Dardart, qui est prié de remettre quelque chose au poète {4}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            FM42
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les fleurs du mal, texte de la 2.éd, suivi des pièces supprimées en 1857 et des additions de 1868. Éd. critique établie par Jacques Crépet et Georges Blin
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Blin, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Blin, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Librairie José Corti
+            </publisher>
+            <dateIssued>
+                1942
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    229
+                </start>
+                <end>
+                    229
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    318, 644 n10
+                </start>
+                <end>
+                    318, 644 n10
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

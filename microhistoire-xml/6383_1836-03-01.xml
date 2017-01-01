@@ -1,0 +1,91 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6383
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/01/1836
+        </temporal>
+        <temporal point = "end">
+            03/31/1836
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        III 36
+    </note>
+    <note type = "journal content">
+        Le Magasin pittoresque décrit le bruit fait dans la presse française par la publication d'un hoax [superchérie]  américain.  Il y est dit que Herschel, célèbre astronome, a pu voir des êtres vivants dans la lune.  Cette affaire, remarquée peut-être par Baudelaire, refera surface dix-neuf ans plus tard, au moment de la publication d'Aventure sans pareille d'un certain Hans Pfaall, traduction de Baudelaire {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OCPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome II
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1225
+                </start>
+                <end>
+                    1225
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

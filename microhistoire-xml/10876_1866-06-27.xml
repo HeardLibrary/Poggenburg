@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10876
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/27/1866
+        </temporal>
+        <temporal point = "end">
+            06/28/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        27 ou 28 VI 66
+    </note>
+    <note type = "journal content">
+        Baudelaire dîne dans la chambre de Poulet-Malassis la veille de son départ.  Il est alerte, remarque les nouveaux objets de curiosité achetés depuis sa dernière visite, les commente intelligemment. Poulet-Malassis l'encourage à mettre en ordre ses travaux avec un ami en attendant de se remettre au travail.  Un besoin pressant serait d'imprimer la nouvelle édition des Fleurs du mal ed. de 1857, toute prête et vue par Poulet-Malassis dans la malle.  Poulet-Malassis a l'impression que, quoi qu'on lui dise au sujet, Baudelaire résistera fortement à la décision d'imprimer son oeuvre faite par les autres.  Il espère retrouver sa santé spirituelle.  Poulet-Malassis y voit la preuve de la ténacité morale de Baudelaire, qu'ils avaient toujours connue.  Lorsque Baudelaire fut transporté à "l'hôpital" [l'Institut Saint Jean et Sainte Elizabeth?] Poulet-Malassis a fait sa malle.  A ce moment, dit-il, il a vu la nouvelle édition des Fleurs du mal ed. de 1857 prête à imprimer.  L'éditeur remarque le peu de publications par Baudelaire lors de son séjour belge {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    58
+                </start>
+                <end>
+                    58
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

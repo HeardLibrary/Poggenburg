@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11239
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/14/1861
+        </temporal>
+        <temporal point = "end">
+            06/14/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        14 VI 61
+    </note>
+    <note type = "journal content">
+        L'Indépendance belge appelle "l'admiratur naturel, nécessaire" de Richard Wagner (T)  A la demande de Poulet-Malassis, ses brevets d'imprimeur sont transferts à Eugène De Broise.  Celui-ci et Poulet-Malassis se séparent à l'amiable en divisant les biens de leur maison d'édition.  Poulet-Malassis demande que l'on transfère à son nom le brevet de librairie à Paris dont De Broise se démet en se déplaçant à Alençon.  Une enquête est ordonnée qui s'annonce favorable à cette demande  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-APM
+        </indentifier>
+        <titleInfo>
+            <title>
+                Auguste Poulet-Malassis. L'Editeur de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Fayard
+            </publisher>
+            <dateIssued>
+                1996
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    78
+                </start>
+                <end>
+                    78
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

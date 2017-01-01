@@ -1,0 +1,146 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7067
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/13/1846
+        </temporal>
+        <temporal point = "end">
+            07/13/1846
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        13 VII 46
+    </note>
+    <note type = "journal content">
+        Première, au Théâtre des Variétés, des Fleurs animées de Labie, Commerson et X. de Montépin.  Mme Doche y joue le rôle de Mme Hermance de Ligny [La Pensée] (Wicks).  Au Théâtre du Vaudeville, Marie Daubrun joue le rôle de Mlle Lange, actrice de la Comédie Française, dans Mademoiselle Lange, vaudeville en un acte de Jacques [Etienne?] Arago.  Marie Daubrun ira remplacer Mme Doche dans Les Fleurs animées (Feuillerat 81). Le Constitutionnel dira qu'elle "a été charmante" {1}.  Hervey, dans ses Theatres of Paris, critiquera la qualité de sa voix, qu'il trouve enrouée, mais lui reconnaîtra un germe de talent malgré les insuffisances techniques de son jeu {2}.  "H.L."[Hippolyte Lucas?], dans la Tribune dramatique et des beaux-arts, Journal de la littérature, des arts, des théâtres et des modes dira: "La jeune débutante a des manières distinguées, un organe sympathique, une prononciation pure, et elle se fait remarquer une sobriété de gestes qui tient de la bonne école: vous verrez qu'on parlera longtemps de Mlle Daubrun" {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Feuillerat A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire et la belle aux cheveux d'or
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Feuillerat, Albert
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">New Haven CT</placeTerm>
+            </place>
+            <publisher>
+                Yale University Press
+            </publisher>
+            <dateIssued>
+                1941
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    81
+                </start>
+                <end>
+                    81
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

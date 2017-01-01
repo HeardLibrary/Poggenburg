@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10046
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/01/1863
+        </temporal>
+        <temporal point = "end">
+            05/28/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        entre le 1 V et le 28 V 63
+    </note>
+    <note type = "journal content">
+        Swinburne compose la version manuscrite de The Chaotic School, texte qui ne sera jamais publié de son vivant.  La comparaison qu'il établit  entre Robert Browning, Gautier et Baudelaire est défavorable au premier. Swinburne prétend que Browning est incapable d'écrire des sonnets aussi beaux que ceux des deux maîtres français {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            NWS
+        </indentifier>
+        <titleInfo>
+            <title>
+                New Writings by Swinburne or Miscellaneous nova et curiosa. Being a medley of poems, critical essays, hoaxes and burlesques
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Swinburne, Algernon Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Lang, Cecil Y.
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Syracuse NY</placeTerm>
+            </place>
+            <publisher>
+                Syracuse University Press
+            </publisher>
+            <dateIssued>
+                1964
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    60
+                </start>
+                <end>
+                    60
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

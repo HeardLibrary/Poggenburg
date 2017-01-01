@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8337
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/15/1856
+        </temporal>
+        <temporal point = "end">
+            11/15/1856
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        15 XI 56
+    </note>
+    <note type = "journal content">
+        A Francfort-sur-le-Main, Théodore Creizenach écrit sur Edgar Allan Poe un article inspiré sans doute par "Edgar Poe, Sa Vie et ses ouvrages" de Baudelaire, publié au mois de mars passé.  Cet article  s'intitule "Ein americanisches Dichterleben".  Le texte de Baudelaire aurait sans doute été communiqué à son auteur par Alexandre Weill {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pichois T
+        </indentifier>
+        <titleInfo>
+            <title>
+                De Poe à Dada
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1967
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Revue d'Histoire Littéraire de la France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>67</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>2</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        450
+                    </start>
+                    <end>
+                        460
+                    </end>
+                </extent>
+                <date>04/01/1967</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

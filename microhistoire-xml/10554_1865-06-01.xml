@@ -1,0 +1,111 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10554
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/01/1865
+        </temporal>
+        <temporal point = "end">
+            06/01/1865
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1 VI 65
+    </note>
+    <note type = "journal content">
+        Parution de la deuxième partie de l'article d'Arthur Arnould sur Edgar Allan Poe, dans la Revue moderne {1}.  Les Goncourt se félicitent d'un mot qu'ils ont trouvé sur Baudelaire: ils le décrivent comme un "Béranger à Charenton" {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Goncourt
+        </indentifier>
+        <titleInfo>
+            <title>
+                Journal; mémoires de la vie littéraire [par] Edmond et Jules de Goncourt
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Goncourt, Edmond et Jules de
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Monaco</placeTerm>
+            </place>
+            <publisher>
+                Imprimerie Nationale
+            </publisher>
+            <dateIssued>
+                1956
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    VI:89
+                </start>
+                <end>
+                    VI:89
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

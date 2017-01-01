@@ -1,0 +1,166 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8742
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/13/1858
+        </temporal>
+        <temporal point = "end">
+            04/13/1858
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 13 IV 58
+    </note>
+    <note type = "journal content">
+        Baudelaire envoie à Ancelle un exemplaire dédicacé d'Aventures d'Arthur Gordon Pym: "A mon ami N. Ancelle" {1}.  Charles Monselet reçoit le même volume dédicacé "A mon ami Ch. Monselet" {2}. Poulet-Malassis le reçoit avec envoi d'auteur {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatBN57
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Bibliothèque Nationale de France
+            </publisher>
+            <dateIssued>
+                1957
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    36
+                </start>
+                <end>
+                    36
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Cat163
+        </indentifier>
+        <titleInfo>
+            <title>
+                Catalogue de?taille?, raisonne? et anecdotique de la bibliothe?que d'un homme de lettres bien connu: M. Charles Monselet
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Anterrieu, Marius
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Mestre, Etienne-Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                R. Pincebourde
+            </publisher>
+            <dateIssued>
+                1871
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Catalog
+        </genre>
+        <note type = "source note">
+            No. 163
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Cat397
+        </indentifier>
+        <titleInfo>
+            <title>
+                Bibliothèque, portraits, dessins et autographes de feu M. Auguste Poulet-Malassis
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                J. Baur
+            </publisher>
+            <dateIssued>
+                1878
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Catalog
+        </genre>
+        <note type = "source note">
+            No.397, HE 373n
+        </note>
+    </relatedItem>
+</mods>

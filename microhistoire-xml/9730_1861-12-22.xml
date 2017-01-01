@@ -1,0 +1,119 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9730
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/22/1861
+        </temporal>
+        <temporal point = "end">
+            12/22/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        22 XII 61
+    </note>
+    <note type = "journal content">
+         Baudelaire demande par écrit à Vigny la permission de lui faire sa visite académique.  Peut-être s'y rend-il le même jour {1}.  Pendant leur entretien de trois heures, Vigny essaie de dissuader Baudelaire de se porter candidat. Parmi les thèmes abordés, le "livre bouffon" que Baudelaire pense écrire sur les visites académiques.   Vigny l'informe que Victor Hugo en a déjà caressé le projet mais qu'il l'a abandonné dès son élection.  Vigny reconnaît que Baudelaire connaît l'anglais, "les grandes Indes" [à 17 ans sic],  Edgar Allan Poe (travail pour lequel Vigny souligne l'importance littéraire de Baudelaire). Vigny trouve Baudelaire très érudit, et remarque en lui l'aspect "distingué et souffrant de l'homme studieux et laborieux".  Bien que pessimiste sur les possibilités d'élection de Baudelaire à l'Académie, Vigny lui conseille de continuer ses visites afin d'y gagner "trente occasions d'observations très curieuses, sur ces invalides lettrés".  Rentré chez lui, Baudelaire écrit à Vigny qu'il est "tout étourdi" de sa bonté.  Il lui envoie: Richard Wagner et Tannhäuser à Paris ["Hommage à M. le Comte Alfred de Vigny / Témoignage d'admiration et de Sympathie. /  C.Baudelaire".]; Théophile Gautier; "Hommage à M. le Cte Alfred de Vigny C.Baudelaire".]; Les Paradis artificiels ["A M. Alfred de Vigny, témoignage de sympathie et d'admiration C.Baudelaire".]; les Fleurs du mal ed. de 1857 [sur vélin fort, "à M. le Comte Alfred de Vigny / Témoignage d'admiration et de/ Sympathie. / C.Baudelaire".].  Baudelaire y joint un vieux numéro d'une revue [peut-être le Présent] contenant de ses poèmes en prose; il remarque que Jules Janin et Sainte-Beuve "y ont trouvé quelque ragoût". Enfin, Baudelaire donne à Vigny une édition en anglais des poésies d'Edgar Allan Poe   {2}, {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    440
+                </start>
+                <end>
+                    440
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

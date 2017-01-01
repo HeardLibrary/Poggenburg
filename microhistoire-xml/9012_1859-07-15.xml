@@ -1,0 +1,87 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9012
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/15/1859
+        </temporal>
+        <temporal point = "end">
+            07/15/1859
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        15 VII 59
+    </note>
+    <note type = "journal content">
+        Banville, dans sa critique théâtrale des Filles de marbre, cite Baudelaire sur "La froide majesté de la femme stérile" {1}.
+    </note>
+    <note type = "researcher notes">
+        verify that this is Badesco B
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Badesco B
+        </indentifier>
+        <titleInfo>
+            <title>
+                Le Génération poétique de 1860, la jeunesse des deux rives, milieux d'avant-garde et mouvements littéraires, les oeuvres et les hommes
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Badesco, Luc
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Nizet, A.-G.
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1971
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    591n
+                </start>
+                <end>
+                    591n
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

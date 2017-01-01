@@ -1,0 +1,133 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9892
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/02/1862
+        </temporal>
+        <temporal point = "end">
+            08/02/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        2 VIII 62
+    </note>
+    <note type = "journal content">
+        La quatrième partie du Joueur d'échecs de Maelzel paraît dans le Monde illustré {1}.  La  Bibliographie de la France enregistre la publication par Hachette du quatrième volume des Poètes français.  Recueil des chefs d'oeuvre de la poésie française depuis les origines jusqu'à nos jours, avec une notice littéraire sur chaque poète: par MM Charles Asselineau, Hippolyte Rabou [Babou], Charles Baudelaire,  Théodore de Banville, Philoxène Boyer, Edouard Fournier etc {2}.  Ce volume est le seul de l'anthologie qui a eu du succès; il traite de la poésie depuis Lamartine.  On y trouve de Baudelaire sept notices littéraires, sur: Hugo, Marceline Desbordes-Valmore, Gautier, Banville, Pierre Dupont, Leconte de Lisle et Gustave Le Vavasseur; sept poèmes: L'Albatros, Réversibilité, Le Crépuscule du matin; La Cloche fêlée, Le Guignon, Les Hiboux, Les Petites Vieilles.  Ces poèmes sont précédés par une notice sur Baudelaire de Théophile Gautier.  Dans le même volume figure la notice  d'Hippolyte Babou sur Sainte-Beuve. Il y est suggéré que Baudelaire a trouvé "la monade" des Fleurs du mal ed. de 1857 dans le poème du lundiste: Rendez-vous ou bien dans celui intitulé La Veillée.  Philippe de Chennevières, dans sa notice sur Ernest Prarond, mentionne les premiers sonnets de Baudelaire, qui ont paru à l'époque de la publication de Vers {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

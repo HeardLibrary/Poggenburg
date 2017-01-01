@@ -1,0 +1,36 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8452
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/24/1857
+        </temporal>
+        <temporal point = "end">
+            04/24/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        24 IV 57
+    </note>
+    <note type = "journal content">
+        Baudelaire rencontre Fowler, libraire à la galerie Montpensier, Palais Royal.  Il apprend que ce dernier n'a pas reçu un livre que Baudelaire lui a envoyé il y a quelques jours.  Fowler l'avertit en outre de ce qu'il a envoyé peu avant à Baudelaire des brochures et des livres anglais. Cet envoi est arrivé d'abord chez lui, par un facteur  autre que le facteur habituel; celui-ci fait remarquer à Fowler qu'il y a à la grande-poste divers envois pour Baudelaire, dont on ne connaît pas l'adresse.  Baudelaire écrit au Directeur des Postes, de la rue Jean-Jacques Rousseau, pour demander comment ce facteur aurait connu ses rapports avec Fowler.  Il prie ce fonctionnaire de s'occuper de l'envoi destiné à Fowler, ainsi que tout autre envoi qui l'attend lui-même, donnant l'adresse du 19, quai Voltaire {1}. Le Voleur publie Le Lendemain de la fin du monde [Dialogue entre Eiros et Charmion] d'Edgar Allan Poe, dans la traduction de Baudelaire.  Le titre des Histoires extraordinaires est changé en Histoires invraisemblables {2}
+    </note>
+    <note type = "researcher notes">
+        Enter biblio. info. for BUBA. Also, 2nd reference missing.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BUBA T. XXXIV
+        </indentifier>
+    </relatedItem>
+</mods>

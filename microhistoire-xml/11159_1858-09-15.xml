@@ -1,0 +1,100 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11159
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/15/1858
+        </temporal>
+        <temporal point = "end">
+            09/15/1858
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        15 IX 58?
+    </note>
+    <note type = "journal content">
+        Baudelaire informe Henry de la Madelène qu'il verra Julien Turgan au lieu de Dalloz, qui partira ce soir pour un mois.  Ce dernier a tout lu de ce qu'on propose au Moniteur universel, où Dalloz et Turgan se succèdent à tour de rôle comme directeurs, tous les trente jours.  Il s'agit sans doute d'Un Mangeur d'opium dont Turgfan a lu la commencement, et qui paraîtra en fait en janvier 1860.  Henry de La Madelène semble jouer le rôle d'agent littéraire de Baudelaire  {1}
+    </note>
+    <note type = "researcher notes">
+        Date uncertain
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl93 I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I, 2e édition contenant un « supplément »
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1993
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1083
+                </start>
+                <end>
+                    1083
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>247</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

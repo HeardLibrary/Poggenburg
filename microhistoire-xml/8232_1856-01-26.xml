@@ -1,0 +1,153 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8232
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/26/1856
+        </temporal>
+        <temporal point = "end">
+            01/26/1856
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        26 I 56
+    </note>
+    <note type = "journal content">
+        Baudelaire travaille à la rédaction d'Edgar Poe, Sa Vie et ses oeuvres.  Il évoque la mort, il y a exactement un an, de Gérard de Nerval.  Pour se documenter sur Edgar Allan Poe Baudelaire se sert, entre  autres, de l'édition par James Hannay des Poetical Works de l'auteur américain, publiée à Londres en 1853 par Addey {1}. La santé de Mme Aupick s'améliore après des faiblesses de l'estomac et un grand amaigrissement pendant les quatre mois précédents.  Le couple Aupick est désireux de regagner leur "ermitage" d'Honfleu {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bandy K
+        </indentifier>
+        <titleInfo>
+            <title>
+                Edgar Allan Poe: sa vie et ses ouvrages
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Toronto ON</placeTerm>
+            </place>
+            <publisher>
+                University of Toronto Press
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    xxxviii
+                </start>
+                <end>
+                    xxxviii
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Romance Series
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>22</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    305
+                </start>
+                <end>
+                    305
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

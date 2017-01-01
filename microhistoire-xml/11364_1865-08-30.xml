@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11364
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/30/1865
+        </temporal>
+        <temporal point = "end">
+            08/30/1865
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        30 VIII 65
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis, qui ne voit presque plus Baudelaire, est persuadé que le poète aura perdu son temps en Belgique.  Ses études  ("Pauvre Belgique") ne sont que la justification de son parti-pris contre ce pays  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-APM
+        </indentifier>
+        <titleInfo>
+            <title>
+                Auguste Poulet-Malassis. L'Editeur de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Fayard
+            </publisher>
+            <dateIssued>
+                1996
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    180
+                </start>
+                <end>
+                    180
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

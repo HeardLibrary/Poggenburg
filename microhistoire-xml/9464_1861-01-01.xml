@@ -1,0 +1,179 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9464
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1861
+        </temporal>
+        <temporal point = "end">
+            01/31/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        début 61
+    </note>
+    <note type = "journal content">
+        Baudelaire rédige la page XI du Carnet.  Il a des dettes et des besoins d'argent qui se montent à 1600 francs; pourtant, 1200 lui suffiraient.  Baudelaire doit payer à Ravisé 500 francs, à Poulet-Malassis 150, à Torlot 200, à Jousset 200; il a besoin de 200 francs pour Jeanne et pour lui.  Parmi ses dettes urgentes figurent celles de Ravisé, de Jousset, de Ducreux, de Poulet-Malassis et de Bohné.  Jeanne Duval a un besoin immédiat d'argent, elle aussi.  Baudelaire compte toucher chez Texier, chez Lacaussade et chez Desaux un  total de 900 ou de 1500 francs.  Angel [Ange-Jean-Robert Eustache], Mme Aupick, de Saux et le Casino doivent recevoir des lettres de lui {1}. Baudelaire dépose à Jules de Saux, auprès du ministère de l'Instruction publique,  une demande de 500 francs pour lui et de 500 pour Guys.   Il accompagne cette demande d'un millier de dessins de Guys.  De Saux reçoit très aimablement Baudelaire et promet de le tenir au courant d'ici quelques jours {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            JI
+        </indentifier>
+        <titleInfo>
+            <title>
+                Journaux intimes. Fusées. Mon Coeur mis à nu. Carnet
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Blin, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Blin, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Librairie José Corti
+            </publisher>
+            <dateIssued>
+                1949
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    114, 238, 416
+                </start>
+                <end>
+                    114, 238, 416
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    131
+                </start>
+                <end>
+                    131
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

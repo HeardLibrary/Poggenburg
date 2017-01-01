@@ -1,0 +1,188 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6643
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/19/1841
+        </temporal>
+        <temporal point = "end">
+            10/19/1841
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        19 X 41
+    </note>
+    <note type = "journal content">
+        Le Paquebot des mers du sud quitte l'Ile Bourbon pour les Indes {1}. Le bateau a été réparé {2}. En partant, le capitaine Saliz remet à Judet de Beauséjour, capitaine de l'Alcide, la somme de 1500 francs, montant des frais de passage de Baudelaire.  A ce dernier, il donne ce qui reste de la somme de 1700 francs, "fortement écorné[s]" prévus pour ses frais à terre.  Pourtant Baudelaire, selon Saliz, a été "modéré dans ses dépenses" {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Foucque
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire aux Iles Maurice et Bourbon
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Foucque, H.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1930
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>La Grande Revue<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>mai</number>
+                    <caption>issue</caption>
+                </detail>
+                <detail type = "number">
+                    <number>132</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        390
+                    </start>
+                    <end>
+                        407
+                    </end>
+                </extent>
+                <date>05/01/1930</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Urruty
+        </indentifier>
+        <titleInfo>
+            <title>
+                Le voyage de Baudelaire aux Mascareignes
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Urruty, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Port Louis, Mauritius</placeTerm>
+            </place>
+            <publisher>
+                Éditions Hors Commerce
+            </publisher>
+            <dateIssued>
+                1968
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    41
+                </start>
+                <end>
+                    41
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            EJC
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire: étude biographique / d'Eugène Crépet, revue et mise à jour par Jacques Crépet, suivie des Baudelairiana d'Asselineau et de nombreuses lettres adressées à Ch. Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Eugène
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A. Messein
+            </publisher>
+            <dateIssued>
+                1906
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    221
+                </start>
+                <end>
+                    221
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

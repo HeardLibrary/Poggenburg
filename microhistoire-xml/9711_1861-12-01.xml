@@ -1,0 +1,145 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9711
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/01/1861
+        </temporal>
+        <temporal point = "end">
+            12/31/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        début XII 61
+    </note>
+    <note type = "journal content">
+        Dans le Bulletin de l'amateur, Eugene Piot, en remarquant la vente de Mme Sabatier, souligne la prépondérance des objets venant du XVIIIe siècle.  Une annonce paraît également dans le Moniteur des arts.  La somme réalisée par cette vente est de 43.000 francs {1}. Le Louvre acquiert le buste de Mme Sabatier, au prix de 3350 francs {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Billy D
+        </indentifier>
+        <titleInfo>
+            <title>
+                La pre?sidente et ses amis
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Billy, André
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Flammarion
+            </publisher>
+            <dateIssued>
+                1945
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    216-217
+                </start>
+                <end>
+                    216-217
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            DICO
+        </indentifier>
+        <titleInfo>
+            <title>
+                Iconographie de Charles Baudelaire, recueillie et commentée par Claude Pichois et François Ruchon
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruchon, François
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Geneva</placeTerm>
+            </place>
+            <publisher>
+                P. Cailler
+            </publisher>
+            <dateIssued>
+                1960
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    140
+                </start>
+                <end>
+                    140
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Collection Visages d'Hommes Célèbres
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>11</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

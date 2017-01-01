@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11021
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/04/1852
+        </temporal>
+        <temporal point = "end">
+            01/04/1852
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        4 I 52
+    </note>
+    <note type = "journal content">
+        Marie Daubrun écrit à George Sand une lettre pour demander son appui. La fermeture du théâtre de la Porte St. Martin l'a  fait émigrer à la Gaîté, où elle est maintenant pensionnaire.  Par engagement, elle a droit à une représentation à bénéfice, jouée à la Gaîté.  Bocage, qu'elle a consulté, l'a conseillée de s'adresser à George Sand, et de demander la permission de faire jouer Claudie `samedi 10.  Elle donne son adresse comme 36, rue du Chateau d'Eau à Paris  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

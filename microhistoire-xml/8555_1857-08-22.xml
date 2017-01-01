@@ -1,0 +1,66 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8555
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/22/1857
+        </temporal>
+        <temporal point = "end">
+            08/22/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        entre le 22 VIII et le 17 X 57
+    </note>
+    <note type = "journal content">
+        On tire la quatrième et dernière couverture des Fleurs du mal ed. de 1857 {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Vicaire
+        </indentifier>
+        <titleInfo>
+            <title>
+                Manuel de l'amateur de livres du XIXe siècle, 1801-1893
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Vicaire, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Librairie A. Rouquette
+            </publisher>
+            <dateIssued>
+                1974-75
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

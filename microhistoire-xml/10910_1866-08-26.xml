@@ -1,0 +1,139 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10910
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/26/1866
+        </temporal>
+        <temporal point = "end">
+            08/26/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        26 VIII 66
+    </note>
+    <note type = "journal content">
+        Dans la Lune,  Emile Blondet donne un sonnet  "à la façon de Baudelaire" {1}. La veille de son départ pour la Suisse, Ancelle se rend en visite chez Baudelaire.  Leur longue conversation a porté sur les vêtements nouveaux que voudrait Baudelaire, surtout un paletot.  Ancelle a écrit tout de suite à son tailleur de venir prendre des mesures et lui a recommandé de demander M. Moreau, celui des pensionnaires que Baudelaire voit le plus.  Baudelaire aurait réclamé ses vêtements plus tard à Asselineau, qui n'y comprenait rien avant une explication de Mme Aupick.  Lors de la visite d'Ancelle Baudelaire a essayé de communiquer par gestes un besoin qu'il ressent.  Il montrait son oreille et son col.  Parlait-il de son oreiller, trop dure?  Personne ne pouvait  deviner.  Pendant une autre visite, il s'était mis à deux fois à genoux et leur a montré sa bouche avec sa main, puis a dirigé son bras du côté du jardin.  Le mystère reste entier, pour Mme Aupick et pour ceux qui entourent Baudelaire {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BJ
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire judged by his contemporaries (1845-1867)
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">New York</placeTerm>
+            </place>
+            <publisher>
+                Columbia University Press
+            </publisher>
+            <dateIssued>
+                1933
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    96
+                </start>
+                <end>
+                    96
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Publications of the Institute of French Studies, Inc.
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    71
+                </start>
+                <end>
+                    71
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

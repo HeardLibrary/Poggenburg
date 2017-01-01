@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11323
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/05/1864
+        </temporal>
+        <temporal point = "end">
+            03/05/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        5 III 64
+    </note>
+    <note type = "journal content">
+        Aurélien Scholl, dans le Nain jaune voit les éléctions à l'Académie française comme une "conspiration des quarante". Il choisit Baudelaire comme l'exemple d'un poète original et fier forcé d'accepter comme juge un académicien comme Villemain. Charles Valette raconte quatre anecdotes sur Baudelaire: il est difficile d'abord et volontiers cassant pour un jeune poète toulousain qui essaye de lui serrer la main ayant été présenté à lui; Baudelaire tient les Fleurs du mal ed. de 1857 pour le livre le plus moral de la société; ayant trouvé ses Fleurs du mal ed. de 1857 dams la loge d'une actrice qui l'a acheté seulement parce qu'elle a entendu dire qu'il était polisson et qu'elle n'a pas même lu, il prend son chapeau et sort sans dire un mot; enfin, Valette raconte qu'un jeune poète qui lui a dédié un poème a estropié son nom Beaudelaire, provocant le refus des vers par son aîné  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

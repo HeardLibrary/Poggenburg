@@ -1,0 +1,69 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9612
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/01/1861
+        </temporal>
+        <temporal point = "end">
+            06/30/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env VI 61
+    </note>
+    <note type = "journal content">
+        Baudelaire donne à Paul de Saint-Victor un exemplaire des Fleurs du mal ed. de 1861 avec une dédicace: "témoignage d'amitié", en indiquant dans une note les noms des poèmes supprimés en 1857.  Baudelaire répertorie dans la table des matières toutes les pièces nouvelles et déclare que toutes les anciennes  ont été remaniées {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Cat97
+        </indentifier>
+        <titleInfo>
+            <title>
+                Catalogue d'ouvrages d'auteurs du XIXe sie?cle et contemporains en e?ditions originales et quelques livres anciens composant la bibliothe?que de Fernand Vande?rem
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                L. Giraud-Badin
+            </publisher>
+            <dateIssued>
+                1939
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Catalog
+        </genre>
+        <note type = "source note">
+            No. 97
+        </note>
+    </relatedItem>
+</mods>

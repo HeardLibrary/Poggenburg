@@ -1,0 +1,146 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6854
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/21/1844
+        </temporal>
+        <temporal point = "end">
+            08/21/1844
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        21 VIII 44
+    </note>
+    <note type = "journal content">
+         Aupick est nommé chef d'état-major général du corps d'opérations de la Moselle {1}. Il y commence son service {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Girard
+        </indentifier>
+        <titleInfo>
+            <title>
+                Un Ennemi de Baudelaire: le général Aupick
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Girard, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1922
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    280
+                </start>
+                <end>
+                    280
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>La Revue de la Semaine<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>19 mai</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        264
+                    </start>
+                    <end>
+                        286
+                    </end>
+                </extent>
+                <date>05/19/1922</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    165
+                </start>
+                <end>
+                    165
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

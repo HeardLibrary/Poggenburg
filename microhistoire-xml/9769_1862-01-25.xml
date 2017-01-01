@@ -1,0 +1,118 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9769
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/25/1862
+        </temporal>
+        <temporal point = "end">
+            01/25/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        25 I 62
+    </note>
+    <note type = "journal content">
+        Dans la Revue nationale et étrangère, Alfred Blot écrit sur les Martyrs ridicules une critique moralisatrice, rejetant le jugement de Baudelaire, exprimé dans la préface à cet ouvrage, selon lequel ce livre est une satire {1}.  Dans le Papillon, Eliacim Jourdain dédie à Baudelaire un sonnet: Le Désespéré {2}.  Flaubert reçoit la lettre de Baudelaire demandant son appui auprès de Jules Sandeau {3}. Gerbé de Thoré, procureur impérial à Fontainebleau, rédige sur C.-A. Baudelaire un rapport à l'occasion de sa demande de mise à la retraite.  Ce rapport souligne l'énergie et la fidélité de Claude-Alphonse dans l'exercice de ses fonctions.  Il y évoque le sacrifice de sa fortune personnelle (300.000 francs) pour sauver l'honneur de son beau-frère (frère de sa femme) industriel malheureux, qui subit le contre-coup de l'appauvrissement de l'Etat.  Les revenus personnels de C.-A. Baudelaire sont actuellement de 800 francs environ {4}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Flaubert
+        </indentifier>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Nouvion
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    158
+                </start>
+                <end>
+                    158
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

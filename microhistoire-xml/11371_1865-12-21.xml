@@ -1,0 +1,87 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11371
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/21/1865
+        </temporal>
+        <temporal point = "end">
+            12/21/1865
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+         add to: 21 XII 65
+    </note>
+    <note type = "journal content">
+        Baudelaire rejette l'idée qu'il soit affecté par les déclarations d'Henri Rochefort, pour lui un petit journaliste  {1}
+    </note>
+    <note type = "researcher notes">
+        Second edition addendum
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Lazard-Brun
+        </indentifier>
+        <titleInfo>
+            <title>
+                Une Lettre de Baudelaire à Michel Lévy
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Lazard-Brun, Victoria
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1984
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin Baudelairien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>19</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>1</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        15
+                    </start>
+                    <end>
+                        19
+                    </end>
+                </extent>
+                <date>04/01/1984</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

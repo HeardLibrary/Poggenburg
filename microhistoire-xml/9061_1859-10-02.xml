@@ -1,0 +1,140 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9061
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/02/1859
+        </temporal>
+        <temporal point = "end">
+            10/02/1859
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        2? X 59
+    </note>
+    <note type = "journal content">
+        Delacroix s'excuse auprès de Baudelaire de ne pouvoir le recevoir en compagnie de Poulet-Malassis à l'heure convenue.  Ils doivent  lui apporter des dessins.  Il propose de remettre cette visite à la semaine suivante {1}.
+    </note>
+    <note type = "researcher notes">
+        Date uncertain
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Delacroix A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Journal de Eugène Delacroix. Précédé d'une étude sur le maître par M. Paul Flat. Tome III
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Delacroix, Eugène
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Plon, Nourrit et C.ie
+            </publisher>
+            <dateIssued>
+                1893
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    III:140
+                </start>
+                <end>
+                    III:140
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            LAB
+        </indentifier>
+        <titleInfo>
+            <title>
+                Lettres à Charles Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Neuchâtel</placeTerm>
+            </place>
+            <publisher>
+                Éditions la Baconnière
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    118
+                </start>
+                <end>
+                    118
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Études Baudelairiennes: nouvelles séries
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>4</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

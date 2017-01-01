@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8266
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/26/1856
+        </temporal>
+        <temporal point = "end">
+            04/26/1856
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        26 IV 56
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis et De Broise informent le Préfet de l'Oise de leur intention de publier le Journal d'Alençon deux fois par semaine à partir du ler mai {1}.   Fin de la publication, dans The Musical World (Londres), de la traduction en anglais d'Oper und Drama, par Wagner {2}. La Bibliographie de la France enregistre Chants et chansons de Pierre Dupont contenant la notice de Baudelaire sur le chansonnier.  Cette publication, ayant paru en fascicules de 1852-1854, est éditée chez Houssiaux {3}.
+    </note>
+    <note type = "researcher notes">
+        2nd reference missing
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatPM
+        </indentifier>
+        <titleInfo>
+            <title>
+                Auguste Poulet-Malassis: Catalogue de l'exposition organise?e a? la Bibliothe?que d'Alenc?on par les Amitie?s litte?raires et Artistiques, avec le concours de la municipalite?, de l'imprimerie alenc?onnaise et des collections publiques et prive?es pour les centie?me anniversaire de l'e?dition des Fleurs du Mal
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Launay, Jean Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Alençon</placeTerm>
+            </place>
+            <publisher>
+                Imprimerie Alençonnaise
+            </publisher>
+            <dateIssued>
+                1957
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    20
+                </start>
+                <end>
+                    20
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+    </relatedItem>
+</mods>

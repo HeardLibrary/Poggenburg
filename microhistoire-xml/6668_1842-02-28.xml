@@ -1,0 +1,211 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6668
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/28/1842
+        </temporal>
+        <temporal point = "end">
+            02/28/1842
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        fin II 42
+    </note>
+    <note type = "journal content">
+        De retour à Paris {1}, Baudelaire habite à l'Ecole d'Application, 136, rue de Grenelle-Saint-Germain. Il se lie davantage d'amitié avec Ernest Prarond. Ils "vagabondaient" beaucoup ensemble, allant dîner au marchand de vin Duval, au coin de la rue Voltaire et de la place de l'Odéon, à la Tour d'argent [près du pont qui mène au quai de Béthune], souvent hors barrière, du  côté de Plaisance, ou au Moulin de Montsouris, au delà du faubourg Saint-Jacques, dans un cabaret [peut-être celui de la mère Saguet] {2,3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    740
+                </start>
+                <end>
+                    740
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Mouquet D
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire quai de Béthune
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Mouquet, Jules
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1949
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>305</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>1028</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        758
+                    </start>
+                    <end>
+                        763
+                    </end>
+                </extent>
+                <date>04/01/1949</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BET
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire. Etudes et témoignages
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Neuchâtel</placeTerm>
+            </place>
+            <publisher>
+                Éditions la Baconnière
+            </publisher>
+            <dateIssued>
+                1967
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    15-16
+                </start>
+                <end>
+                    15-16
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

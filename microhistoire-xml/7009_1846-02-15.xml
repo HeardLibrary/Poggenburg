@@ -1,0 +1,116 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7009
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/15/1846
+        </temporal>
+        <temporal point = "end">
+            02/15/1846
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        15 II 46
+    </note>
+    <note type = "journal content">
+        Lettre d'Asselineau à Nadar, décrivant une rencontre avec Baudelaire; ils semblent brouillés {1}. Dans la Gazette de France, en feuilleton, paraissent de longs extraits du Siècle, épître de Bathilde Bouniol.  Baudelaire fera du texte original le sujet d'un petit article critique dans le Corsaire Satan du 3 de ce mois {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BN14260
+        </indentifier>
+        <titleInfo>
+            <title>
+                Lettres de Marie-Amélie de Bourbon (duchesse d'Orléans puis reine des Français) à Vincenza Rizzi et à Carmela et Paolo D'Ambrosio, 1/18/1807 - 12/21/1819
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Marie-Amélie de Bourbon
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1807-1819
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Letter
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Robb E
+        </indentifier>
+        <titleInfo>
+            <title>
+                Le Siècle de Bathilde Bouniol
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Robb, Graham
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1989
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin Baudelairien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>24</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>2</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        49
+                    </start>
+                    <end>
+                        55
+                    </end>
+                </extent>
+                <date>12/01/1989</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,105 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11320
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/16/1864
+        </temporal>
+        <temporal point = "end">
+            01/16/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        16 I 64
+    </note>
+    <note type = "journal content">
+        Courbet écrit à Castagnary, en décrivant son tableau La Source d'Hippocrène, allégorie moqueuse de la poésie contemporaine, cette toile fut accidentée avant d'être envoyée au Salon.  Baudelaire y figure sous le même aspect qu'il a dans L'Atelier du peintre {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Haddad
+        </indentifier>
+        <titleInfo>
+            <title>
+                Courbet et le milieu littéraire de son temps: les actionnaires de l'Atelier
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Haddad, Michèle
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Ornans</placeTerm>
+            </place>
+            <publisher>
+                Institut Gustave Courbet
+            </publisher>
+            <dateIssued>
+                1989
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    01/01/1960
+                </start>
+                <end>
+                    01/01/1960
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <part>
+                <extent unit = "page">
+                    <start>
+                        1
+                    </start>
+                    <end>
+                        60
+                    </end>
+                </extent>
+                <date>01/01/1989</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Association des Amis de Gustave Courbet, Bulletin
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>81</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            Corrected 11/1/2016
+        </note>
+    </relatedItem>
+</mods>

@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11326
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/17/1864
+        </temporal>
+        <temporal point = "end">
+            04/17/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        17 IV 64
+    </note>
+    <note type = "journal content">
+        Les Ecoles de France donne, signés Charles Longuet, deux articles protestant contre la lettre de Baudelaire au Figaro Hugo  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Badesco B
+        </indentifier>
+        <titleInfo>
+            <title>
+                Le Génération poétique de 1860, la jeunesse des deux rives, milieux d'avant-garde et mouvements littéraires, les oeuvres et les hommes
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Badesco, Luc
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Nizet, A.-G.
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1971
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    101
+                </start>
+                <end>
+                    101
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

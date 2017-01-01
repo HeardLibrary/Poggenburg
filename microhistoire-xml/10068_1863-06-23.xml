@@ -1,0 +1,87 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10068
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/23/1863
+        </temporal>
+        <temporal point = "end">
+            06/23/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        23 VI 63
+    </note>
+    <note type = "journal content">
+        Duruy remplace Rouland comme ministre de l'Instruction publique {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ferran
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire: autour du voyage en Belgique
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Ferran, André
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Toulouse</placeTerm>
+            </place>
+            <dateIssued>
+                1931
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>L'Archer<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>2</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>11</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        303
+                    </start>
+                    <end>
+                        309
+                    </end>
+                </extent>
+                <date>11/01/1931</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

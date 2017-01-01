@@ -1,0 +1,169 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9710
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/01/1861
+        </temporal>
+        <temporal point = "end">
+            12/01/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1 XII 61
+    </note>
+    <note type = "journal content">
+        Leconte de Lisle publie un article bienveillant sur Baudelaire dans la Revue européenne {1}.  Le dessinateur Carjat fonde le Boulevard.  Le numéro spécimen de ce journal reproduit la caricature de Durandeau: Les Nuits de Monsieur Baudelaire.  Baudelaire est nommé parmi les collaborateurs de ce journal. Dans ce numéro, Théodore de Banville rédige un article pour corriger l'image de Baudelaire suggérée par la caricature de Durandeau. Comme preuve il cite un passage de l'Invitation au voyage {2}.  numéro de la Chronique des arts et de la curiosité annonce la vente des objets d'art de Mme Sabatier {3}.
+    </note>
+    <note type = "researcher notes">
+        The beginning of the last sentence of this entry is still missing.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BJ
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire judged by his contemporaries (1845-1867)
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">New York</placeTerm>
+            </place>
+            <publisher>
+                Columbia University Press
+            </publisher>
+            <dateIssued>
+                1933
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    54
+                </start>
+                <end>
+                    54
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Publications of the Institute of French Studies, Inc.
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Billy D
+        </indentifier>
+        <titleInfo>
+            <title>
+                La pre?sidente et ses amis
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Billy, André
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Flammarion
+            </publisher>
+            <dateIssued>
+                1945
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    215
+                </start>
+                <end>
+                    215
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

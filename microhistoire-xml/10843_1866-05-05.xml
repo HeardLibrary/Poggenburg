@@ -1,0 +1,111 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10843
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/05/1866
+        </temporal>
+        <temporal point = "end">
+            05/05/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        5 V 66
+    </note>
+    <note type = "journal content">
+        Ernest Lebloys avise Nadar qu'il lui a laissé un mot; il affirme avoir été approuvé par Baudelaire alors que ce dernier était en pleine possession de ses facultés {1}. La Petite Revue annonce que les médecins de Baudelaire ont diagnostiqué une lésion du cerveau.  Dans le même numéro, on donne le sonnet de Vacquerie dont Sonnet burlesque est une parodie {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BN24275
+        </indentifier>
+        <titleInfo>
+            <title>
+                Lettre n. 514 de la Collection d'autographes formée par Félix et Paul Nadar: XVI La Fayette-Lamaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Letter
+        </genre>
+        <note type = "source note">
+            DATE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OP I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Juvenalia. Oeuvres posthumes. Reliquiae I
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Éditions Louis Conard
+            </publisher>
+            <dateIssued>
+                1939
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    388
+                </start>
+                <end>
+                    388
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

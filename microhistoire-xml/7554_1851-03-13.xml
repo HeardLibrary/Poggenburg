@@ -1,0 +1,111 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7554
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/13/1851
+        </temporal>
+        <temporal point = "end">
+            03/13/1851
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        13 III 51
+    </note>
+    <note type = "journal content">
+        Dans le Messager des théâtres paraît une lettre de G. Sand félicitant la troupe de la Porte-Saint-Martin. Marie Daubrun est décrite ainsi: "La belle Madame Daubrun à la voix harmonieuse, au jeu digne dans la franchise et la rondeur" {1}.  G. Sand répètera cette phrase dans la préface qu'elle donnera à la publication de cette pièce {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Feuillerat A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire et la belle aux cheveux d'or
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Feuillerat, Albert
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">New Haven CT</placeTerm>
+            </place>
+            <publisher>
+                Yale University Press
+            </publisher>
+            <dateIssued>
+                1941
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    86
+                </start>
+                <end>
+                    86
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

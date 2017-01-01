@@ -1,0 +1,91 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11060
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/25/1854
+        </temporal>
+        <temporal point = "end">
+            07/25/1854
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        aprês le 25 VII 54
+    </note>
+    <note type = "journal content">
+        Baudelaire annote une cooupure du texte publié au Pays des Histoires extraordinaires, portant la dédicace à Maria Clemm.  Là-dessus il dresse la liste des ouvrages d'Edgar Allan Poe à faire relier chez Capé:  The Literati; Tales; Tales and poems; Tales and sketches; Marsile Ficin [sic].  Puis, à la fin "des petits livres" édités chez Janet, par exemple sur Hegel et traduit par Jean Wallon et H. Sloman.  En deuxième place sur la liste les titres des volumes destinés à être reliés par Tripon: cinq volumes de Swedenborg, de Barbara, puis "un livret de salon" et "un paquet de brochures".  Dernier mot de la liste: "Clairon"  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OCPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome II
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1220
+                </start>
+                <end>
+                    1220
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

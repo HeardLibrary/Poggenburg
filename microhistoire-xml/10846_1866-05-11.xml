@@ -1,0 +1,36 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10846
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/11/1866
+        </temporal>
+        <temporal point = "end">
+            05/11/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        11 V 66
+    </note>
+    <note type = "journal content">
+        Swinburne, dans le Report of the Anniversary Dinner of the Royal Literary Fund, appelle Baudelaire "one of the most exquisite, most delicate, most perfect poets of the century." Le dîner a lieu à cette date {1}.
+    </note>
+    <note type = "researcher notes">
+        Fix first reference
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Delattre
+        </indentifier>
+    </relatedItem>
+</mods>

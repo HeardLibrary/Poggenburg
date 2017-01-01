@@ -1,0 +1,132 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6624
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/08/1841
+        </temporal>
+        <temporal point = "end">
+            08/08/1841
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        8 VIII 41
+    </note>
+    <note type = "journal content">
+        Vers midi, une tempête se déclare.  Dans l'après-midi, le temps se détériore et le Paquebot... est obligé de naviguer presque toutes voiles dehors.  A 5h, le bateau est pris dans un violent tourbillon et une tornade casse trois voiles et deux mâts, couchant le vaisseau sur le côté, à tribord. Le bateau garde une demi-heure cette position, puis se rétablit.   A ce moment, on coupe la partie gênante de ce qui a été endommagé.  Puis le bateau se remet en bonne position après une action à laquelle Baudelaire prend part.  Lui et le second de bord réussissent à faire poser contre ce qui restait des haubans tendus une toile goudronnée.  La violence du vent projeté contre cette surface arrive à relever le navire.  La tempête s'éloigne et le bateau se stabilise jusqu'au lendemain matin, moment où revient le beau temps {1,2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Urruty
+        </indentifier>
+        <titleInfo>
+            <title>
+                Le voyage de Baudelaire aux Mascareignes
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Urruty, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Port Louis, Mauritius</placeTerm>
+            </place>
+            <publisher>
+                Éditions Hors Commerce
+            </publisher>
+            <dateIssued>
+                1968
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    36-37
+                </start>
+                <end>
+                    36-37
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    146
+                </start>
+                <end>
+                    146
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

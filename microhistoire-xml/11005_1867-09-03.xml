@@ -1,0 +1,209 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11005
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/03/1867
+        </temporal>
+        <temporal point = "end">
+            09/03/1867
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        3 IX 67
+    </note>
+    <note type = "journal content">
+        Figaro rapporte le fait qu'Alfred d'Aunay a vu le corps de Baudelaire {1}.  A. Vitu, dans l'Etendard, révèle que l'assistance à la chapelle comprenait: Jean Wallon; Banville; Asselineau; Champfleury; Monselet; Nadar; Veuillot; A. Houssaye; Th. Silvestre; A. Stevens; le Dr Piogey; Vitu lui-même.  Ancelle conduit le cortège. Vitu remarque également la présence, entre beaucoup d'autres hommes de lettres et artistes, de: Houssaye fils; Manet; Bracquemond; Pothey; Fantin-Latour; Verlaine; Calmann-Lévy; Ducessois; Lemerre {2}. Des articles nécrologiques paraissent dans: l'Avenir national, d'A. Desonnaz; dans le Précurseur (Anvers); dans Liberté, par Georges Sauton; dans l'Univers, par Louis Veuillot {3}.  Victor Noir, dans le Journal de Paris, donne une notice.  Dans la Revue de poche, l'Indépendance belge, le Pays et le Constitutionnel paraissent des articles anonymes. C'est dans le Constitutionnel qu'est publiée l'annonce de la famille {4}. Poulet-Malassis exprime à Asselineau son angoisse en apprenant la mort de Baudelaire.  Il voudrait avoir l'adresse de Mme Aupick à Paris. Poulet-Malassis désirerait avoir le droit de publier une édition ornée des Fleurs du mal ed. de 1857, hors commerce, tirée à 100 exemplaires.  Il révèle aussi son intention de publier sur son ami disparu un petit livre, au même nombre, et dans les mêmes conditions.  Les seuls articles de journal qu'il ait vu était de la main de X. Feyrnet [pseudonyme d'Albert Kaempfen] dans le Temps de ce jour et ceux coupés dans L'Etoile belge qu'il joint à sa lettre. Poulet-Malassis termine avec la pensée qu'il ne pourrait pas envisager sa vie s'il perdait à la mort quelques-uns de ses meilleurs amis {4}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BJ
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire judged by his contemporaries (1845-1867)
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">New York</placeTerm>
+            </place>
+            <publisher>
+                Columbia University Press
+            </publisher>
+            <dateIssued>
+                1933
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    22--102
+                </start>
+                <end>
+                    22--102
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Publications of the Institute of French Studies, Inc.
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    99
+                </start>
+                <end>
+                    99
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

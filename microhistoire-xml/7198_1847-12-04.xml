@@ -1,0 +1,107 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7198
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/04/1847
+        </temporal>
+        <temporal point = "end">
+            12/04/1847
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        4 XII 47
+    </note>
+    <note type = "journal content">
+        Baudelaire écrit à Mme Aupick pour demander de quoi vivre pendant une vingtaine de jours. Il a utilisé l'argent donné par Mme Aupick pour acheter du mobilier indispensable mais il lui en manque toujours après avoir tout depensé.  En outre, il a dû subir une longue discussion avec Ancelle pour recevoir les fonds nécessaire à l'achat du charbon et du bois.  Toujours à l'hôtel où il est tombé le lundi précédent, Baudelaire n'a dépensé que peu, 30 ou 35 francs en une semaine mais il ne lui reste rien maintenant.  Malgré son sentiment d'être la victime de sa propre oiseveté, Baudelaire supplie sa mère de lui envoyer non seulement la somme en question [elle n'est pas précisée] mais également assez pour vivre tranquillement une vingtaine de jours. Des gens qu'il a connus à l'Ile de France lui ont offert le poste de précepteur dans leur famille.  Il a jusqu'au mois de février pour leur répondre. Il croit maintenant qu'il n'acceptera point de retourner aux tropiques. Baudelaire projette de commencer en janvier des histoires de la caricature et de la sculpture (lesquelles lui sont demandées depuis huit mois, mais qu'il n'a pas faites).  Il songe également à écrire des romans, mais il vit dans le besoin, et déclare que depuis quelques mois il est victime d'"un état surnaturel".  Ce qu'il désire le plus, c'est pouvoir disposer librement de sa fortune {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    142
+                </start>
+                <end>
+                    142
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

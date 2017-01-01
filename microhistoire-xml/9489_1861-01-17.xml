@@ -1,0 +1,242 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9489
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/17/1861
+        </temporal>
+        <temporal point = "end">
+            01/17/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 17 I 61
+    </note>
+    <note type = "journal content">
+        Baudelaire dresse la liste des envois des Fleurs du mal ed. de 1861. Pour lui-même, il voudrait 20 exemplaires, demandant à Poulet-Malassis combien d'entre eux seraient sur chine ou sur fil.  Le service de Presse est destiné à Paris, à la Belgique et à l'Angleterre,  pour une partie, il est accompagné par une lettre de Baudelaire:  Revue des deux mondes  (Buloz); Revue européenne (Lacaussade, Gustave Rouland); le Monde illustré (Gozlan); le Moniteur (Sainte-Beuve); le Journal des débats (Deschanel, Cuvillier-Fleury); la  Presse (Paul de Saint-Victor, Arsène Houssaye);  le Pays (Barbey d'Aurevilly); le Salut public [Lyon]  (Armand Fraisse);  le Nord (Jules Janin);  pour une autre il ne comporte pas de lettre:  (de Calonne);  la Revue contemporaine; la  Revue britannique; le Correspondant (Baudelaire ne sait qui y désigner); l'Illustration (de Wailly, peut-être); le Constitutionnel (Grandguillot,--A. Vitu écrirait une note, pense-t-il); le Siècle (Taxile Delord);  la Patrie (Edouard Fournier); l'Opinion nationale (Levallois);  l'Union (A. de Pontmartin); Gazette de France (Guttinguer); la Revue anecdotique (L. Larchey); la Revue de Genève; Figaro (Ch. Monselet); le Journal amusant (Nadar);  l'Artiste (A. de la Fizelière). Est envoyé aussi un exemplaire avec une lettre à "De Ronsard" en raison des  relations de Victor-Charles Dronsard, du ministère de  l'Intérieur, avec 200 journaux.  Le service de presse destiné à l'Angleterre comprend: The Times; Thackeray's Cornhill Magazine (avec une lettre); The Examiner; The Spectator; The Athenaeum; The Literary Gazette; The Press; Frazer's Magazine [sic]; Blackwood's Magazine; Westminster Review; Edinburgh Review; Quarterly Review. Baudelaire prie Poulet-Malassis d'envoyer de sa part un exemplaire à Banville ("A mon vieil ami / Théodore de Banville, / Charles Baudelaire") {1}; à Gautier et à Leconte de Lisle.  Baudelaire a trouvé quelqu'un pour s'occuper de la distribution aux journaux de Londres.  Il voudrait avoir  communication de toute note qu'écrirait Poulet-Malassis sur l'édition, pour la faire passer dans une centaine de journaux de province {2}. Poulet-Malassis annote cette liste: il refuse à Baudelaire les exemplaires sur papier fort, disant que Baudelaire pourrait en tirer lui-même, à ses frais; il biffe, le jugeant inutile, le nom de Cuvillier-Fleury; la Presse ne doit recevoir qu'un seul exemplaire; pour Delord et Fournier, il faut avoir leur promesse d'écrire un article avant de donner quoi que ce soit;  pour l'Indépendance belge, Poulet-Malassis suggère L. Ulbach; il croit inutile de rien demander au Figaro; tous les envois à Londres sont déconseillés par Poulet-Malassis qui refuse de les prendre à sa charge; enfin, Poulet-Malassis s'oppose au désir de Baudelaire d'envoyer des exemplaires à Banville, à Gautier et à Leconte de Lisle, pensant que Baudelaire pourrait le faire lui-même, avec ses exemplaires d'auteur {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    387
+                </start>
+                <end>
+                    387
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    125
+                </start>
+                <end>
+                    125
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    708-712
+                </start>
+                <end>
+                    708-712
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

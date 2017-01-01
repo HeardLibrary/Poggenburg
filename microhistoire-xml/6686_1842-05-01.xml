@@ -1,0 +1,94 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6686
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            04/22/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/01/1842
+        </temporal>
+        <temporal point = "end">
+            05/31/1842
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        V 42
+    </note>
+    <note type = "journal content">
+        Dans la cinquième livraison de ses Historiettes contemporaines, Eugène Briffault raconte l'anecdote d'un homme qui prétend ne pas connaître Victor Hugo {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Delesalle A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Miettes baudelairiennes
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Delesalle, Jean-François
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1963
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    113
+                </start>
+                <end>
+                    113
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Revue d'Histoire Littéraire de la France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>63</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>1</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        113
+                    </start>
+                    <end>
+                        117
+                    </end>
+                </extent>
+                <date>01/01/1963</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

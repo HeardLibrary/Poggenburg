@@ -1,0 +1,191 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9462
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1861
+        </temporal>
+        <temporal point = "end">
+            12/31/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        vers 1861
+    </note>
+    <note type = "journal content">
+        Carjat photographie Baudelaire en buste, avec une large cravate; puis, sans doute le même jour, à mi-corps.  Nadar reproduit cette photographie {1}.  Charles Giraud fait une caricature de Baudelaire {2}.
+    </note>
+    <note type = "researcher notes">
+        only 2 notes are indicated in the text; Date uncertain
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatBN57
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Bibliothèque Nationale de France
+            </publisher>
+            <dateIssued>
+                1957
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    108
+                </start>
+                <end>
+                    108
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CML II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres Complètes. Édition présentée dans l'ordre chronologique et établie sur les textes authentiques avec des variantes inédites et une annotation originale
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Austin, Lloyd James
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Club du Meilleur Livre
+            </publisher>
+            <dateIssued>
+                1955
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    pl.70
+                </start>
+                <end>
+                    pl.70
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CML II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres Complètes. Édition présentée dans l'ordre chronologique et établie sur les textes authentiques avec des variantes inédites et une annotation originale
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Austin, Lloyd James
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Club du Meilleur Livre
+            </publisher>
+            <dateIssued>
+                1955
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    pl.71
+                </start>
+                <end>
+                    pl.71
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

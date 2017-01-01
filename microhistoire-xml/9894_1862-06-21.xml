@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9894
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/21/1862
+        </temporal>
+        <temporal point = "end">
+            09/22/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        été 62?
+    </note>
+    <note type = "journal content">
+        Baudelaire répond négativement à l'invitation d'un "cher monsieur" anonyme [Edouard Houssaye?].  Il invoque un important travail à achever et qui devrait être prêt dès le retour du frère de son correspondant anonyme {1}.
+    </note>
+    <note type = "researcher notes">
+        reference missing.; Date uncertain
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Tabarant A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Manet. Histoire catalographique
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Tabarant, Adolphe
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <publisher>
+                Montaigne
+            </publisher>
+            <dateIssued>
+                1931
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    88
+                </start>
+                <end>
+                    88
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

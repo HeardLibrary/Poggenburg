@@ -1,0 +1,618 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6794
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1844
+        </temporal>
+        <temporal point = "end">
+            12/31/1844
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1844
+    </note>
+    <note type = "journal content">
+        La Fontaine de Jouvence, tableau de William Haussoulier, est exposé à Londres, à la Royal Academy {1}. Emile Deroy fait le portrait de Baudelaire, en quelques séances à la Tour d'Argent, alors restaurant de mariniers, et d'après ce portrait, une lithographie {2}. A ces séances, au nombre  de quatre, assistent Arondel, Léon Fauré, Nadar et Songeon {3}. Mascagna publie Les Polkeuses, poème de "Nick Polkmar" {4}. On y trouve le nom de "Fanfarnou", origine probable de celui de l'héroïne de La Fanfarlo {5}. Poulet-Malassis rédige le prospectus de la Revue littéraire de l'Orne, qui ne paraîtra pourtant pas {6}.  A la suite d'une liaison commençée plus tôt, Mme Sabatier devient maîtresse de Richard Wallace (qui se fait appeler Richard Jackson, nom de sa mère), commerçant en objets d'art à Paris {7}. Ce sera lorsqu'il héritera plus tard de sa fortune que Jackson prendra le nom de Wallace.  Puis, vers cette même année Aglaé devient la maîtresse du sculpteur Auguste-Stello Clésinger, et la restera jusqu'en 1846, lorsqu'elle devient maîtresse d'Alfred Mosselmann {8}. Nathaniel P. Willis visite le continent européen.  Il a 34 ans {9}.  Baudelaire rédige une version d'Une Gravure fantastique qui sera trouvée parmi les papiers de V. Hugo à sa mort {10}.
+    </note>
+    <note type = "researcher notes">
+        Is there a page # for the last reference? Also, verify page # for Vapereau reference (the book is only 1862 pages in length).
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Mayne
+        </indentifier>
+        <titleInfo>
+            <title>
+                The Mirror of Art: critical studies by Charles Baudelaire. Translated and edited with Notes and Illustrations by Jonathan Mayne.
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Mayne, Jonathan
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Garden City NY</placeTerm>
+            </place>
+            <publisher>
+                Doubleday Anchor Books
+            </publisher>
+            <dateIssued>
+                1956
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    9
+                </start>
+                <end>
+                    9
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatBN57
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Bibliothèque Nationale de France
+            </publisher>
+            <dateIssued>
+                1957
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    105
+                </start>
+                <end>
+                    105
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ziegler C
+        </indentifier>
+        <titleInfo>
+            <title>
+                Emile Deroy (1820-1846) et l'esthétique de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    155
+                </start>
+                <end>
+                    155
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Gazette des Beaux-Arts<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>81</number>
+                    <caption>volume</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        153
+                    </start>
+                    <end>
+                        160
+                    </end>
+                </extent>
+                <date>05/01/1976</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    6
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bandy et Mouquet
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire en 1848
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Mouquet, Jules
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Émile-Paul Frères
+            </publisher>
+            <dateIssued>
+                1946
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    7
+                </start>
+                <end>
+                    7
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Dufay C
+        </indentifier>
+        <titleInfo>
+            <title>
+                Autour de Baudelaire: Poulet-Malassis, l'éditeur et l'ami; Madame Sabatier, la muse et la madone
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Dufay, Pierre
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Cabinet du Livre
+            </publisher>
+            <dateIssued>
+                1931
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    78
+                </start>
+                <end>
+                    78
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ziegler B
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelairiana: Mme Sabatier (1822-1890). Quelques notes biographiques
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1977
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    369
+                </start>
+                <end>
+                    369
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>3 and 4</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        366
+                    </start>
+                    <end>
+                        382
+                    </end>
+                </extent>
+                <date>01/01/1977</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    319
+                </start>
+                <end>
+                    319
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Vapereau
+        </indentifier>
+        <titleInfo>
+            <title>
+                Dictionnaire universel des contemporains, contenant toutes les personnes notables de la France et des pays étrangers
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Vapereau, Gustave
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Hachette et C.ie
+            </publisher>
+            <dateIssued>
+                1865
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1870
+                </start>
+                <end>
+                    1870
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pommier-Pichois
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire et Renan à l'ombre de Saint-Sulpice
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pommier, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1958
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    474
+                </start>
+                <end>
+                    474
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>334</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>1009</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        164
+                    </start>
+                    <end>
+                        168
+                    </end>
+                </extent>
+                <date>09/01/1958</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            FM59
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Fleurs du Mal
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pommier, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Club des Libraires de France
+            </publisher>
+            <dateIssued>
+                1959
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Poésie
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>5</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11006
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/06/1867
+        </temporal>
+        <temporal point = "end">
+            09/07/1867
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        6 ou 7 IX 67
+    </note>
+    <note type = "journal content">
+        Asselineau demande pardon à Poulet-Malassis de ne pas lui avoir écrit le lendemain des obsèques de Baudelaire.  La  confusion entournant l'événement l'ont empêché de le faire.  Banville et lui auraient voulu avoir Sainte-Beuve pour prononcer le discours funèbre mais sa grave maladie l'en  a rendu incapable.  Théophile Gautier leur a semblé une faible ressource dans ces occasions.  Banville a donc parlé et, en dépit d'une maladie et malgré une grande émotion, a fait un discours qu'Asselineau appelle superbe. L'Etendard l'a publié in extenso le 4 septembre, suivi de quelques mots de lui, au nom des amis de Baudelaire.  La veille, le même journal a donné un entrefilet de Vitu très convenable et très complet, selon Asselineau.  Celui-ci y voit dans ces quelques écrits tout ce qu'il y a eu de bien dans la presse.  Mais il admet l'attendrissement et la sincère amitié, dans L'Univers du 2 septembre, de l'article de Veuillot malgré leurs différences.  Il critique Alfred d'Aunay du Figaro pour ce qu'il y écrit le 3 septembre ainsi que Désonnaz dans L'Avenir national le 2 du mois.  Asselineau réserve ses plus cinglants jugements pour les écrivains du Figaro le lendemain, pleins de dédains pour le défunt.  Pierre Véron va jusqu'à utiliser comme preuve de la folie de Baudelaire qu'il a reçu les sacrements, dans le Charivari du 3 septembre sous la rubrique du "Bulletin politique".  Il semble pourtant que Jules Vallès, dans la Situation du 5 septembre dépasse tous les autres; selon Wallon et Monselet c'est un ignoble.  Duranty promet de publier dans la Revue libérale de Bruxelles, un article "au moins révérencieux" [article non paru?].  Ulbach s'est montré décent dans ce qu'il a écrit le 8 septembre au Paris-Magazine.  Le Monde illustré, le 7 septembre, donne un court article nécrologique signé "A.H." [peut-être Arsène Houssaye]. Cette notice s'accompagne d'un portrait gravé de Baudelaire par Charles Maurand, d'après une photographie de Carjat.  Asselineau informe son ami que les funérailles de Baudelaire ont souffert de la saison (beaucoup de personnes étaient en dehors de Paris pour les fins de vacances) et un très mauvais temps joint à une grande chaleur. Asselineau avait écrit, la veille des obsèques, à Paul Féval, président de la Société  des gens de lettres.  Ce groupe ne s'est pas fait présenter. Ni Doucet, ni Dumesnil n'a représenté le ministère.  L'assisatance nombrait soixante personnes.  Ceux remarqués par Asselineau étaient: Houssaye et son fils, Nadar, Champfleury, MNonselet, Wallon, Vitu, Manet, Alfred Stevens, Braquemond, Fantin, Pothey, Verlaine, Calmann-Lévy, Alph. Lemerre, éditeur, Ducessois, imprimeur, Silvestre, Veuillot, etc.  Se sont excusés par lettres: Philarète Chasles; Emile Deschamps; Ernest Prarond; François Coppée.  Pour Asselineau, toute l'admiration qu'elle a observée pour son fils lors de ses funérailles lui ont fait changer ses idées de son importance.  Asselineau a écrit à Victor Hugo pour lui demander une lettre à la mère du poète mais Hugo était à Genève.  En terminant, Asselineau fait écho des sentiments de Poulet-Malassis quant aux pertes d'amis.  Il songe à quitter Paris, qui lui déplaît, pour être bibliothécaire en province{1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    101
+                </start>
+                <end>
+                    101
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

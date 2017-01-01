@@ -1,0 +1,89 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9780
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/01/1862
+        </temporal>
+        <temporal point = "end">
+            02/28/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        II 62
+    </note>
+    <note type = "journal content">
+        Baudelaire et Ludovic Halévy se rencontrent chez Michel Lévy. Ils parlent d'Edouard Ourliac.  Halévy avoue qu'il a lu et admiré Suzanne, de cet auteur, mais qu'il n'a pas lu les Fleurs du mal ed. de 1857.  Baudelaire lui répond: "Mais, Monsieur, j'écrivais en ce temps-là" {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Boyé B
+        </indentifier>
+        <titleInfo>
+            <title>
+                Esquisses romantiques: Henri de Latouche--Charles de Bernard-- Léon Gozlan--Alphonse Karr--Édouard Ourliac--Champfleury
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Boyé, Maurice-Pierre
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                René Debresse
+            </publisher>
+            <dateIssued>
+                1937
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    59
+                </start>
+                <end>
+                    59
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de l'Aristocratie
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>75</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

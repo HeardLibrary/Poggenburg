@@ -1,0 +1,94 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10983
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/01/1867
+        </temporal>
+        <temporal point = "end">
+            05/31/1867
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        V 67
+    </note>
+    <note type = "journal content">
+        Nadar demande à Baudelaire s'il croit en Dieu.  Le poète lui répond "avec un cri d'extase" en indiquant à son ami "le ciel empourpré à ce moment où se couchait le soleil" {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Crépet S
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire, Fin Manoeuvrier
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1948
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    197
+                </start>
+                <end>
+                    197
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>La Nef<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>5</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>juin</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        3
+                    </start>
+                    <end>
+                        21
+                    </end>
+                </extent>
+                <date>06/01/1948</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

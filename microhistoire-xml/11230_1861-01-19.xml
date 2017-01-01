@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11230
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/19/1861
+        </temporal>
+        <temporal point = "end">
+            01/19/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        19 I 61
+    </note>
+    <note type = "journal content">
+        A Desaux, Baudelaire explique que sa lenteur à apporter des échantillons de l'art de Guys relève du désir de l'artiste lui-même, qui entent les mettre en condition d'être vus.  S'ils sont prêts demain Baudelaire les apportera à Desaux, pour qui il a refait la note sur Guys.  Quant à sa propre demande d'indemnité littéraire, ses besoins d'argent deviennent si pressants qu'il a de la peine à trouvér  le loisir pour faire son travail.  Il serait bien reconnaissant de l'appui de Desaux en sa faveur.  Pour que Desaux connaisse mieux la personne qu'il oblige, Baudelaire lui envoie un exemplaire des Fleurs du mal ed. de 1861.  Jointe à sa lettre est une nouvelle version de la note sur Guys. L'information en est quasiment celle de la première mais l'accent est mis sur le besoin de l'artiste d'être aidé aussitôt que possible.  Baudelaire déclare avoir fait un grand travail sur Guys, trop long pour être présenté au Ministre  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Duflo
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire et Constantin Guys. Trois lettres inédites
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Duflo, Pierre
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1983
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Revue d'Histoire Littéraire de la France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>83</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>4</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        599
+                    </start>
+                    <end>
+                        603
+                    </end>
+                </extent>
+                <date>07/01/1983</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

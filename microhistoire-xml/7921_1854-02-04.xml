@@ -1,0 +1,43 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7921
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/04/1854
+        </temporal>
+        <temporal point = "end">
+            02/04/1854
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        4 II 54
+    </note>
+    <note type = "journal content">
+        Baudelaire écrit à  Lazare Auge pour lui emprunter pendant trois ou quatre jours la partie mathématique de l'ouvrage de Hoëne Wronski: Réforme du savoir humain.  Baudelaire voudrait également avoir un livre de Wronski  dont il a oublié le titre, mais qui  contient "les formules de l'Economie politique".  Il ne veut pas se servir de la lettre qu'il a pour Mme Wronski {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Gomuliki
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    19
+                </start>
+                <end>
+                    19
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

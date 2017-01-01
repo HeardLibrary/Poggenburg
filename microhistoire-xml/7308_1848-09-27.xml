@@ -1,0 +1,124 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7308
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/27/1848
+        </temporal>
+        <temporal point = "end">
+            09/27/1848
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        27 IX 48
+    </note>
+    <note type = "journal content">
+        Des Pontons de Brest, Poulet-Malassis écrit à L. de La Sicotière pour affirmer ses vues républicaines et pour dire que son moral n'a pas été atteint en prison. Il garde l'importance de sa liberté d'esprit, plus importante que la liberté de mouvement.  La captivité lui semble une des possibilités qu'il aurait à affronter à l'avenir, lorsqu'il se battra pour la cause démocratique.  Poulet-Malassis en veut à la justice, de l'avoir jugé sans l'interroger complètement.  La seule charge  contre lui est d'avoir été  rédacteur à La Canaille.  Poulet-Malassis regrette que, chez lui, on a brûlé une grande partie de ses affiches, d'autographes et de brochures, pensant que c'étaient pour lui dangereux comme pièces à conviction.  Poulet-Malassis craint d'être déporté vers des pays sans civilisation; dans ce cas, il laisse à La Sicotière ses collections en héritage.  Brûlés aussi à ce moment sont les manuscrits d'ouvrages de théorie socio-politique {2}..
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatPM
+        </indentifier>
+        <titleInfo>
+            <title>
+                Auguste Poulet-Malassis: Catalogue de l'exposition organise?e a? la Bibliothe?que d'Alenc?on par les Amitie?s litte?raires et Artistiques, avec le concours de la municipalite?, de l'imprimerie alenc?onnaise et des collections publiques et prive?es pour les centie?me anniversaire de l'e?dition des Fleurs du Mal
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Launay, Jean Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Alençon</placeTerm>
+            </place>
+            <publisher>
+                Imprimerie Alençonnaise
+            </publisher>
+            <dateIssued>
+                1957
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    18
+                </start>
+                <end>
+                    18
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-APM
+        </indentifier>
+        <titleInfo>
+            <title>
+                Auguste Poulet-Malassis. L'Editeur de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Fayard
+            </publisher>
+            <dateIssued>
+                1996
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    41-42
+                </start>
+                <end>
+                    41-42
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

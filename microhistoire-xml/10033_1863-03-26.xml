@@ -1,0 +1,168 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10033
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/26/1863
+        </temporal>
+        <temporal point = "end">
+            03/26/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        26 III 63
+    </note>
+    <note type = "journal content">
+        De Londres, le chevalier de Chatelain écrit à Baudelaire. Il vient de lire la traduction de Baudelaire des contes d'Edgar Allan Poe, qu'il a eue par l'intermédiaire de Mallarmé.  Il demande si Baudelaire voudrait bien échanger les Histoires extraordinaires et les Nouvelles Histoires extraordinaires contre sa propre traduction (2ème édition) des Beautés de la poésie anglaise, où se trouvent sa traduction des Bells et du Raven. Il envoie aussi à Baudelaire la copie de sa traduction des Bells d'Edgar Allan Poe {1}. En sortant de chez Guerton, Baudelaire écrit à Poulet-Malassis qu'il a l'autorisation d'aller voir son éditeur en prison.  Baudelaire révèle que Poupart-Davyl regrette d'avoir fait poursuivre Poulet-Malassis.  Le poète demande à son ami s'il doit consulter son syndic afin d'arranger l'affaire des clichés exécutés pour l'édition de luxe des Fleurs du mal ed. de 1857 {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            LAB
+        </indentifier>
+        <titleInfo>
+            <title>
+                Lettres à Charles Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Neuchâtel</placeTerm>
+            </place>
+            <publisher>
+                Éditions la Baconnière
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    92
+                </start>
+                <end>
+                    92
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Études Baudelairiennes: nouvelles séries
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>4</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    295
+                </start>
+                <end>
+                    295
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

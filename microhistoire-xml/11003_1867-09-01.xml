@@ -1,0 +1,174 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11003
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/01/1867
+        </temporal>
+        <temporal point = "end">
+            09/01/1867
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1 IX 67
+    </note>
+    <note type = "journal content">
+        Lettre d'Asselineau à Poulet-Malassis annonçant la mort de Baudelaire.  On attend l'arrivée d'Ancelle, qui se trouve dans une station thermale {1}. A l'arrivée du notaire, lui et Asselineau font, devant Pierre Klein, adjoint au maire de Neuilly, la déclaration de la mort de Baudelaire.  On attribue à Mme Aupick l'âge de 70 ans au lieu de 74 {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Crépet B
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers Jours de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1925
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    157
+                </start>
+                <end>
+                    157
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        74
+                    </start>
+                    <end>
+                        84
+                    </end>
+                </extent>
+                <date>02/01/1925</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        155
+                    </start>
+                    <end>
+                        160
+                    </end>
+                </extent>
+                <date>03/01/1925</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        198
+                    </start>
+                    <end>
+                        206
+                    </end>
+                </extent>
+                <date>04/01/1925</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            EJC
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire: étude biographique / d'Eugène Crépet, revue et mise à jour par Jacques Crépet, suivie des Baudelairiana d'Asselineau et de nombreuses lettres adressées à Ch. Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Eugène
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A. Messein
+            </publisher>
+            <dateIssued>
+                1906
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    208
+                </start>
+                <end>
+                    208
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11053
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/04/1854
+        </temporal>
+        <temporal point = "end">
+            02/04/1854
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        4 II 54
+    </note>
+    <note type = "journal content">
+        Baudelaire s'adresse à Lazare Augé, disciple de Wronski, pour trouver la partie mathématique d'un ouvrage de ce philosophe.  Selon son souvenir du titre, c'est "La Réforme du savoir humain".  Il voudrait également retrouver"les formules de l'économie politique", titre sorti aussi de sa mémoire sans garantie.  Baudelaire demande à Augé de lui prêter ces volumes [en réalité les formules... sont l'Adresse aux nations civilisées sur leur sinistre désordre révolutionnaire comme suite de la Réforme du savoir humain, brochure de 48 pages et portant la date du 15 août 1848, publiée à Paris à cette date].  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bushaw
+        </indentifier>
+        <titleInfo>
+            <title>
+                Une Lettre de Baudelaire sur Wronski à Lazare Augé, 4 février 1854
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bushaw, Donald
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1985
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin Baudelairien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>20</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>2</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        35
+                    </start>
+                    <end>
+                        38
+                    </end>
+                </extent>
+                <date>08/01/1985</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

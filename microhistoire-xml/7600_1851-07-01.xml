@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7600
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/01/1851
+        </temporal>
+        <temporal point = "end">
+            07/31/1851
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        VII 51
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis est reçu douxième sur quatorze candidats aux examens de l'Ecole des Chartes.  Peu après, il renonce à continuer ses études {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Dufay D
+        </indentifier>
+        <titleInfo>
+            <title>
+                Un Restaurant de Baudelaire: la mère Perrin
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Dufay, Pierre
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1937
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>273</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>926</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        437
+                    </start>
+                    <end>
+                        439
+                    </end>
+                </extent>
+                <date>01/15/1937</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

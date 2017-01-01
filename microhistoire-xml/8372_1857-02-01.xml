@@ -1,0 +1,111 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8372
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/01/1857
+        </temporal>
+        <temporal point = "end">
+            02/28/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        II 57
+    </note>
+    <note type = "journal content">
+        Date de la préface des Odes funambulesques de Théodore de Banville. Banville, en l'écrivant, parle de Baudelaire comme d'un élu, l'associant à Victor Hugo, à Théophile Gautier, à Lamartine, à Musset, et à Barbier.  Pour prouver que l'esprit poétique se trouve là où la poésie est la plus inattendue, Banville observe que Proudhon et Veuillot,"implacables adversaires de la poésie et des poètes", produisent malgré eux des exemples de lyrisme.  Proudhon, qui "n'a jamais lu un vers", s'est rencontré, presque idée pour idée, avec Les Litanies de Satan de Baudelaire.  Veuillot aurait écrit, sans le savoir, une page digne de Burns {1}. Delacroix, dans son journal, mentionne avoir eu une conversation sur Thiers avec un "Monsieur C.Baudelaire" {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Delacroix A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Journal de Eugène Delacroix. Précédé d'une étude sur le maître par M. Paul Flat. Tome III
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Delacroix, Eugène
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Plon, Nourrit et C.ie
+            </publisher>
+            <dateIssued>
+                1893
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    261-262
+                </start>
+                <end>
+                    261-262
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

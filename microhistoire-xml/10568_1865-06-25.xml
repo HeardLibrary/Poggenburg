@@ -1,0 +1,28 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10568
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/25/1865
+        </temporal>
+        <temporal point = "end">
+            06/25/1865
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 25 VI 65
+    </note>
+    <note type = "journal content">
+        Pincebourde voudrait acheter à Poulet-Malassis  une créance sur Baudelaire et Poulet-Malassis avertit le poète (lettre manquante).  Pincebourde se vengererait alors de Baudelaire en en exigeant le paiement.  La créance, d'un montant de 5.000 francs, représente les droits d'édition des oeuvres de Baudelaire, qui a déjà réglé 200 francs au moment du procès et 180 francs par l'entremise de Lécrivain. Poulet-Malassis, qui est dans une situation financière difficile, ne peut pas refuser de rendre cette créance s'il ne reçoit pas un acompte de Baudelaire {1}.
+    </note>
+</mods>

@@ -1,0 +1,118 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11001
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/08/1867
+        </temporal>
+        <temporal point = "end">
+            08/14/1867
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        dernière semaine de VIII 67
+    </note>
+    <note type = "journal content">
+        Lettre d'Asselineau à Poulet-Malassis, pour dire que l'état de Baudelaire s'aggrave visiblement {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Crépet B
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers Jours de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1925
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    155
+                </start>
+                <end>
+                    155
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        74
+                    </start>
+                    <end>
+                        84
+                    </end>
+                </extent>
+                <date>02/01/1925</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        155
+                    </start>
+                    <end>
+                        160
+                    </end>
+                </extent>
+                <date>03/01/1925</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        198
+                    </start>
+                    <end>
+                        206
+                    </end>
+                </extent>
+                <date>04/01/1925</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

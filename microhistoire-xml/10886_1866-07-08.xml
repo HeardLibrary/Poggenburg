@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10886
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/08/1866
+        </temporal>
+        <temporal point = "end">
+            07/08/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        8 VII 66
+    </note>
+    <note type = "journal content">
+        Depuis le 8, rue Duphot, Mme Aupick écrit à Asselineau, ne sachant pas où il se trouve. Elle a eu avec son fils de la difficulté à lui faire enlever ses pantoufles pour qu'elle aille lui en acheter des nouvelles.  Il refuse nettement de le permettre et fait une colère contre elle quand elle essaye de persister.  Elle voudrait qu'Asselineau aille le voir pour réussir cette opération car elle craint qu'il ne blesse ses pieds dans le jardin en portant ces pantoufles trouées.  Lasègue, qui est allé voir Baudelaire, l'a trouvé mieux et recommande pour lui des bains tièdes.  Mme Aupick rend visite tous les après-midis à son fils, sauf quand elle est malade. M. Duval serait content si d'autres amis venaient pour le voir.  Il voudrait que Baudelaire entende parler et qu'il s'exerce {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    61
+                </start>
+                <end>
+                    61
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

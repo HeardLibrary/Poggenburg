@@ -1,0 +1,74 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11307
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/07/1863
+        </temporal>
+        <temporal point = "end">
+            09/07/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        7 IX 63
+    </note>
+    <note type = "journal content">
+        Banville rencontre Baudelaire qu'il décrit comme "charmant, jeune, pareil à un sourire de soleil".   {1} (Vente de la coll. Marsan 1976, pièce 5). v. {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Marsan A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Collection de Jules Marsan. Manuscrits et autographes. Vente à l'Hôtel George V, le 17 juin 1975
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Guérin, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Loliée, Marc
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Drouot Rive Gauche
+            </publisher>
+            <dateIssued>
+                1975
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+</mods>

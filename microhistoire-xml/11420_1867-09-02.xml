@@ -1,0 +1,66 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11420
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/02/1867
+        </temporal>
+        <temporal point = "end">
+            09/02/1867
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        2 IX 67
+    </note>
+    <note type = "journal content">
+        A  l'enterrement de Baudelaire, Manet trouve, sous doute, l'inspiration pour son tableau L'Enterrement  (Catalogue de l'Exposition Manet 1832-1883.  Paris, Ed. de la Réunion des Musées Nationaux, 1983, 594 p. n0 98, pp. 260-261). Paul Verlaine suit le corbillard depuis la maison de sané jusqu'à la nécropole, accompagné de l'éditeur Lemerre.  Verlaine note l'absence de Gautier et de Leconte de Lisle, disant que les relations de celui-ci avec Baudelaire étaient quelque peu ironiques, malgré les déclarations d'amitié pour le défunt faites par "le barde créole"  {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Verlaine 1993
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire avec obsèques de Charles Baudelaire et une lettre à Deschamps
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Verlaine, Paul
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">La Rochelle</placeTerm>
+            </place>
+            <publisher>
+                Rumeur des Ages
+            </publisher>
+            <dateIssued>
+                1993
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

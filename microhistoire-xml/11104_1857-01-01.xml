@@ -1,0 +1,80 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11104
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1857
+        </temporal>
+        <temporal point = "end">
+            12/31/1858
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1857-1858
+    </note>
+    <note type = "journal content">
+        Dans un carnet d'Asselineau, Baudelaire écrit des notes et dessine son ami.  Asselineau établit la liste des noms des amis de Baudelaire: Jules Viard; Trapadoux; Imbert; G. Mathieu; Jules Chou[x]; Vivier; Servais (encadreur); Bry, éditeur; Houssiaux, id; Courbet; Ponroy; F. Desnoyer[s]; Castille; Alfred Delvau; Silvestre; Watripon; Bussandon [Aussandon?]; Dulamon; Cohen; Montégut; Schann; Traviés; Dondey-Dukpré; L'Abbé Constant;  Asselineau enregistre également "les mots de Charles Baudelaire: "Technie; Giratoire; Calenture; Conduite; Objet; chùter [sic]  (pour faire taire); Trinqueballer; rancoeur".  Suivent des aphorismes de Baudelaire  {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pichois S
+        </indentifier>
+        <titleInfo>
+            <title>
+                Un Carnet d'Asselineau utilisé par Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1969
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Quaderni Francesi<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>1</number>
+                    <caption>volume</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        1
+                    </start>
+                    <end>
+                        11
+                    </end>
+                </extent>
+                <date>01/01/1969</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

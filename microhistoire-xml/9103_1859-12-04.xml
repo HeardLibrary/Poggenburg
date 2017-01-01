@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9103
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/04/1859
+        </temporal>
+        <temporal point = "end">
+            12/04/1859
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        4 XII 59
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis envoie à Demandre des autographes et y joint l'exemplaire d'épreuves du Théophile Gautier, qu'il qualifie de "vraie curiosité bibliographique" {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatPM
+        </indentifier>
+        <titleInfo>
+            <title>
+                Auguste Poulet-Malassis: Catalogue de l'exposition organise?e a? la Bibliothe?que d'Alenc?on par les Amitie?s litte?raires et Artistiques, avec le concours de la municipalite?, de l'imprimerie alenc?onnaise et des collections publiques et prive?es pour les centie?me anniversaire de l'e?dition des Fleurs du Mal
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Launay, Jean Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Alençon</placeTerm>
+            </place>
+            <publisher>
+                Imprimerie Alençonnaise
+            </publisher>
+            <dateIssued>
+                1957
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    34
+                </start>
+                <end>
+                    34
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+</mods>

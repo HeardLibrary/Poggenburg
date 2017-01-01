@@ -1,0 +1,86 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9376
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/28/1860
+        </temporal>
+        <temporal point = "end">
+            08/28/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 28 VIII 60
+    </note>
+    <note type = "journal content">
+        Barbey d'Aurevilly demande à Poulet-Malassis deux exemplaires des Paradis artificiels; il voudrait faire un article à leur sujet {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Crépet L
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelairiana
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1939
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    451
+                </start>
+                <end>
+                    451
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        348
+                    </start>
+                    <end>
+                        368
+                    </end>
+                </extent>
+                <date>08/01/1939</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

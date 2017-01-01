@@ -1,0 +1,73 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7172
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/25/1847
+        </temporal>
+        <temporal point = "end">
+            08/25/1847
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        25 VIII 47
+    </note>
+    <note type = "journal content">
+        Autopsie du corps du duc de Choiseul-Praslin par Tardieu et Mathieu Orfila, Doyen de la Faculté de Médecine de Paris et ami du cercle des Aupick.  On conclut à un suicide par empoisonnement {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Rousselot
+        </indentifier>
+        <titleInfo>
+            <title>
+                L'Affaire du duc de Praslin et la magistrature
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Rousselot, Marcel
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <publisher>
+                Librairie du Recueil Sirey
+            </publisher>
+            <dateIssued>
+                1937
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    35
+                </start>
+                <end>
+                    35
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

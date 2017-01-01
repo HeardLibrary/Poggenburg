@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6090
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            04/02/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/13/1815
+        </temporal>
+        <temporal point = "end">
+            12/13/1815
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        13 XII 15
+    </note>
+    <note type = "journal content">
+        J.-F. Baudelaire s'enquiert auprès de Larsonnier de la décision à prendre quant au paiement de Cruchet, artiste. Celui-ci a rétabli l'écusson de Bonaparte, à l'Odéon {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Flavien B
+        </indentifier>
+        <titleInfo>
+            <title>
+                J.-F. Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Flavien, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1970
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Le Cramérien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>1</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>6</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        1
+                    </start>
+                    <end>
+                        2
+                    </end>
+                </extent>
+                <date>08/01/1970</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

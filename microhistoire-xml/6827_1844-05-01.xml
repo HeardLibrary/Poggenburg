@@ -1,0 +1,97 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6827
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/01/1844
+        </temporal>
+        <temporal point = "end">
+            06/30/1844
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        V ou VI 44
+    </note>
+    <note type = "journal content">
+        En visite à Paris avec sa famille, Ernest Prarond rencontre Baudelaire.  Ils se promènent sur la place de la Bourse {1}.
+    </note>
+    <note type = "researcher notes">
+        Date uncertain
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pichois P
+        </indentifier>
+        <titleInfo>
+            <title>
+                Louise Deschamps et Catherine Overmeire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1972
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    121
+                </start>
+                <end>
+                    121
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin Baudelairien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>8</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>1</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        3
+                    </start>
+                    <end>
+                        5
+                    </end>
+                </extent>
+                <date>08/31/1972</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,33 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6492
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/26/1839
+        </temporal>
+        <temporal point = "end">
+            01/26/1839
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        26 I 39
+    </note>
+    <note type = "journal content">
+        La Bibliographie de la France enregistre Une Larme du diable, par Théophile Gautier.  Baudelaire en parlera dans son Théophile Gautier {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Hamrick 35
+        </indentifier>
+    </relatedItem>
+</mods>

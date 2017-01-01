@@ -1,0 +1,107 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7686
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/27/1852
+        </temporal>
+        <temporal point = "end">
+            03/27/1852
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        27 III 52
+    </note>
+    <note type = "journal content">
+        L'après-midi, de 2h à 4h30, assis dans un café en  face de la grande poste, Baudelaire écrit à sa mère pour la première fois depuis sept mois.  Elle lui a écrit quatre fois.   Il lui envoie Drames et romans honnêtes, L'Ecole païenne et Les Deux Crépuscules.  Jeanne lui cause des ennuis, raison pour laquelle il demande à sa mère de lui adresser ses lettres chez Mme Olivier.  Un médecin (sans doute le Dr Pigeaire, de Neuilly), lui a proposé des traitements à prix réduit.  Pour pouvoir faire ses traductions d'Edgar Allan Poe, Baudelaire se réfugie parfois à la Bibliothèque Impériale, parfois dans un café ou chez un marchand de vin.  Ses dettes dans le quartier se montent actuellement à 400 francs. Il voudrait acheter des livres et "un peu de toilette", et, pour ce faire, demande à Mme Aupickupick la somme de 1.000 francs.  Cette somme devrait lui permettre d'arriver chez le médecin avec l'argent pour payer  le premier mois du traitement, soit 150 francs {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    190
+                </start>
+                <end>
+                    190
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,107 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10059
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/03/1863
+        </temporal>
+        <temporal point = "end">
+            06/03/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        3 VI 63
+    </note>
+    <note type = "journal content">
+        Baudelaire demande à Mme Aupick de lui faire parvenir trois volumes des oeuvres d'Edgar Allan Poe.  Il déclare qu'il est guéri  et qu'il a pu se remettre au travail. Baudelaire annonce qu'il voudrait demander à Ancelle, avec l'appui de Mme Aupick, la somme de 1.000 francs.  Il raconte à sa mère ses tentatives concernant la délégation de ses droits  d'auteur, auprès d'Ancelle et Namslauer.  Le Mystère de Marie Roget est presque traduit; il n'en manque que quelques pages.  Baudelaire compte mettre seulement dix jours à traduire Eureka.  Il travaille en ce moment sur les Histoires grotesques et serieuses.  Il est "obsédé" par quelques nouvelles qu'il voudrait écrire et par Mon coeur mis à nu, qui est devenu "la vraie passion de [son] cerveau".  Il espère parvenir à "autre chose que les fameuses Confessions de Jean-Jacques". Baudelaire espère en outre devenir directeur d'un théâtre [l'Odéon?]. Il compte sur l'influence de Fould et sur l'appui de Pelletier, de Sainte-Beuve et de Mérimée.  Hetzel a déjà envisagé de publier Mon coeur mis à nu, bien que cet écrit soit toujours à à l'état de notes.  Prétextant la lenteur d'Ancelle, Baudelaire prie sa mère de lui envoyer 500 francs {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    299
+                </start>
+                <end>
+                    299
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10828
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/26/1866
+        </temporal>
+        <temporal point = "end">
+            04/26/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        26 IV 66
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis informe Asselineau de la publication d'une édition de 60 exemplaires à Bruxelles, il y a un mois, des Epaves.  Ces pièces diverses étaient des textes que Baudelaire n'avait pas voulu faire entrer à l'édition définitive des Fleurs du mal ed. de 1857. Dix exemplaires en étaient destinés aux amis mais Poulet-Malassis pensaient qu'ils n'ont pas été envoyés et qu'ils restaient à Paris.  De mémoire, il cite les noms des destinaires: Asselineau, Banville, d'Aurevilly, Champfleury, Manet, Flaubert, Sainte-Beuve, Mme Meurice, Monselet.  Banville a reçu le sien.  Poulet-Malassis promet d'envoyer 10 exemplaires à Paris au courant de mai [en fait, il en enverra 15, ajoutant à la liste les noms de Gautier et Leconte de Lisle].  Changeant de propos il critique sévèrement les deux articles d'Henry de La Madelène au Nain jaune fin avril sur Baudelaire.  Il condamne la totalité des écrits sur Baudelaire à ce moment, n'en exceptant que celui de Victor Fournel au Journal de Bruxelles.  Poulet-Malassis craint que le dégoût de Mme Aupick pour les créations littéraires de Baudelaire ne la pousse à passer outre contre sa propriété au moment où celle-ci en viendra à être vendue.  Vu cela, Poulet-Malassis regrette d'avoir refusé de prendre chez lui la malle de Baudelaire avec ses papiers et ses livres {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    35
+                </start>
+                <end>
+                    35
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

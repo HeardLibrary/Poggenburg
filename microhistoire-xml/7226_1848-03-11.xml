@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7226
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/11/1848
+        </temporal>
+        <temporal point = "end">
+            03/11/1848
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        11 III 48
+    </note>
+    <note type = "journal content">
+        A Carpentras, L'Echo du Ventoux reproduit, anonymement, un texte sans titre. Ce texte, attribué à Baudelaire, est publié déjà dans le Salut public sans doute en début mars sous le titre "La Curée".
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Poggenburg
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire et les frères La Madelène
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Poggenburg, Raymond
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1988
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin Baudelairien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>23</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>2</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        51
+                    </start>
+                    <end>
+                        69
+                    </end>
+                </extent>
+                <date>12/01/1988</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

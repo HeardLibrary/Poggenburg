@@ -1,0 +1,87 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7052
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/26/1846
+        </temporal>
+        <temporal point = "end">
+            05/26/1846
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        26 V na 46
+    </note>
+    <note type = "journal content">
+        Le Corsaire-Satan publie, en feuilleton, sous la rubrique "Beaux-Arts", la description d'une conversation il y a quelques jours entre un jeune critique d'art de 25 ans (sans doute Baudelaire) et un "amateur des beaux-arts" mûr (sans doute Courtois).  Le jeune critique apporte au cinquantenaire son volume, qui est bien reçu.  Le jeune critique est partisan de la modernité, ne voyant aucune utilité pour juger l'art actuel une connaissance de l'art du passé. Le critique de nos jours fera ses études au Salon, parmi les ouvrages du jour.  S'il cite des maîtres du passé, c'est pour se donner l'air d'être un peu érudit. Ce qui comptent ce sont l'esprit, l'imagination et le style coloré.  L'amateur, pour convaincre le jeune critique de la faiblesse de ses vues lui présente, sans en identifier leur auteur, des opinions qui montrent ces qualités tout en émettant des jugements inacceptables.  Le jeune critique se rend après avoir appris que c'est Voltaire qui les exprime {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Robb F
+        </indentifier>
+        <titleInfo>
+            <title>
+                Le Salon de 1846: Baudelaire s'explique
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Robb, Graham
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Nineteenth Century French Studies<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>15</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>4</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        415
+                    </start>
+                    <end>
+                        424
+                    </end>
+                </extent>
+                <date>06/01/1887</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            Corrected publication date 11/1/2016
+        </note>
+    </relatedItem>
+</mods>

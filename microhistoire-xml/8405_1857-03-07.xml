@@ -1,0 +1,252 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8405
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/07/1857
+        </temporal>
+        <temporal point = "end">
+            03/07/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        7 III 57
+    </note>
+    <note type = "journal content">
+        Bien qu'il ait corrigé ses épreuves des Fleurs du mal ed. de 1857, Baudelaire attendra jusqu'à lundi pour les envoyer à Poulet-Malassis, qui pourra tout de même continuer la  mise en pages de l'ouvrage.  Il insiste sur la qualité du papier à utiliser dans l'édition, se plaignant de celui, transparent, dont il a vu Poulet-Malassis se servir déjà.  Baudelaire se demande si Michel Lévy ou Godefroy pourraient s'offusquer de ce que Poulet-Malassis réimprime, dans son journal à Alençon, des parties des Nouvelles Histoires extraordinaires, dont il joint un exemplaire à sa lettre. Suivant les conseils de Julien Turgan, Baudelaire recommande à Poulet-Malassis de  rechercher l'appui de Mérimée au cas où ses publications dangereuses (Le Compère Mathieu; Les Liaisons dangereuses) le mettraient en mauvaise posture auprès du gouvernement.  Le titre suggéré par Poulet-Malassis pour son volume de critique lui déplaît.  Il y trouve le style d'Asselineau  "modeste et raisonnable".  Pour trouver un titre à son gré ("mystérieux" et "pétard"), Baudelaire consultera Gautier {1}. Baudelaire demande à Michel Lévy d'envoyer les Histoires extraordinaires à plusieurs personnes, à savoir: Sasonoff, Du Camp, Laurent-Pichat, Sainte-Beuve, Chasles, de Pontmartin, Deschanel (ainsi, peut-être, qu'à l'Indépendance belge), Oger, Morel (directeur de la Revue française).  Il a un mot à dire à Lévy à propos de Chasles {2}.  Aventures d'Arthur Gordon Pym au Moniteur {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    377
+                </start>
+                <end>
+                    377
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    379
+                </start>
+                <end>
+                    379
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            AGP
+        </indentifier>
+        <titleInfo>
+            <title>
+                Aventures d'Arthur Gordon Pym par Edgar Poe
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Poe, Edgar Allan
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Éditions Louis Conard
+            </publisher>
+            <dateIssued>
+                1934
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    269
+                </start>
+                <end>
+                    269
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Oeuvres Complétes de Charles Baudelaire. Traductions
+                </title>
+            </titleInfo>
+        </relatedItem>
+        <note type = "source note">
+            Translation of: Narrative of Arthur Gordon Pym of Nantucket.
+        </note>
+    </relatedItem>
+</mods>

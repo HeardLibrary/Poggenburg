@@ -1,0 +1,28 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8355
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1857
+        </temporal>
+        <temporal point = "end">
+            12/31/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1857
+    </note>
+    <note type = "journal content">
+        Les revenus de Baudelaire gérés par Ancelle seront de 2100 francs.  Mme Aupick avancera à son fils la somme totale de 7.313 francs {1}.
+    </note>
+</mods>

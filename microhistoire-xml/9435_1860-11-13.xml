@@ -1,0 +1,94 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9435
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/13/1860
+        </temporal>
+        <temporal point = "end">
+            11/13/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 13 XI 60
+    </note>
+    <note type = "journal content">
+        Malgré les conseils de Champfleury, Duranty adresse à Poulet-Malassis une réclamation à propos de sa notice sur Baudelaire, qui ne sera pas imprimée par cet éditeur.  Poulet-Malassis lui répond que ce texte est inimprimable.  Il refuse, en outre, de renouveler le second billet à ordre de Duranty, comme celui-ci le lui demande.  Poulet-Malassis a peur de compromettre son crédit renaissant; il pense que les largesses dont il a fait preuve tout au long de l'année ont failli le faire sombrer {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Parturier et Privat
+        </indentifier>
+        <titleInfo>
+            <title>
+                Duranty et Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Parturier, Maurice
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Privat, Daniel
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1953
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    11
+                </start>
+                <end>
+                    11
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        1
+                    </start>
+                    <end>
+                        13
+                    </end>
+                </extent>
+                <date>01/01/1953</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

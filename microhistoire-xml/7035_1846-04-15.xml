@@ -1,0 +1,91 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7035
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/15/1846
+        </temporal>
+        <temporal point = "end">
+            04/15/1846
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        15 IV 46
+    </note>
+    <note type = "journal content">
+        L'Esprit public publie Conseils aux jeunes littérateurs, signés Baudelaire-Dufaÿs. Baudelaire y évoque l'exemple de Mme de Warens pour qualifier l'esprit de ses remarques.  Il prétend qu'il n'y a pas de guignon et fait l'éloge de l'énergie littéraire de Paul Féval et d'Eugène Sue.  Il conseille cette espèce d'énergie à ceux qui feraient une littérature plus pure que la leur.  Il prétend que l'écrivain doit chercher à faire beau et à vendre ses écrits, même à des prix modestes, sans se décourager.  Il distingue Jules Janin adepte de l'éreintage par la ligne courbe, de Granier  de Cassagnac, partisan de la ligne droite.  En matière de composition Baudelaire choisit comme modèle Eugène Delacroix, qui proscrit la nature; il rejette les procédés de Balzac et d'E. Ourliac, qui réclament trop d'énergie.  Pour bien écrire, il faut un travail quotidien. La poésie occupe la place littéraire la plus haute; à preuve, le fait que certains lisent les feuilletons de Gautier uniquement parce qu'il est le poète de La Comédie de la mort (dont Baudelaire n'apprécie pourtant pas toutes les beautés).  A propos du désordre financier, Baudelaire s'oppose à l'idée qu'il soit le compagnon nécessaire du génie; il cite, comme mauvais exemple, la pièce d'A. Dumas père, Kean, ou Désordre et Génie.  Baudelaire suppose que Goethe n'a pas eu de créanciers et loue les efforts d'Hoffmann pour mener une vie ordonnée. Pour maîtresse, un poète doit éviter également la femme honnête, le bas-bleu et l'actrice.  Seules demeurent "les filles ou les femmes-bêtes, l'amour ou le pot-au-feu" {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OCPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome II
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1086
+                </start>
+                <end>
+                    1086
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

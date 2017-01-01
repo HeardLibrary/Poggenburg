@@ -1,0 +1,48 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8163
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/13/1855
+        </temporal>
+        <temporal point = "end">
+            06/13/1855
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        13 VI 55
+    </note>
+    <note type = "journal content">
+        Baudelaire habite sans doute à l'hôtel de Normandie, rue Neuve-des-Bons-Enfants, ou du moins utilise son papier à en tête {1}.  Il écrit à Buloz pour proposer sa collaboration à la Revue des deux mondes, lui promettant  d'écrire des romans à y publier.  Il voudrait que Buloz le dispense de donner à la revue le "cadeau littéraire" coutumier et demande une avance, ne serait-ce que le prix d'un seul feuilleton, pour subvenir  à ses besoins immédiats.  Il pense devoir mettre un mois à corriger les épreuves, s'il réussit à vendre à Hachette ou à Lévy ses Histoires extraordinaires par Edgar Poe.  A 6h, Baudelaire arrive à la Revue des deux mondes pour discuter de sa proposition de collaboration {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CML I 11
+        </indentifier>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    313
+                </start>
+                <end>
+                    313
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

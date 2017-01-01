@@ -1,0 +1,150 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9184
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/17/1860
+        </temporal>
+        <temporal point = "end">
+            02/17/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        17 II 60
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis encourage Bracquemond à terminer le portrait à l'eau-forte de Baudelaire. Il révèle à l'artiste qu'il souffre beaucoup de la vérole, que ses cheveux tombent {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bouillon
+        </indentifier>
+        <titleInfo>
+            <title>
+                Artiste et éditeur: correspondance de Bracquemond et de Poulet-Malassis
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bouillon, Jean-Paul
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1975
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    63
+                </start>
+                <end>
+                    63
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>1</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        49
+                    </start>
+                    <end>
+                        66
+                    </end>
+                </extent>
+                <date>01/01/1975</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>2</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        193
+                    </start>
+                    <end>
+                        201
+                    </end>
+                </extent>
+                <date>01/01/1975</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>3</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        276
+                    </start>
+                    <end>
+                        287
+                    </end>
+                </extent>
+                <date>01/01/1975</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>4</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        383
+                    </start>
+                    <end>
+                        396
+                    </end>
+                </extent>
+                <date>01/01/1975</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

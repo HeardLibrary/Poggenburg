@@ -1,0 +1,118 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9031
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/01/1859
+        </temporal>
+        <temporal point = "end">
+            09/30/1859
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env IX 59
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis, qui est dans une situation difficile vis-à-vis de sa famille, demande à Baudelaire de retirer de chez de Calonne autant d'argent que  possible.  Il vient de savoir par Hippolyte Babou que de Calonne a accepté, mais qu'il n'a pas encore payé, deux traites tirées sur la Revue contemporaine. Poulet-Malassis reçoit une dépêche lui apprenant que de Calonne est parti sans acquitter les délégations qu'il a acceptées.  Poulet-Malassis envoie un billet de 800 francs à Baudelaire qui doit le faire escompter à Paris.  Il espère qu'avec d'autres billets il réunira la somme requise.  Poulet-Malassis conseille à Baudelaire d'aller demander au père de Monselet d'escompter un billet qu'il lui enverra le lendemain {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Crépet O
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelairiana
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1940-1945
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    213-214
+                </start>
+                <end>
+                    213-214
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                    <extent unit = "page">
+                    <start>
+                        34
+                    </start>
+                    <end>
+                        45
+                    </end>
+                </extent>
+                <date>01/01/1946</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                    <extent unit = "page">
+                    <start>
+                        58
+                    </start>
+                    <end>
+                        67
+                    </end>
+                </extent>
+                <date>02/01/1946</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                    <extent unit = "page">
+                    <start>
+                        123
+                    </start>
+                    <end>
+                        127
+                    </end>
+                </extent>
+                <date>03/01/1946</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

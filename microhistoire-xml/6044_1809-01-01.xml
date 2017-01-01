@@ -1,0 +1,75 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6044
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1809
+        </temporal>
+        <temporal point = "end">
+            12/31/1813
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1809-13
+    </note>
+    <note type = "journal content">
+        Signature de J.-F. Baudelaire dans l'album de M. Bruun-Neergard {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatR-1
+        </indentifier>
+        <titleInfo>
+            <title>
+                Librairie ancienne et moderne E. Rossignol. Catalogue pe?riodique de livres d'occasion
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                E. Rossignol
+            </publisher>
+            <dateIssued>
+                1955
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <detail type = "volume">
+                <number>103</number>
+                <caption>volume</caption>
+            </detail>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+        <note type = "source note">
+            No. 312
+        </note>
+    </relatedItem>
+</mods>

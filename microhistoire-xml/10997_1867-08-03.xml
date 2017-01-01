@@ -1,0 +1,100 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10997
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/03/1867
+        </temporal>
+        <temporal point = "end">
+            08/03/1867
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        3 VIII 67
+    </note>
+    <note type = "journal content">
+        Philippe Dauriac, dans le Monde illustré, réunit les noms de Balzac, de Stendhal et de Baudelaire comme exemples de la puissance de la critique littéraire quand elle est faite par des écrivains de grande qualité {1,2}.
+    </note>
+    <note type = "researcher notes">
+        Get bibliographic info. for 2nd reference.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Robb
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire à l'Hôtel Corneille: du nouveau sur La Fanfarlo
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Robb, Graham
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Brussels</placeTerm>
+            </place>
+            <publisher>
+                Facultés Universitaires Saint-Louis
+            </publisher>
+            <dateIssued>
+                1984
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Chapter
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mélanges de Littérature en Hommage à Albert Kies<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        97
+                    </start>
+                    <end>
+                        107
+                    </end>
+                </extent>
+                <date>06/06/1905</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Balzac
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    19
+                </start>
+                <end>
+                    19
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

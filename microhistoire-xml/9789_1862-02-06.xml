@@ -1,0 +1,114 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9789
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/06/1862
+        </temporal>
+        <temporal point = "end">
+            02/06/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        6 II 62
+    </note>
+    <note type = "journal content">
+        Les élections commencent à l'Académie.  Au premier tour le prince de Broglie est élu, mais le fauteuil de Scribe est toujours âprement convoîté {1}. Figaro rapporte que le jour de la parution des Rois d'aujourd'hui, son auteur N. Foucault a offert un dîner à Poulet-Malassis, son éditeur, et à ses amis J. Barbey d'Aurevilly, Monselet, Brisebarre, Babou, Lemercier de Neuville, etc.  "M. Baudelaire a solennisé, par sa présence, la fin du repas." {2}.
+    </note>
+    <note type = "researcher notes">
+        Should "Rois.." be italicized?
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Raynaud B
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire. Etude biographique et critique suivie d'un essai bibliographique et d'iconographie baudelairiennes
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Raynaud, Ernest
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Garnier Frères
+            </publisher>
+            <dateIssued>
+                1922
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    233
+                </start>
+                <end>
+                    233
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Graham
+        </indentifier>
+        <titleInfo>
+            <title>
+                ***
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Manuscript
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

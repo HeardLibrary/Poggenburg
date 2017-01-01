@@ -1,0 +1,43 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11070
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/06/1854
+        </temporal>
+        <temporal point = "end">
+            12/06/1854
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        6 XII 54
+    </note>
+    <note type = "journal content">
+        Léontine Gouzal [ou Gougel] comparaît devant la justice pour crime d'escroquerie  (dettes impayées).  Elle sera condamnée à 15 mois de prison et 50 francs d'amende.  Son ami, Ph. Boyer, se trouve critiqué par Baudelaire de ne pas se rendre en visite, en prison, à cette dame, étant donné le grand nombre de visites qu'il lui avait faites avant sa condamnation.  Boyer prend mal ce jugement  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            David Sale ami
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    193
+                </start>
+                <end>
+                    193
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

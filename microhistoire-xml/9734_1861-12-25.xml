@@ -1,0 +1,244 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9734
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/25/1861
+        </temporal>
+        <temporal point = "end">
+            12/25/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        25 XII 61
+    </note>
+    <note type = "journal content">
+        Michel Masson, de la Société des Gens de Lettres, avertit Baudelaire qu'il leur doit 406,50 francs, ainsi que la cotisation de 6 francs.  La dernière échéance de cette dette tombera au plus tard le 15 décembre 1862 {1}.  Baudelaire écrit à sa mère pour répondre à la lettre où elle l'accusait de la négliger.  Il lui renvoie la page écrite par Mme Bâton [Batton] au sujet de C.-A. Baudelaire.  Baudelaire explique à Mme Aupick sa froideur  envers celui-ci.  Elle résulte de son manque d'admiration pour son beau-frère. Baudelaire prétend que sa candidature académique est motivée par des raisons pécuniaires; il aimerait toucher l'émolument des Académiciens.  Il raconte que Lamartine a voulu le détourner, que Mérimée évite de le recevoir, que Villemain l'a mal reçu et que sa visite chez Viennet a été comique.  Baudelaire promet de se venger de Villemain par un écrit. Un moment, il a eu le projet de faire sur sa candidature l'occasion d'un livre satirique sur les élections de membres.  Il abandonne pourtant l'idée de ce livre bouffon dont les retombées risquerait de lui coûter cher.  Il demande à sa mère d'écrire un mot en sa faveur à Pierre Lebrun, académicien et ancien condisciple d'Aupick à Saint-Cyr et qui a siégé avec lui au Sénat.  Il  entend de ne même pas aller en visite chez les Académiciens non-littéraires tels que Thiers, Guizot et autres.  Jeanne Duval, toujours malade, a besoin d'être consolée et soutenue.  Baudelaire, pour résoudre un besoin pressant d'argent, demande à sa mère de lui envoyer de ses objets  inutiles, pour qu'il puisse les mettre en gage {2}.   Baudelaire envoie à Arsène Houssaye des poèmes en prose qu'il entend lui dédier. Baudelaire reconnaît qu'Houssaye lui-même s'est attaqué à ce genre. Il songe à un titre tel que Le Promeneur solitaire ou Le Rôdeur parisien.  Baudelaire voudrait éviter d'avoir l'air, dans ces morceaux, de "montrer le plan d'une chose à mettre en vers".  Sachant qu'Houssaye lui-même pourrait être candidat à l'Académie, Baudelaire le prie toutefois d'annoncer sa propre candidature pour lui dans la Presse et dans  l'Artiste. Houssaye peut être généreux pour lui sans risquer sa propre candidature possible; il le serait pourtant avec danger, selon Baudelaire.  Baudelaire regarde sa candidature bien que sans espoir, comme un geste de solidarité avec tous les infortunés gens de lettres.  Les disparitions de la Revue fantaisiste et la Revue européenne ont été dures pour Baudelaire et il demande à Houssaye une lettre garantissant la publication de ses poèmes en prose; il s'en servira pour chercher à avoir une délégation sur le prix de ces écrits.  Baudelaire ne voit pas dans ses poèmes en prose une oeuvre finie ou unifiée.  Il pense qu'Hetzel pourrait s'intéresser à leur publication comme matière écrite d'un volume "romantique à images".  Au début, dit Baudelaire, il a essayé d'imiter Gaspard de la nuit, d'Aloysius Bertrand, mais il a dû abandonner ce pastiche afin d'être lui-même {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Crépet L
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelairiana
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1939
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    364
+                </start>
+                <end>
+                    364
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        348
+                    </start>
+                    <end>
+                        368
+                    </end>
+                </extent>
+                <date>08/01/1939</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    200
+                </start>
+                <end>
+                    200
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    207
+                </start>
+                <end>
+                    207
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

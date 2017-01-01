@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11076
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/12/1855
+        </temporal>
+        <temporal point = "end">
+            08/12/1855
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        12 VIII 55
+    </note>
+    <note type = "journal content">
+        Arthur Ponroy donne, dans Le Portefeuille, revue critique... une note liminaire élogieuse en publiant Encore M. Ingres de Baudelaire.  Il reconnaît que les conclusions de Baudelaire sont celles de leur collaborateur G. Pierre mais qu'il y arrive par d'autres voies: "Ce très bel esprit s'exprime d'ailleurs avec une telle finesse d'observation, une telle science de la parole écrite, que nous nous trouverions coupables de ne pas donner à nos lecteurs une appréciation si ingénieuse et si modérée des oeuvres de M. Ingres"  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

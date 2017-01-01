@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7479
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/01/1850
+        </temporal>
+        <temporal point = "end">
+            05/31/1850
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        V 50
+    </note>
+    <note type = "journal content">
+        Payant mal ses acteurs et mis à Clichy pour une lettre de change, Max de Revel doit renoncer à la direction du Théâtre Historique {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Lecomte
+        </indentifier>
+        <titleInfo>
+            <title>
+                Daumier Sculpteur: les figurines et autres sculptures. Exposition
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Lecomte, Marcel
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Galerie Marcel Lecomte
+            </publisher>
+            <dateIssued>
+                1979
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    94
+                </start>
+                <end>
+                    94
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+</mods>

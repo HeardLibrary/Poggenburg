@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6288
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/07/1833
+        </temporal>
+        <temporal point = "end">
+            01/07/1833
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        7 I 33
+    </note>
+    <note type = "journal content">
+        Soulacroix remplace Dutrey comme Recteur du Collège royal {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pellow
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire. The Formative Years
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pellow, David
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Nashville TN</placeTerm>
+            </place>
+            <publisher>
+                Vanderbilt University
+            </publisher>
+            <dateIssued>
+                1971
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    84
+                </start>
+                <end>
+                    84
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

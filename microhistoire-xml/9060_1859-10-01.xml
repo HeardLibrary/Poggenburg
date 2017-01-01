@@ -1,0 +1,155 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9060
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/01/1859
+        </temporal>
+        <temporal point = "end">
+            10/01/1859
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1 X 59
+    </note>
+    <note type = "journal content">
+        Baudelaire attend toujours la lettre de Victor Hugo.  Il a arraché à Morel, de la Revue française, L'Ange du bizarre pour le donner à de Calonne.  Baudelaire est en train de traduire Eureka.  Lévy a refusé de discuter l'impression en librairie de cet ouvrage avant qu'il ne paraisse dans la Revue internationale.  Baudelaire envoie à Poulet-Malassis une avance prélevée sur sa traduction d'Eureka.  Baudelaire a reçu une lettre d'un certain Boutailler qui semble vouloir se battre avec lui; il envoie cette lettre à Poulet-Malassis.  Baudelaire dit qu'il préfère aux Contemplations de Victor Hugo sa Légende des siècles.  Il conseille à Poulet-Malassis d'imprimer les deux volumes d'Emile Montégut.  Poulet-Malassis ne suivra pas ce conseil {1}.  Baudelaire va à la "Grande Fête du Réalisme" {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    604
+                </start>
+                <end>
+                    604
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Monselet
+        </indentifier>
+        <titleInfo>
+            <title>
+                Le petit Paris: tableaux et figures de ce temps
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Monselet, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                E. Dentu
+            </publisher>
+            <dateIssued>
+                1879
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    210
+                </start>
+                <end>
+                    210
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

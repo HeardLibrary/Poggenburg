@@ -1,0 +1,73 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7122
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1847
+        </temporal>
+        <temporal point = "end">
+            12/31/1847
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1847
+    </note>
+    <note type = "journal content">
+        Fr. Villot fait une gravure d'après un dessin de Delacroix: "Tête à la Baudelaire" {1}. Mosselman met Mme Sabatier dans ses meubles, au 4, rue Frochot {2}.  On appelle Aglaé "Lili" {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatBN47
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    106
+                </start>
+                <end>
+                    106
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ziegler B
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    270
+                </start>
+                <end>
+                    270
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    320
+                </start>
+                <end>
+                    320
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

@@ -1,0 +1,69 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11145
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/24/1858
+        </temporal>
+        <temporal point = "end">
+            01/24/1858
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        24 I 58
+    </note>
+    <note type = "journal content">
+        Baudelaire informe Armand Du Mesnil que son indemnité littéraire de 100 francs sera touchée par un certain Semé, fripier de la rue de l'Ecole de Médecine  (CPl93 I 1083).  A un correspondant inconnu Baudelaire révèle qu'il est pressé de conclure un emprunt de 100 francs.  Il  a chargé Semé, qui a fait l'avance, de montrer son billet et d'aller à sa place au Trésor pour se faire payer.  Si absolument nécessaire, Baudelaire  l'y accompagnera pour y apposer son signature  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Cat PB
+        </indentifier>
+        <titleInfo>
+            <title>
+                Bibliothèques littéraires du romantisme à nos jours
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                P. Berés
+            </publisher>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                07/02/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Catalog
+        </genre>
+        <note type = "source note">
+            TITLE?|No. 58
+        </note>
+    </relatedItem>
+</mods>

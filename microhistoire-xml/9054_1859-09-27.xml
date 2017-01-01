@@ -1,0 +1,155 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9054
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/27/1859
+        </temporal>
+        <temporal point = "end">
+            09/27/1859
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        27 IX 59
+    </note>
+    <note type = "journal content">
+         Baudelaire fait savoir à Poulet-Malassis que Didot et Gélis lui ont donné 400 francs sur le billet de l'éditeur.  Pour éviter de payer un billet de  1500 francs chez Tenré, Baudelaire a dû lui donner l'autre billet de 400 francs qu'il tient de Poulet-Malassis.  Il demande à ce dernier de lui apporter 1500 francs avant l'échéance du billet.  Il désire recevoir cette somme à son hôtel, envoi affranchi, pour éviter les frais postaux. Baudelaire donnera 1100 francs à Tenré et 1500 francs à Pincebourde; il discutera avec Poulet-Malassis la manière d'avoir de De Rode les dernières centaines de francs qui leur manquent.  Baudelaire n'a pu obtenir de la Revue française ni une épreuve ni le manuscrit de son Salon de 1859 {1}. On expédie à Victor Hugo le numéro de la Revue contemporaine qui contient Les Sept Vieillards et Les Petites Vieilles {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    602
+                </start>
+                <end>
+                    602
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CML
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes de Charles Baudelaire. Edition présentée dans l'ordre chronologique et établie sur les textes authentiques avec des variantes inédites et une annotation originale
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Club du Meilleur Livre
+            </publisher>
+            <dateIssued>
+                1955
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1239
+                </start>
+                <end>
+                    1239
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

@@ -1,0 +1,58 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9905
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/28/1862
+        </temporal>
+        <temporal point = "end">
+            08/28/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        28 VIII 62
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis avise Bracquemond qu'il est en liquidation et qu'il va sans doute être mis en faillite.  Le matin, il a reçu la nouvelle de la mort de son frère, en Afrique {1}. Poulet-Malassis s'arrange, dit-on, pour faire une vente fictive de sa maison d'édition à Lécrivain et Toubon (chez qui il se réfugie, peut-être).  Il reste en tout cas introuvable, surtout pour l'imprimeur Poupart-Davyl, qui réclame en vain la somme de 15.000  francs qui lui est due {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CG IV
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    108n
+                </start>
+                <end>
+                    108n
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    788--789
+                </start>
+                <end>
+                    788--789
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

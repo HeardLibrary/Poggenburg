@@ -1,0 +1,130 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9300
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/19/1860
+        </temporal>
+        <temporal point = "end">
+            06/19/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 19 VI 60
+    </note>
+    <note type = "journal content">
+        En visite chez Victor Hugo à Guernesey, Hetzel remet à ce dernier, de la part de Baudelaire, un livre [probablement les Paradis artificiels]. Une lettre de Baudelaire, y est jointe; il demande à Hugo,  pour le compte d'un libraire, l'autorisation de choisir quelques-unes de ses oeuvres pour en faire une anthologie {1}. L'exemplaire des Paradis artificiels envoyé à Hugo porte la dédicace: "Témoignage d'admiration et de dévouement" {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Parménié
+        </indentifier>
+        <titleInfo>
+            <title>
+                Histoire d'un E?diteur et de ses Auteurs: P.-J. Hetzel (Stahl)
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Parménié, A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Bonnier de la Chapelle, C.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                E?ditions Albin Michel
+            </publisher>
+            <dateIssued>
+                1954
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    340-341
+                </start>
+                <end>
+                    340-341
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <note type = "source note">
+            Corrected 11/1/2016
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Anonyme B
+        </indentifier>
+        <titleInfo>
+            <title>
+                Envois d'auteurs à Victor Hugo
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Anonyme
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1931
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Nouvelles Littéraires<title>
+            </titleInfo>
+            <part>
+                <date>03/21/1931</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            PAGES?
+        </note>
+    </relatedItem>
+</mods>

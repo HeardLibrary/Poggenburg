@@ -1,0 +1,119 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6914
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/08/1845
+        </temporal>
+        <temporal point = "end">
+            05/08/1845
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        8 V 45
+    </note>
+    <note type = "journal content">
+        Date de composition de la préface du Salon de 1845 {1}.  En début du volume, Baudelaire fait allusion à Alphonse Karr sans le nommer. Il le cite à propos de sa difficulté à se faire imprimer par les journaux, en se moquant légèrement de lui.  L'attitude de Baudelaire envers Karr se comprend à la lumière  d'une critique qu'il a faite du tableau de Delacroix, La Justice de Trajan en avril 1840 dans Les Guêpes.  Karr s'amusait de la couleur d'un cheval lie-de-vin, entre autres.  Baudelaire défend le droit de l'artiste de faire ce qu'il veut en choisissant ses couleurs.  Il se souviendra de cette question en écrivant "L'Exposition universelle de 1855" {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Robb C
+        </indentifier>
+        <titleInfo>
+            <title>
+                Alphonse Karr et le Salon de 1845
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Robb, Graham
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1845
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin Baudelairien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>21</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>3</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        99
+                    </start>
+                    <end>
+                        103
+                    </end>
+                </extent>
+                <date>12/01/1986</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,110 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6891
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1845
+        </temporal>
+        <temporal point = "end">
+            12/31/1845
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        début 45?
+    </note>
+    <note type = "journal content">
+        Baudelaire avertit sa mère de la prochaine visite d'Ancelle pour discuter une idée de celui-ci qui lui assurera du repos, ce dont il a bien besoin actuellement.  Baudelaire a reçu de sa mère la somme de 20 francs; il prie pourtant Mme Aupick de ne pas en parler à Ancelle, qui lui a fourni de quoi vivre jusqu'à la fin du mois et qui pourrait trouver singulier le fait que Baudelaire ne lui en avait rien dit.  Après la visite d'Ancelle, Baudelaire écrit à sa mère pour la lui décrire et l'informer que son mobilier, pris en garantie pour un emprunt, est en danger d'être perdu.  Il a suggéré que son créancier vienne voir Ancelle à ce sujet.  Promettant d'avoir vendu trois livres à la fin du mois, Baudelaire demande à sa mère 60 francs, qu'il pourra lui rendre avec les 1500 qu'il compte gagner. L'argent demandé lui permettra, dit-il, de se reposer.  Quant aux livres en question ("De La Peinture moderne"; "De La Caricature"; "David, Guérin, Girodet"), il les a commencés  il y a longtemps: le papier en est jaune. Il s'est créé de nouvelles relations littéraires: un libraire et La Revue des deux mondes depuis le jour de l'an.  Baudelaire ne veut pas aller chez sa mère; il y souffre trop, dit-il.  Il la prie de venir le voir, au besoin, chez les Lenglet et lui demande de laisser son argent entre les mains de ce dernier, au ministère.  Il a l'intention d'y passer ce même jour, trois fois {1}.
+    </note>
+    <note type = "researcher notes">
+        Date uncertain
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    119
+                </start>
+                <end>
+                    119
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,31 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6510
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/10/1839
+        </temporal>
+        <temporal point = "end">
+            06/10/1839
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        10? VI 39
+    </note>
+    <note type = "journal content">
+        Le matin, Charles écrit à sa mère, qui est à Bourbonne-les-Bains avec son mari.  Il exprime sa  satisfaction à être si bien logé et si bien reçu chez les Lasègue.  Il décrit les manières et le ton amusants de la pension. Elle est tenue par Mlle Céleste Théot, chez qui il prendra ses repas {1}.
+    </note>
+    <note type = "researcher notes">
+        Date uncertain
+    </note>
+</mods>

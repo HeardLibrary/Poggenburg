@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11315
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/01/1863
+        </temporal>
+        <temporal point = "end">
+            12/31/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        XII 63
+    </note>
+    <note type = "journal content">
+        Henry Cazalis  ("Jean Lahor" en littérature) dîne avec Baudelaire ehez les Le Josne.  Il décrit sa soirée à Mallarmé, disant qu'on reproche à Baudelaire un article qu'il a écrit (peut-être la préface des Martyrs ridiculesCdt Le Josne trouve déplaisant cet écrit et le dit, au grand dam de Mme Le Josne  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Lawrence
+        </indentifier>
+        <titleInfo>
+            <title>
+                Cazalis, sa vie, son oeuvre, son amitié avec Mallarmé
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Joseph, Lawrence A
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1972
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    cité  62
+                </start>
+                <end>
+                    cité  62
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

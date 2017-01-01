@@ -1,0 +1,78 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6098
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1817
+        </temporal>
+        <temporal point = "end">
+            12/31/1817
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1817
+    </note>
+    <note type = "journal content">
+        J.-F. Baudelaire s'installe au l3, rue Hautefeuille {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Barroux
+        </indentifier>
+        <titleInfo>
+            <title>
+                ***
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Barroux
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    222
+                </start>
+                <end>
+                    222
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <part>
+                <date>NULL</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            TITLE? Print for Poggenburg
+        </note>
+    </relatedItem>
+</mods>

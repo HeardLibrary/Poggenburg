@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11369
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/10/1865
+        </temporal>
+        <temporal point = "end">
+            10/10/1865
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        10 X 65
+    </note>
+    <note type = "journal content">
+        A Champfleury, Poulet-Malassis rétorque que, pour acheter un de ses livres, un  collégien aurait besoin de 25 000 livres de rente.  C'est à tort que la magistrature lui attribue un grand nombre de ces publications.  En fait, prétend Poulet-Malassis, il a cessé il y a un mois d'éditer ces ouvrages et vendu ses collections (avec une partie de son mobilier).  Sa "fortune", dont on l'accuse, ne monte qu'à 8 000 francs en deux années en Belgique  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-APM
+        </indentifier>
+        <titleInfo>
+            <title>
+                Auguste Poulet-Malassis. L'Editeur de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Fayard
+            </publisher>
+            <dateIssued>
+                1996
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    177-178
+                </start>
+                <end>
+                    177-178
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

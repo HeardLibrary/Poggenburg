@@ -1,0 +1,95 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9375
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/25/1860
+        </temporal>
+        <temporal point = "end">
+            08/25/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        25 VIII 60
+    </note>
+    <note type = "journal content">
+        Dans Diogène, Henry Delange cite (fictivement) Baudelaire, qui demande si Blois est dans le département du "Lot-et-Charogne" {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BDC
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire devant ses contemporains
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Union Générale d'Edition
+            </publisher>
+            <dateIssued>
+                1967
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    279-280
+                </start>
+                <end>
+                    279-280
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <note type = "source note">
+            Le Monde en 10/18, 364/365
+        </note>
+    </relatedItem>
+</mods>

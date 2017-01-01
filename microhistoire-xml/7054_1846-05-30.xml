@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7054
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/30/1846
+        </temporal>
+        <temporal point = "end">
+            05/30/1846
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        30 V 46
+    </note>
+    <note type = "journal content">
+        Compte-rendu du Salon de 1846 par Henri Murger dans le Moniteur de la mode.  Baudelaire y est comparé à Diderot, à Hoffmann, à Stendhal et à Heine {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Dufay A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Des Buveurs d'eau à la `Vie de Bohème'
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Dufay, Pierre
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1922
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>155</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>571</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        44
+                    </start>
+                    <end>
+                        45
+                    </end>
+                </extent>
+                <date>04/01/1922</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

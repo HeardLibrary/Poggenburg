@@ -1,0 +1,87 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11221
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1861
+        </temporal>
+        <temporal point = "end">
+            12/31/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1861
+    </note>
+    <note type = "journal content">
+        Les Martyrs ridicules de Léon Cladel portent  (pages 246-247) les dernières strophes des Petites Vieilles avec un vers de la leçon de l'anthologie Les Poètes français et une autre de la version de la Revue contemporaine  {1} Delesalle, Jean-François"Miettes baudelairiennes" RHLF 1963 115-116 [c. 1861] Philibert Audebrand fait un portrait littéraire de Baudelaire dans son Café de journalistes sous Napoléon III, Dentu, 1888, p. 295-296. cité {1}, qui révèle que Baudelaire disait ne jamais lire le Figaro
+    </note>
+    <note type = "researcher notes">
+        Fix References
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    42
+                </start>
+                <end>
+                    42
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

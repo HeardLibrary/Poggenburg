@@ -1,0 +1,31 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11121
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/20/1857
+        </temporal>
+        <temporal point = "end">
+            07/20/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        20 VII 57 =>20 VI 57
+    </note>
+    <note type = "journal content">
+        Pommier, Jean et Marcel Ruff, "Sur la date d'une lettre",  Le Cramérien No 1 {1}, avril 1972
+    </note>
+    <note type = "researcher notes">
+        Fix References
+    </note>
+</mods>

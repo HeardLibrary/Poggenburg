@@ -1,0 +1,171 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9984
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1863
+        </temporal>
+        <temporal point = "end">
+            12/31/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1863
+    </note>
+    <note type = "journal content">
+        J. Cressonnois compose des illustrations musicales pour  Harmonie du soir et L'Invitation au voyage {1}. Nouvelle édition chez Lévy des Aventures de Mlle Mariette, de Champfleury {2}. Hachette publie, posthume, Le Marquis du 1er Houzards de Paul de Molènes {3}. Cham fait la caricature (non-utilisée) du tableau de Manet, Lola de Valence {4}. Legros quitte Paris pour habiter Londres {5}. Fantin-Latour fait un portrait au crayon de Baudelaire, pour servir au  tableau: Hommage à Delacroix {6}. Carjat photographie Baudelaire devant des gravures; l'une d'elles semble être de Daumier {7}. Hachette réimprime le quatrième volume des Poètes français contenant des vers de Baudelaire.  Il manque la dernière strophe des Petites Vieilles.  L'introduction du volume est faite par Sainte-Beuve {8}. Champfleury écrit la première partie de son étude sur Baudelaire. Celle-ci paraîtra dans Souvenirs et portraits de jeunesse {9}. Robert Stoepel publie sa symphonie: Hiawatha {10}.
+    </note>
+    <note type = "researcher notes">
+        fix: Need citation for CML II; is Le Dantec A, B, or C (also ambiguous in CBMH).
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Le Dantec
+        </indentifier>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BJ
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    75
+                </start>
+                <end>
+                    75
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CML
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    I:1340
+                </start>
+                <end>
+                    I:1340
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatBN57
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    85
+                </start>
+                <end>
+                    85
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatBN57
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    85
+                </start>
+                <end>
+                    85
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatBN57
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    109
+                </start>
+                <end>
+                    109
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CML II
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    pl.75
+                </start>
+                <end>
+                    pl.75
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OCPl II
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1072
+                </start>
+                <end>
+                    1072
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    142n
+                </start>
+                <end>
+                    142n
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    702
+                </start>
+                <end>
+                    702
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

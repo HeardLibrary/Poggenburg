@@ -1,0 +1,97 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8598
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/01/1857
+        </temporal>
+        <temporal point = "end">
+            10/31/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        X 57
+    </note>
+    <note type = "journal content">
+        Mort de Charles Abbatucci, Garde des Sceaux, qui avait été à Saint Cyr le condisciple  d'Aupick.  Lors du procès des Fleurs du mal ed. de 1857, il a critiqué la moralité du volume {1}.
+    </note>
+    <note type = "researcher notes">
+        Check text/reference
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            M.R.-L.R.
+        </indentifier>
+        <titleInfo>
+            <title>
+                Menues Vérités, menues erreurs
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Mme Rosec-Leroy
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1971
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    CHECK THIS
+                </start>
+                <end>
+                    CHECK THIS
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Le Cramérien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>2</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>4 and 5</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        2
+                    </start>
+                    <end>
+                        5
+                    </end>
+                </extent>
+                <date>07/31/1971</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

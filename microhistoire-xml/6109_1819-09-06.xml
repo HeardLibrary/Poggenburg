@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6109
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/06/1819
+        </temporal>
+        <temporal point = "end">
+            09/06/1819
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        6 IX 19
+    </note>
+    <note type = "journal content">
+        A la maison de campagne des Pérignon à Auteuil, le conseil de famille de Caroline se réunit pour la signature de son contrat de mariage.  On associe au groupe des parents de la future Helmina Hocquet, sa petite-cousine. Les représentants de la famille des Pérignon s'augmentent des fils de Pierre, Paul et Alfred.  Pierre Pérignon, leur père, avocat, agit comme chargé du pouvoir de Mme Vve Foyot, née Campagnac;  il prête son assistance légale à Caroline.  L'absence de Claude-Alphonse Baudelaire est encore à noter.  Les époux se marient sous le régime de la communauté.  Caroline apporte à cette union un trousseau évalué à 1600 francs.  François donne à sa future la somme de trois mille francs, indépendante des revenus des biens fonciers qu'il possède.  Il lui fait donation également de l'usufruit, pendant sa vie, de 2000 francs de rente {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    51
+                </start>
+                <end>
+                    51
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

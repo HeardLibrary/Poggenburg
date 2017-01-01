@@ -1,0 +1,89 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8066
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/20/1854
+        </temporal>
+        <temporal point = "end">
+            12/20/1854
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 20 XII 54
+    </note>
+    <note type = "journal content">
+        Barbey d'Aurevilly envoie à Baudelaire un exemplaire de Du Dandysme et de G. Brummell.  Il promet de lui donner le reste de ses ouvrages dès qu'il les aura rassemblés.  Barbey fait pour Baudelaire la description de son oeuvre publiée et non-publiée, l'appelant un ami de deux jours qui en valent dix.  Baudelaire annotera cette  lettre, révélant qu'il doit voir de manière urgente Dutacq, Ducamp [sic], Hostein.  Il faudra qu'il fasse des visites à Albert, à Lafont et qu'il se mette en contact avec les personnes suivantes: Poulet-Malassis, Courbet, Delange [?], Buloz et De Gonet {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            LAB
+        </indentifier>
+        <titleInfo>
+            <title>
+                Lettres à Charles Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Neuchâtel</placeTerm>
+            </place>
+            <publisher>
+                Éditions la Baconnière
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    33
+                </start>
+                <end>
+                    33
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Études Baudelairiennes: nouvelles séries
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>4</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

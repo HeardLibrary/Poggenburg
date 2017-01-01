@@ -1,0 +1,169 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8943
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/01/1859
+        </temporal>
+        <temporal point = "end">
+            04/30/1859
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        IV 59
+    </note>
+    <note type = "journal content">
+        Duranty écrit "La Caractéristique des oeuvres de M. Champfleury",  essai qui porte en épigraphe une phrase de Baudelaire, y critiqué cependant pour ses tendances peu naturalistes {1}.  Cette étude sera publiée par Poulet-Malassis en 1861 {2}. Au dire d'Antonin Proust, Baudelaire et Manet se trouvent chez lui  au moment où  ils apprennent que le tableau: Le Buveur d'absinthe est refusé par le jury du Salon.  Manet attribue cet échec à l'opposition de Couture, son ancien maître.  Delacroix, pourtant, a approuvé ce tableau {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Parturier et Privat
+        </indentifier>
+        <titleInfo>
+            <title>
+                Duranty et Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Parturier, Maurice
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Privat, Daniel
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1953
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        1
+                    </start>
+                    <end>
+                        13
+                    </end>
+                </extent>
+                <date>01/01/1953</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Maynial
+        </indentifier>
+        <titleInfo>
+            <title>
+                ***
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Maynial, Édouard
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    63
+                </start>
+                <end>
+                    63
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <part>
+                <date>NULL</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            TITLE? Print for Poggenburg. Possibly PQ2247 .M386 1927
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Proust
+        </indentifier>
+        <titleInfo>
+            <title>
+                Edouard Manet. Souvenirs
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Proust, Antonin
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <publisher>
+                H. Laurens
+            </publisher>
+            <dateIssued>
+                1913
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

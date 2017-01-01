@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6655
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/11/1841
+        </temporal>
+        <temporal point = "end">
+            12/11/1841
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        11 XII 41
+    </note>
+    <note type = "journal content">
+        The South African Commercial Advertiser note l'escale de l'Alcide au  Cap {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Mouquet C
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire, le constance et l'invitation au voyage
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Mouquet, Jules
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1934
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>250</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>857</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        305
+                    </start>
+                    <end>
+                        312
+                    </end>
+                </extent>
+                <date>03/01/1934</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

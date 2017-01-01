@@ -1,0 +1,95 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8688
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/30/1858
+        </temporal>
+        <temporal point = "end">
+            01/30/1858
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        30 I 58
+    </note>
+    <note type = "journal content">
+        Dans le Monde illustré, Marcelin fait des caricatures, notamment une de Baudelaire intitulée "Charles Baudelaire respirant un bouquet des Fleurs du Mal" {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BDC
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire devant ses contemporains
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Union Générale d'Edition
+            </publisher>
+            <dateIssued>
+                1967
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    248bis
+                </start>
+                <end>
+                    248bis
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <note type = "source note">
+            Le Monde en 10/18, 364/365
+        </note>
+    </relatedItem>
+</mods>

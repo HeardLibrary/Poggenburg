@@ -1,0 +1,94 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10851
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/23/1866
+        </temporal>
+        <temporal point = "end">
+            05/23/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        23 V 66
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis apprend à Champfleury qu'on ramenera sans doute Baudelaire en France dans une quinzaine de jours.  La paralysie du poète a presque disparu et sa santé physique est bonne. Il mange, digère, dort et se promène {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Plan
+        </indentifier>
+        <titleInfo>
+            <title>
+                Lettres de Poulet-Malassis
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Plan, P.-P.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1933
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    697
+                </start>
+                <end>
+                    697
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>246</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>846</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        695
+                    </start>
+                    <end>
+                        698
+                    </end>
+                </extent>
+                <date>09/15/1933</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

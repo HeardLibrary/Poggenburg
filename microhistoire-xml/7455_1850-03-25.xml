@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7455
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/25/1850
+        </temporal>
+        <temporal point = "end">
+            03/25/1850
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        25 III 50
+    </note>
+    <note type = "journal content">
+        Mort d'Augustin-Jean-Zacharie Poulet-Malassis, père de Poulet-Malassis {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatPM
+        </indentifier>
+        <titleInfo>
+            <title>
+                Auguste Poulet-Malassis: Catalogue de l'exposition organise?e a? la Bibliothe?que d'Alenc?on par les Amitie?s litte?raires et Artistiques, avec le concours de la municipalite?, de l'imprimerie alenc?onnaise et des collections publiques et prive?es pour les centie?me anniversaire de l'e?dition des Fleurs du Mal
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Launay, Jean Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Alençon</placeTerm>
+            </place>
+            <publisher>
+                Imprimerie Alençonnaise
+            </publisher>
+            <dateIssued>
+                1957
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    19
+                </start>
+                <end>
+                    19
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+</mods>

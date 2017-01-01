@@ -1,0 +1,176 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9980
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/28/1862
+        </temporal>
+        <temporal point = "end">
+            12/28/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        fin 62
+    </note>
+    <note type = "journal content">
+        Par l'entremise de Mme Paul Meurice, Baudelaire envoie à Delâtre, imprimeur, une lettre où il dit attendre les épreuves d'un portrait de Victor Hugo.  Baudelaire demande à Delâtre de lui fournir cette épreuve pour qu'il la fasse approuver par Hugo en vue d'une éventuelle publication.  Le portrait gravé par Chenay ou celui par Legros conviendrait {1}.  A Mme Meurice, qui part pour Bruxelles, Baudelaire écrit sur une épreuve d'un portrait de Victor Hugo, imprimée par Delâtre.  Baudelaire lui fait savoir qu'il attend les épreuves des portraits promises par Delâtre.  Mme Meurice pourra les apporter à Bruxelles pour les soumettre à Hugo {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Marsan
+        </indentifier>
+        <titleInfo>
+            <title>
+                L'Editeur des Fleurs du Mal en Belgique
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Marsan, Jules
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Toulouse</placeTerm>
+            </place>
+            <dateIssued>
+                1936
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    No. 22
+                </start>
+                <end>
+                    No. 22
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>L'Archer<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>7</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>8</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        228
+                    </start>
+                    <end>
+                        259
+                    </end>
+                </extent>
+                <date>09/01/1936</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    275
+                </start>
+                <end>
+                    275
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

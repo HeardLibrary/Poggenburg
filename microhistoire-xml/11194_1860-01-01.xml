@@ -1,0 +1,46 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11194
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1860
+        </temporal>
+        <temporal point = "end">
+            01/31/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        I 60
+    </note>
+    <note type = "journal content">
+        Mallarmé copie, sur la première édition des Fleurs du mal ed. de 1857, trente pièces.  Ces poèmes se trouvent dans trois cahiers que Mallarmé intitule Glanes.  Selon Henri de Régnier ce serait dans une "bouquinière de province" qu'il est tombé sur ce trésor, dont la découverte l'ébranle fortement.  Mallarmé garde  les titres donnés par Baudelaire de: Au Lecteur; de Bénédiction; de La Muse vénale; de L'Homme et la mer; de L'Idéal; d'Une Charogne; de Tout entière.  J'aime le souvenir de ces épooques nues devient Beauté.  Tu mettrais l'univers... n'a pas de titre; Avec ses vêtements... et Une nuit que j'étais près d'une affreuse juive sont rebaptisés Sonnet  {1}
+    </note>
+    <note type = "researcher notes">
+        Fix reference
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Desgener Buba
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1988
+                </start>
+                <end>
+                    1988
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

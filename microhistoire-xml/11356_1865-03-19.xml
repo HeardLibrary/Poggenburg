@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11356
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/19/1865
+        </temporal>
+        <temporal point = "end">
+            03/19/1865
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        19 III 65
+    </note>
+    <note type = "journal content">
+        A Calmann Lévy, Baudelaire protest l'absence des trois volumes d'Histoires grotesques et serieuses que lui, "son auteur", n'a pas reçus, les ayant demandés.  Il reppelle à l'éditeur qu'il en faut un à Mme Aupick, A Honfleur, comme à Gustave Fr édérix et à Victor Joly, tous les deux en Belgique.  Chez Rosez tout à l'Heure, Baudelaire a ouvert un exemplaire de ce livre pour tomber sur une grosse faute d'imprimerie (CHAIR pour cher). Il en est abasourdi et tient pour responsables Voltaire et Erdan, tous les deux partisans déclarés de l'orthographe "des cuisiniers".  En l'asence d'une réponse, Baudelaire écrit à Calmann Lévy encore le 22, puis le 26 à Noël Parfait.  La correspondance à ce point tombe en silence, les volumes étant arrivés  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Mollier
+        </indentifier>
+        <titleInfo>
+            <title>
+                Michel & Calmann Lévy: ou, la naissance de l'edition moderne, 1836-189
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Mollier, Jean-Yves
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Calmann-Lévy
+            </publisher>
+            <dateIssued>
+                1984
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    384
+                </start>
+                <end>
+                    384
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

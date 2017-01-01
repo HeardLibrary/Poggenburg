@@ -1,0 +1,58 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11058
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/05/1854
+        </temporal>
+        <temporal point = "end">
+            07/05/1854
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        5 VII 54
+    </note>
+    <note type = "journal content">
+        Ulric-Hilaire F[allet] reconnaît comme sa fille naturelle Fernande-Ernesta-Jeanne, fille illégitime de Bébé Sabatier et Fernand Boissard  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ziegler Carré
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    90n
+                </start>
+                <end>
+                    90n
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Billy D
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    252
+                </start>
+                <end>
+                    252
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

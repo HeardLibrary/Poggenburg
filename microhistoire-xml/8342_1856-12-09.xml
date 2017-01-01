@@ -1,0 +1,107 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8342
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/09/1856
+        </temporal>
+        <temporal point = "end">
+            12/09/1856
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        9 XII 56
+    </note>
+    <note type = "journal content">
+        Baudelaire remercie Poulet-Malassis pour quelques billets de complaisance, surtout celui de 200 francs, qui est arrivé à un moment opportun.  Il accepte les termes proposés par son ami, qui devient dès maintenant son éditeur: il y aura des Fleurs du mal ed. de 1857 mille exemplaires à cinq sols chacun. Baudelaire entend arranger les diverses parties des Fleurs du mal ed. de 1857 avec Poulet-Malassis; il accorde de l'importance à cette tâche.  Il demande à Poulet-Malassis de mettre de côté pour lui tout ce qu'il pourra trouver sur  Choderlos de Laclos, ou de lui.  Baudelaire suggère comme titre de son volume de critique ou Miroir de l'art ou Cabinet esthétique. Toujours au Grand Hôtel Voltaire, Baudelaire s'impatiente de ne pouvoir en déménager, plaisantant sur le nom du philosophe pour se moquer des opinions affichées sur sa poésie par MM Havin et Plée, deux de ses bêtes noires.  Baudelaire est loin de partager l'avis favorable qu'ils ont sur la poésie de Voltaire. Baudelaire demande à Poulet-Malassis de "guérir" Asselineau des "superstitions grossières" qu'il a à propos de lui, Baudelaire {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    363
+                </start>
+                <end>
+                    363
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,137 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9933
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/28/1862
+        </temporal>
+        <temporal point = "end">
+            09/28/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        fin IX 62
+    </note>
+    <note type = "journal content">
+        De Guetary, Whistler écrit à Fantin-Latour à propos du numéro du Boulevard contenant "Peintres et aquafortistes" de Baudelaire.  Fantin-Latour le lui a envoyé.  Whistler trouve que la critique de Baudelaire sur les eaux-fortes porte plutôt sur les thèmes des ouvrages  que sur les eaux-fortes elles-mêmes {1}. Ayant fait un séjour d'une semaine à Solesmes, Villiers de l'Isle-Adam écrit à Baudelaire pour lui décrire l'abbé, Dom Guéranger, de façon admirative.  Villiers expose à Baudelaire un beau sujet de poème (ou de poème en prose), selon lui.  Un petit diable rend service à un vieil abbé; comme récompense, il demande qu'on bâtisse un clocher, car il aime le son des cloches.  Villiers a pu achever, dit-il, la rédaction de Samuèle [écrit qui devait constituer la troisième partie d'Isis].  Il recommande à Baudelaire la lecture de La Mystique de Görres et La Vie de Jésus du Dr Sepp {2}.
+    </note>
+    <note type = "researcher notes">
+        In the next to last line, is the comma after "Mystique" necessary?
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bailly-Herzberg
+        </indentifier>
+        <titleInfo>
+            <title>
+                L'Eau-forte de peintre au XIX siècle: La Société des Aquafortistes 1862-1867
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bailly-Herzberg, Janine
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <publisher>
+                Lager
+            </publisher>
+            <dateIssued>
+                1972
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    II:93
+                </start>
+                <end>
+                    II:93
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            LAB
+        </indentifier>
+        <titleInfo>
+            <title>
+                Lettres à Charles Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Neuchâtel</placeTerm>
+            </place>
+            <publisher>
+                Éditions la Baconnière
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    309
+                </start>
+                <end>
+                    309
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Études Baudelairiennes: nouvelles séries
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>4</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

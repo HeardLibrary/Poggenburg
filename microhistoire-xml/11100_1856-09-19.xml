@@ -1,0 +1,36 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11100
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/19/1856
+        </temporal>
+        <temporal point = "end">
+            09/19/1856
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        19 IX 56
+    </note>
+    <note type = "journal content">
+        Antonio Watripon rédige ses souvenirs  de L'Aimable Faubourien, journal de la Sainte Canaille, publié en 1848 et 1849 par Poulet-Malassis et d'autres.  Ce texte de Watripon portant cette date paraîtra dans la Gazette de Paris,   {1}
+    </note>
+    <note type = "researcher notes">
+        Fix References
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            à quelle date???, v. texte
+        </indentifier>
+    </relatedItem>
+</mods>

@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11321
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/21/1864
+        </temporal>
+        <temporal point = "end">
+            01/21/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        21 I 64
+    </note>
+    <note type = "journal content">
+        La Célébrité publie, sous la rubrique "La Semaine littéraire", un article d'Adolphe Kuntz de Rouvaire, qui fait une longue analyse d'Eureka.  Il identifie Baudelaire comme "l'introducteur obligé - premier en date et premier en mérite" d'Edgar Allan Poe.   {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Lazard-Brun
+        </indentifier>
+        <titleInfo>
+            <title>
+                Une Lettre de Baudelaire à Michel Lévy
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Lazard-Brun, Victoria
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1984
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin Baudelairien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>19</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>1</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        15
+                    </start>
+                    <end>
+                        19
+                    </end>
+                </extent>
+                <date>04/01/1984</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

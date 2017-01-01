@@ -1,0 +1,87 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10856
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/30/1866
+        </temporal>
+        <temporal point = "end">
+            05/30/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        30 V 66
+    </note>
+    <note type = "journal content">
+        Mme Aupick, avant de répondre à une lettre d'Ancelle sur la date de son retour à Paris avec Baudelaire, écrit à Poulet-Malassis.  Celui-ci avait promis de l'accompagner à la frontière belge, d'où elle serait pris en main par Asselineau.  Elle craint qu'il y a quelque empêchement possible du côté de l'éditeur et voudrait se rassurer auprès de lui que tout était en place pour ce voyage.  Baudelaire s'excite beaucoup ces jours-ci, faisant des scènes sans cesse renouvelée.  Mme Aupick se dit écoeurée d'apprendre que  non seulement Emon et Asselineau, mais surtout Poulet-Malassis soit persuadés que l'état de Baudelaire nécessite pour lui une maison de santé.  Pour elle, Poulet-Malassis devrait en penser autrement, étant donné qu'il connaissait mieux que les autres les bonnes possibilités du malade.  Si pourtant cette solution s'imposait éventuellement, Mme Aupick voudrait que la maison de santé choisie serait celle du Dr Blanche, qui l'aimait {1}.
+    </note>
+    <note type = "researcher notes">
+        source not in bibliography.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    44
+                </start>
+                <end>
+                    44
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

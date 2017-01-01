@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7240
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/29/1848
+        </temporal>
+        <temporal point = "end">
+            03/29/1848
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        29 III 48
+    </note>
+    <note type = "journal content">
+        Toubin et Baudelaire se présentent chez Nadar de très bonne heure, de la part de Champfleury.  Nadar étant absent, ils lui donnent rendez-vous dans un café, où ils l'attendent toute la journée.  Enfin, Toubin sort pour dîner, y laissant Baudelaire. Nadar arrive au café, dit qu'il ne veut avoir affaire qu'avec Toubin et rentre chez lui, d'où il écrit à ce dernier. Il l'informe qu'il part pour la Pologne, se battre aux côtés des Polonais opprimés.  A son retour, dit-il, il donnera satisfaction à Champfleury {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Greaves
+        </indentifier>
+        <titleInfo>
+            <title>
+                Nadar, ou le paradoxe vital
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Greaves, Roger
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Flammarion
+            </publisher>
+            <dateIssued>
+                1980
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    101-102, Toubin
+                </start>
+                <end>
+                    101-102, Toubin
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

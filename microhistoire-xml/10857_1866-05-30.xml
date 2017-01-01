@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10857
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/30/1866
+        </temporal>
+        <temporal point = "end">
+            05/30/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        30 V 66
+    </note>
+    <note type = "journal content">
+        Asselineau a reçu, avec un peu de retard, les lettres de Poulet-Malassis et d'Ancelle.  Celui-ci préfère ne pas aller à Bruxelles chercher Baudelaire.  Il prendrait plutôt la solution du Dr Blanche qui propose d'envoyer un domestique.  Leur entretien avec un éditeur pour Baudelaire est donc contremandé.  Pour les idées de Poulet-Malassis sur cette édition, Asselineau les accepte toutes, sauf celle d'une édition belge.  Banville, Gautier et Champfleury sont également de cet avis.  Tous, il pense qu'une telle démarche serait préjudiciable à la gloire de Baudelaire.  Sainte-Beuve croit qu'il n'y aurait pas de danger de rééditer les Fleurs du mal ed. de 1857 de 1857 en totalité.  Ancelle est d'avis que Lemer détient encore un manuscrit de Baudelaire [sans doute Pauvre Belgique, v. 31 I 66].  Selon Pincebourde, Fleurs du mal ed. de 1861 est épuisé.  A l'opposé d'Ancelle, qui voulait traiter immédiatement avec Lévy ou Dentu, Asselineau lui explique que Baudelaire avait des obligations envers son éditeur, qui devrait donc pouvoir profiter de cette affaire sans doute fructueuse.  Pour ce faire, il voit que Poulet-Malassis aura besoin d'un entrepositaire à Paris et lui demande un nom.  Asselineau se dit peu en mesure de faire maintenant le voyage de Bruxelles {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    571-572
+                </start>
+                <end>
+                    571-572
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

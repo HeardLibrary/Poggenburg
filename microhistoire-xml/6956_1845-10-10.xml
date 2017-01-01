@@ -1,0 +1,142 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6956
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/21/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/10/1845
+        </temporal>
+        <temporal point = "end">
+            10/10/1845
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        10 X 45
+    </note>
+    <note type = "journal content">
+        Un entrefilet du Corsaire-Satan remarque le succès de "Mlle Maria", qui joue Diane, dans Diane de Chivry au théâtre de Montmartre {1}.  Le Siècle publie la nouvelle de Balzac, Les Roueries d'un créancier.  Baudelaire y trouvera l'idée pour le titre "Comment payer ses dettes quand on a du génie": La Théorie de la lettre de change {2}.  v. 10 IX
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pichois H
+        </indentifier>
+        <titleInfo>
+            <title>
+                Autour de La Fanfarlo: Baudelaire, Balzac et Marie Daubrun
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1956
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    609n
+                </start>
+                <end>
+                    609n
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>328</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>1120</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        604
+                    </start>
+                    <end>
+                        636
+                    </end>
+                </extent>
+                <date>01/01/1956</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BLB
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire lecteur de Balzac
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Robb, Graham
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Librairie José Corti
+            </publisher>
+            <dateIssued>
+                1988
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    134
+                </start>
+                <end>
+                    134
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

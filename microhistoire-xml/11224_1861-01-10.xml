@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11224
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/10/1861
+        </temporal>
+        <temporal point = "end">
+            01/10/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        10 I 61
+    </note>
+    <note type = "journal content">
+        Baudelaire écrit à Jules Desaux pour lui rappeler qu'il est venu récemment voir Camille Doucet, pour se faire attribuer une  une indemnité littéraire par le Ministre d'Etat.  Il explique qu'en même temps il en avait sollicité pour un ami méritant [Guys].  Ayant appris que Doucet n'était plus concerné par ces fonctions, Baudelaire prie Desaux de jeter un coup d'oeil sur la note sur Guys jointe à sa lettre, souhaitant même que le Ministre puisse en avoir communication.  Cette note décrit Guys comme capable  d'écrire en anglais  aussi bien qu'en français et observe qu'il a publié une suite remarquable de dessins,  (que Baudelaire dit avoir examinée) sur la Campagne de Crimée.  Baudelaire voudrait pour Guys une place auprès de l'armée française ou comme expert en la connaissance des idées anglaises.  Pour l'heure il est dans l'embarras financier à cause de la mort soudaine de son patron Herbert Ingram, fondateur de l'Illustrated London News, qui lui servait une pension avant sa disparition. Pour situer le talent d'artiste de Guys, Baudelaire le compare à Gavarni et à Eugène Lami dans l'expression des moeurs, à Horace Vernet, en puissance de crayonner l'histoire.  Comme écrivain, pense Baudelaire, ses mémoires et descriptions de ses voyages indiquent assez sa force littéraire  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Duflo
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire et Constantin Guys. Trois lettres inédites
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Duflo, Pierre
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1983
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Revue d'Histoire Littéraire de la France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>83</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>4</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        599
+                    </start>
+                    <end>
+                        603
+                    </end>
+                </extent>
+                <date>07/01/1983</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,132 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10336
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/02/1864
+        </temporal>
+        <temporal point = "end">
+            07/02/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        2 VII 64
+    </note>
+    <note type = "journal content">
+        La Vie parisienne publie Les Yeux des pauvres de Baudelaire, sans signature d'auteur {1}.  Par l'intermédiaire de Glatigny, la Semaine de Cusset et de Vichy publie Les Vocations {2}. Mariage, à la mairie du 16e arrondissement, de "Bébé" [Irma-Adelina] Sabatier et Ulric-Hilaire Fallet.  Par acte de leur mariage, ils ont reconnu et légitimé Fernande-Ernesta-Jeanne, fille naturelle de Bébé et Fernand Boissier {3,4}.  Mallarmé publie, dans la Semaine de Vichy et de Cusset, L'Orgue de barbarie Plainte d'automne] et La Tête [Pauvre enfant pâle].  Le titre d'ensemble en est Poèmes en prose et la dédicace en est à Baudelaire {5}.
+    </note>
+    <note type = "researcher notes">
+        note 2 is missing
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Kopp
+        </indentifier>
+        <titleInfo>
+            <title>
+                Petits Poëmes en prose
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Kopp, Robert
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Librairie José Corti
+            </publisher>
+            <dateIssued>
+                1969
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    307
+                </start>
+                <end>
+                    307
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ziegler E
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    90n
+                </start>
+                <end>
+                    90n
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Billy D
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    252
+                </start>
+                <end>
+                    252
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Mallarmé
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1556
+                </start>
+                <end>
+                    1556
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

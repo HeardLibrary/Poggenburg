@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10919
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/05/1866
+        </temporal>
+        <temporal point = "end">
+            09/05/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 5 IX 66
+    </note>
+    <note type = "journal content">
+        Asselineau sympathise avec Poulet-Malassis au sujet de sa mauvaise santé et ses déboires en affaires.  Lui aussi se plaint de difficultés financières. Il voit Baudelaire tous les vendredis mais ne peut remarquer aucun progrès dans sa guérison.  Asselineau doute de la science médicale du Dr Duval.  Son grade d'officier de santé n'autorise aucunement son optimisme à propos de l'état de Baudelaire.  Celui-ci se  félicite d'une amélioration des mouvements du bras droit.  Récemment, Baudelaire lui a parlé pour la première fois de la publication de ses oeuvres, semblant désirer placer le tout chez Michel Lévy.  Asselineau s'en occupera auprès de cet éditeur.  De son côté, Asselineau trouve des ennuis avec Pincebourde pour son livre Mélanges tirés d'une petite bibliothèque romantique.  Baudelaire a reçu avec une grande sensibilité les nouvelles mélancoliques de Poulet-Malassis que lui a communiquées Asselineau {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    75
+                </start>
+                <end>
+                    75
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

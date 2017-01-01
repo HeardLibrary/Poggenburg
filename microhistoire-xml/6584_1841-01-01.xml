@@ -1,0 +1,141 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6584
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1841
+        </temporal>
+        <temporal point = "end">
+            01/31/1841
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        I 41
+    </note>
+    <note type = "journal content">
+        Aupick refuse le commandement de l'Ecole de Saint-Cyr {1}. Le Musée des familles réimprime l'article de Gautier sur les Contes d'Hoffmann; cet écrit a déjà paru le 14 VIII 36 {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Girard
+        </indentifier>
+        <titleInfo>
+            <title>
+                Un Ennemi de Baudelaire: le général Aupick
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Girard, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1922
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    279
+                </start>
+                <end>
+                    279
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>La Revue de la Semaine<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>19 mai</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        264
+                    </start>
+                    <end>
+                        286
+                    </end>
+                </extent>
+                <date>05/19/1922</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Hamrick
+        </indentifier>
+        <titleInfo>
+            <title>
+                The Role of Gautier in the art criticism of Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Hamrick, Lois Cassandra
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Nashville TN</placeTerm>
+            </place>
+            <publisher>
+                Vanderbilt University
+            </publisher>
+            <dateIssued>
+                1975
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    30-31
+                </start>
+                <end>
+                    30-31
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <note type = "source note">
+            Dissertation (Ph.D.)--Vanderbilt University, 1975
+        </note>
+    </relatedItem>
+</mods>

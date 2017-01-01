@@ -1,0 +1,80 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6252
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/01/1832
+        </temporal>
+        <temporal point = "end">
+            02/29/1832
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        II 32
+    </note>
+    <note type = "journal content">
+        Fin de la concession de cinq ans pour le tombeau de J.-F. Baudelaire au cimetière Montparnasse {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bandy I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Morts, les pauvres morts
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1967
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Revue des Sciences Humaines - Nouvelle Série<title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>127</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        477
+                    </start>
+                    <end>
+                        480
+                    </end>
+                </extent>
+                <date>07/01/1967</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

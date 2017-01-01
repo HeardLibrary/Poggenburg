@@ -1,0 +1,94 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6487
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/17/1838
+        </temporal>
+        <temporal point = "end">
+            12/17/1838
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        17 XII 38
+    </note>
+    <note type = "journal content">
+        On donne au théâtre de la Porte Saint-Antoine Le Système de mon oncle et Rose et Colas.  "Berthe" (sans doute Jeanne Duval) tient dans la première pièce le rôle de la bonne, Thérèse et dans la seconde celui de la comtesse. l'Entr'acte donne la distribution des deux pièces {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pichois C
+        </indentifier>
+        <titleInfo>
+            <title>
+                À propos d'un poème de Baudelaire Les Yeux de Berthe. Du nouveau sur Jeanne Duval?
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1955
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    197
+                </start>
+                <end>
+                    197
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Revue d'Histoire Littéraire de la France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>55</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>2</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        191
+                    </start>
+                    <end>
+                        205
+                    </end>
+                </extent>
+                <date>04/01/1955</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

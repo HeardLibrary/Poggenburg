@@ -1,0 +1,153 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10998
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/13/1867
+        </temporal>
+        <temporal point = "end">
+            08/13/1867
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        13 VIII 67
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis àssure Asselineau qu'il est de son avis et qu'il faudra songer au monument littéraire de Baudelaire, ses oeuvres complètes.  Il explique pour son ami ses propres droits sur cette publication: en 1865 il a rendu leurs traités et reconnaissances d'une dette de 6500. Baudelaire considérait le surplus de cette dette comme sacré, il entendait qu'il soit payé sur son bien s'il en venait à mourir ou par sa mère s'il décédait avant elle.  Aujourd'hui Poulet-Malassis est pleinement propriétaire des Epaves, qui consistent en des matières que Baudelaire considère des hors d'oeuvres.  Poulet-Malassis évoque encore, pour Asselineau, son avis que la malle se trouvant à Honfleur contient le matières de la troisième édition des Fleurs du mal ed. de 1857, arrangée à cet effet par Baudelaire.  Dans cette même malle, que doit recevoir Asselineau de Mme Aupick, se trouve une collection d'eaux-fortes et dessins d'Alphonse Legros appartenant à Poulet-Malassis, qu'il voudrait ne pas perdre.  Avant de partir en Belgique, Baudelaire la lui a laissée contre des faïences de Delft, en promettant de la donner à Poulet-Malassis à son retour en France.  Poulet-Malassis tient à retrouver un portrait de lui par Duran qu'il trouve assez bon. Poulet-Malassis a classé toute sa correspondance avec Baudelaire, trop remplie selon lui d'affaires d'argent pour être publiée.  Mais l'éditeur possède toutes les lettres à Baudelaire à propos des Fleurs du mal ed. de 1857.  Flaubert, Custine, Paul de Molènes, Sainte-Beuve [très belle lettre] y sont représentés.  Baudelaire avait l'intention d'en joindre quelques-unes à la version définitive des Fleurs du mal ed. de 1857, surtout celle de Sainte-Beuve.  Poulet-Malassis propose de venir à Paris pendant 48 heures pour discuter avec Asselineau de toute chose regardant la publication de cette édition.  Il approuve l'idée d'Asselineau de s'adjoindre Banville  pour le travail sur l'édition.  Egalement approuvé par lui est le choix de Michel Lévy comme éditeur, Baudelaire lui-même ayant voulu s'adresser à lui en dernier lieu.  Mais si c'est Lévy, celui-ci aurait à régler le problème du traité pour 1500 francs avec Hetzel pour prix de ses oeuvres.  Le traité que possède de son fils avec Poulet-Malassis servirait à Mme Aupick à s'en prévaloir contre Hetzel (parce qu'antérieur) mais Poulet-Malassis doute que cette femme honnête s'en servirait {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Crépet P
+        </indentifier>
+        <titleInfo>
+            <title>
+                Miettes baudelairiennes
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1940
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    319
+                </start>
+                <end>
+                    319
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>296</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>994</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        321
+                    </start>
+                    <end>
+                        335
+                    </end>
+                </extent>
+                <date>02/01/1940</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            Corrected volume number 11/1/2016
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    94
+                </start>
+                <end>
+                    94
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

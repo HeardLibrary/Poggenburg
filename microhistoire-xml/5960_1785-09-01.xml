@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        5960
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/01/1785
+        </temporal>
+        <temporal point = "end">
+            09/30/1785
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        IX 1785
+    </note>
+    <note type = "journal content">
+        J.-F. Baudelaire entre au service du colonel comte Antoine de Choiseul-Praslin, comme précepteur de ses deux enfants, Félix (sept ans) et Alphonse (cinq ans).  Il habitera, avec ses élèves, rue du Bac, au coin de la rue de Varennes, près de l'hôtel Praslin situé rue de Bourbon [aujourd'hui rue de Lille].  Pendant une dizaine d'années il y logera, ainsi qu'à Auteuil dans la maison de campagne de la famille.  Pour aider ses élèves, il composera et illustrera un manuel, La Langue latine démontrée par des figures, de 153 pages. A Auteuil les voisins de François sont Cabanis, Condorcet et Destutt de Tracy, familiers du salon de Mme Helvétius {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    23-24
+                </start>
+                <end>
+                    23-24
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11229
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/16/1861
+        </temporal>
+        <temporal point = "end">
+            01/16/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        16 I 1861
+    </note>
+    <note type = "journal content">
+        Baudelaire informe Desaux qu'il lui a fait transmettre par Guys une lettre de demande d'indemnité et une note sur Guys,  et qu'il rendra bientôt visite au Ministère d'Etat pour lui fournir de plus amples renseignements sur cet artiste  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Duflo
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire et Constantin Guys. Trois lettres inédites
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Duflo, Pierre
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1983
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Revue d'Histoire Littéraire de la France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>83</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>4</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        599
+                    </start>
+                    <end>
+                        603
+                    </end>
+                </extent>
+                <date>07/01/1983</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

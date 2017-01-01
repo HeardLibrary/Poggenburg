@@ -1,0 +1,87 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9912
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/06/1862
+        </temporal>
+        <temporal point = "end">
+            09/06/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        6 IX 62
+    </note>
+    <note type = "journal content">
+        Un article d'Algernon Swinburne sur les Fleurs du mal ed. de 1857 paraît, anonymement, dans le Spectator (Londres). Baudelaire enverra à Swinburne un exemplaire de Richard Wagner et Tannhäuser à Paris, avec la dédicace: "Mr. Algernon C. Swinburne/Bon souvenir et mille remerciements, CB"  {1}.
+    </note>
+    <note type = "researcher notes">
+        Check page # for reference
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Cecil Lang
+        </indentifier>
+        <titleInfo>
+            <title>
+                Letters. Edited by Cecil Y. Lang
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Swinburne, Algernon Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Lang, Cecil Y.
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">New Haven CT</placeTerm>
+            </place>
+            <publisher>
+                Yale University Press
+            </publisher>
+            <dateIssued>
+                1959-62
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    IV 9n CHECK
+                </start>
+                <end>
+                    IV 9n CHECK
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

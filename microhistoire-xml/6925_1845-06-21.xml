@@ -1,0 +1,43 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6925
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/21/1845
+        </temporal>
+        <temporal point = "end">
+            09/22/1845
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        été 45
+    </note>
+    <note type = "journal content">
+        A un entr'acte de l'Odéon, Baudelaire rencontre Asselineau. Il lui offre à boire et le ramène chez lui, à l'Hôtel Pimodan.  Asselineau peut ainsi voir le portrait du poète par Emile Deroy, ainsi que la lithographie d'Hoffmann par Lemud. Ils discutent de poésie et Baudelaire récite des vers, notamment Je t'adore à l'égal de la voûte nocturne... et Cauchemar.  Baudelaire voue une grande admiration à Banville et à son livre: Les Cariatides {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Cr'epet
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    169
+                </start>
+                <end>
+                    169
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

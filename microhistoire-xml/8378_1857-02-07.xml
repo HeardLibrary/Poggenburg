@@ -1,0 +1,51 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8378
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/07/1857
+        </temporal>
+        <temporal point = "end">
+            02/07/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        7 II 57
+    </note>
+    <note type = "journal content">
+        Jugement, "à regret", en faveur de Flaubert dans le procès de Madame Bovary {1}. La Bibliographie de la France enregistre l'Histoire anecdotique et critique des 159 journaux parus en l'an de grâce 1856. Firmin Maillard, son auteur, y cite une phrase de Fernand Desnoyers sur la valeur poétique de Baudelaire {2}.
+    </note>
+    <note type = "researcher notes">
+        Flaubert A ou B?
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Flaubert
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    466
+                </start>
+                <end>
+                    466
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+    </relatedItem>
+</mods>

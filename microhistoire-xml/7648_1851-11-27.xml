@@ -1,0 +1,126 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7648
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/27/1851
+        </temporal>
+        <temporal point = "end">
+            11/27/1851
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        27 XI 51
+    </note>
+    <note type = "journal content">
+        Baudelaire publie dans la Semaine théâtrale "Les Drames et les romans honnêtes" {1}. Il s'y moque de La Ciguë et de Gabrielle, pièces d'Emile Augier.  Baudelaire trouve leur  moralité "bourgeoise" assez douteuse, puisqu'elle mène plutôt au vice qu'à la vertu (qualité qui est le but de l'auteur de ces ouvrages).  Baudelaire voit dans cette école une réaction contre le romantisme violent de Mademoiselle de Maupin de Gautier, ou de Kean, ou Désordre et génie, de Dumas père.  Il s'élève contre l'emploi de termes religieux en des circonstances profanes, comme on en trouve chez les écrivains de cette école, ainsi que chez les "poètes abrutis par la volupté païenne".  Il déplore l'esprit qui permet le succès de Jérôme Paturot..., et lui oppose les écrits de Pierre Leroux et de Proudhon.  Il loue également Victor Hugo et  Viollet-le-Duc et  critique la réduction de l'art à la propagande.  Aucune oeuvre belle ne pourra être moralement laide.  Il cite  l'auto-défense de Balzac, contre l'attaque d'Hippolyte Castille, dans la Semaine du mois d'octobre, 1846. Les écrits de Balzac sont taxés  d'immoralité.  Baudelaire trouve que les ouvrages moralisateurs de Berquin, de Montyon et d'Emile Augier rendront leurs émules vicieux et non vertueux.  Il qualifie également le décret Faucher de "satanique" et déclare qu'il encouragera l'hypocrisie.  Baudelaire termine son article en disant qu'il a l'intention d'analyser les tentatives de Balzac et de Diderot visant à  rajeunir le théâtre {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OCPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome II
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    38, 1095
+                </start>
+                <end>
+                    38, 1095
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

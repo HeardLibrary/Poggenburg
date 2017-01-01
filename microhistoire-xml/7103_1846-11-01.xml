@@ -1,0 +1,87 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7103
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/01/1846
+        </temporal>
+        <temporal point = "end">
+            11/30/1846
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        XI 46
+    </note>
+    <note type = "journal content">
+        Le nom de Baudelaire ne figure plus sur la liste d'inscription à l'Ecole des Chartes {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Guilhermoz
+        </indentifier>
+        <titleInfo>
+            <title>
+                Curiosités
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Guilhermoz, R.D.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1890
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>1</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>11</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        415
+                    </start>
+                    <end>
+                        416
+                    </end>
+                </extent>
+                <date>11/01/1890</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            Corrected page numbers
+        </note>
+    </relatedItem>
+</mods>

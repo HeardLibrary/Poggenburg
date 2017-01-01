@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6174
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/30/1827
+        </temporal>
+        <temporal point = "end">
+            09/30/1827
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        30 IX 27
+    </note>
+    <note type = "journal content">
+        Naissance de Marie Bruneau, dite Marie Daubrun, née Marie Mardel, à Saint-Jean-des-Vignes, Saône et Loire {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Boureau
+        </indentifier>
+        <titleInfo>
+            <title>
+                L'Etat-civil de Marie Daubrun
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Boureau, Yvon
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1958
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Revue d'Histoire Littéraire de la France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>58</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>1</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        59
+                    </start>
+                    <end>
+                        61
+                    </end>
+                </extent>
+                <date>01/01/1958</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

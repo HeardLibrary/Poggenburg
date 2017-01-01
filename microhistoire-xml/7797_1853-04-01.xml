@@ -1,0 +1,91 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7797
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/01/1853
+        </temporal>
+        <temporal point = "end">
+            04/30/1853
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        IV 53
+    </note>
+    <note type = "journal content">
+        Date-limite pour la composition de ces poèmes: Le Reniement de Saint Pierre; L'Homme et la mer;L'Ame du vin; Le Jet d'eau; Le Mort joyeux; Une Charogne; Les  Litanies de Satan; Les Tribades [Les Femmes damnées]; Le Vin des chiffonniers.  Le recueil contenant ces textes, et  s'arrêtant à cette date, a été constitué par un ami de Baudelaire.   Il contient également les onze sonnets publiés sous le titre: Les Limbes, en 1851, par le Messager de l'Assemblée: Pluviôse irrité...; Le Mauvais Moine; L'Idéal; Le Mort joyeux; Les Chats [v. supra]; La Mort des artistes; La Mort des amants; Le Tonneau de la haine; De Profundis clamavi; La Cloche fêlée; Les Hiboux {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OCPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome I
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1975
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    807
+                </start>
+                <end>
+                    807
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

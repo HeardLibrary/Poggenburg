@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7631
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/27/1851
+        </temporal>
+        <temporal point = "end">
+            04/27/1851
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        27 IX 51
+    </note>
+    <note type = "journal content">
+        La Bibliographie de la France, dans sa description de la République du peuple, Almanach démocratique. (1ère édition), nomme comme rédacteurs Fr. Arago, Carnot, Charras, Curnier, Durand Savoyat, Lastrade, Michel De Bourges, Sain, Schoelcher, tous représentants du peuple.  Th. Dufour et Sarrans (jeune) sont décrits comme anciens constituants.  On compte Baudelaire sans lui donner un état, avec un groupe comprenant, E. Caylus, Pierre Dupont, Léopold Duras, Forgues, Geniller, A. Karr, Pierre Lachambaudie, A. Lombard-Morel, Gust. Mathieu, A. Morel, Mussot, Th. Pelloquet.  Le volume doit paraître en 1852, un in-16 de quatre feuilles plus un tableau à l'imprimerie de Riqueur l'aîné.  Il se vendra au bureau du National, 15, rue Saint-Georges.  On y trouve L'Ame du vin de Baudelaire, accompagné d'une gravure de Damourette, gravée par Coste  {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

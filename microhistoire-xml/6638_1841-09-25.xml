@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6638
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/25/1841
+        </temporal>
+        <temporal point = "end">
+            09/25/1841
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        25 IX 41
+    </note>
+    <note type = "journal content">
+        Le Cernéen mentionne Baudelaire parmi les passagers à bord du Paquebot des mers du sud pour l'Ile Bourbon. D'autres passagers nommés: MM Delaruelle et Melly {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Foucque
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire aux Iles Maurice et Bourbon
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Foucque, H.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1930
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>La Grande Revue<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>mai</number>
+                    <caption>issue</caption>
+                </detail>
+                <detail type = "number">
+                    <number>132</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        390
+                    </start>
+                    <end>
+                        407
+                    </end>
+                </extent>
+                <date>05/01/1930</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,86 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7708
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/19/1852
+        </temporal>
+        <temporal point = "end">
+            05/19/1852
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 19 V 52
+    </note>
+    <note type = "journal content">
+        Champfleury écrit à Baudelaire, qui habite maintenant 11, boulevard Bonne-Nouvelle, pour l'avertir que si la préface n'est pas faite le jeudi matin, il la fera lui-même {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Crépet M
+        </indentifier>
+        <titleInfo>
+            <title>
+                Lettres adressées ou relatives à Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1939
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    452
+                </start>
+                <end>
+                    452
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        447
+                    </start>
+                    <end>
+                        455
+                    </end>
+                </extent>
+                <date>12/20/1939</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

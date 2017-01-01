@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6108
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/24/1819
+        </temporal>
+        <temporal point = "end">
+            08/24/1819
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        24 VIII 19
+    </note>
+    <note type = "journal content">
+        En l'absence d'un acte de naissance pour Caroline Dufaÿs on réunit pour elle un conseil de famille, dont la composition est décidée par Pierre Pérignon.  Les parents parisiens de Caroline sont: Lucie Campagnac, veuve de Michel François Hocquet, rentière; son oncle et sa tante, François Hocquet, imprimeur et Elisabeth Jacqueline Hocquet, née Ruggieri. Tous trois sont domicilié 4, rue du Faubourg-Montmartre.  La famille Pérignon est représentée par Pierre Pérignon; Louise Coudougnan sa femme; Julie Etiennette Coudougnan, veuve de Jean Ventenat, sa belle-soeur. Mlle Alexis Bernier, fille majeure, sans désignation de parenté ni d'alliance mais qui habite, comme les Pérignon, 8, rue Neuve-des-Augustins.  Ces sept signataires attestent, par un acte de notoriété dressé pour Caroline, la connaître parfaitement.  Ils témoigent des faits qu'elle est née vers 1794 en Angleterre, que ses parents s'y sont mariés et que son père est mort dans l'affaire de Quiberon.  L'acte fait état de la mort de sa mère au retour en France.  Claude-Alphonse Baudelaire n'est pas présent {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    50
+                </start>
+                <end>
+                    50
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

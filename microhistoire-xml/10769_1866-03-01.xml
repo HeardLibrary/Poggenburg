@@ -1,0 +1,181 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10769
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/01/1866
+        </temporal>
+        <temporal point = "end">
+            03/31/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        III 66
+    </note>
+    <note type = "journal content">
+        Prarond envoie à Baudelaire ses Airs de flûte sur des motifs graves. Le nom du destinataire paraît, imprimé, sur la page du titre, avec ceux de: Chennevières; Moland; Sainte-Beuve; Banville; Le Vavasseur; du Boulet; J. Buisson; Monselet;  Champfleury; Gautier; Wallon; Nadar; Janin {1}. Champfleury remercie Prarond de son envoi d'Airs de flûte sur des motifs graves.  Il regrette pourtant que l'auteur n'ait pas inclu une pièce de vers sur Baudelaire, "car il [Baudelaire] est bien du temps et a  continué sa route en poète" {2}.  Toutefois, l'un des poèmes dédiés à Le Vavasseur fait allusion à Baudelaire, dont la voix "lente et grave" pouvait mettre en valeur les faibles beautés de leurs vers de jeunesse {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Wallace A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire and Prarond: the question of the Vers Retrouvés
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Wallace, James K.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Nashville TN</placeTerm>
+            </place>
+            <publisher>
+                Vanderbilt University
+            </publisher>
+            <dateIssued>
+                1971
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    52
+                </start>
+                <end>
+                    52
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <note type = "source note">
+            Dissertation (Ph.D.)--Vanderbilt University, 1971
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Wallace A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire and Prarond: the question of the Vers Retrouvés
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Wallace, James K.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Nashville TN</placeTerm>
+            </place>
+            <publisher>
+                Vanderbilt University
+            </publisher>
+            <dateIssued>
+                1971
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    52-53
+                </start>
+                <end>
+                    52-53
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <note type = "source note">
+            Dissertation (Ph.D.)--Vanderbilt University, 1971
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Wallace A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire and Prarond: the question of the Vers Retrouvés
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Wallace, James K.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Nashville TN</placeTerm>
+            </place>
+            <publisher>
+                Vanderbilt University
+            </publisher>
+            <dateIssued>
+                1971
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    55
+                </start>
+                <end>
+                    55
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <note type = "source note">
+            Dissertation (Ph.D.)--Vanderbilt University, 1971
+        </note>
+    </relatedItem>
+</mods>

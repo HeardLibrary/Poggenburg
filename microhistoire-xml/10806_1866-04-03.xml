@@ -1,0 +1,148 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10806
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/03/1866
+        </temporal>
+        <temporal point = "end">
+            04/03/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        3 IV 66
+    </note>
+    <note type = "journal content">
+        Baudelaire est transporté de l'hôtel du Grand Miroir dans une maison religieuse, l'Institut Saint-Jean et Sainte-Elisabeth. On diagnostique une apoplexie {1}. Arthur Stevens, qui a transporté Baudelaire à l'hospice, informe la famille du poète des événements,  va chercher des médecins et écrit à Alfred Stevens pour lui dire ce qu'il a fait {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Kunel B
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire en Belgique
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Kunel, Maurice
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Liége</placeTerm>
+            </place>
+            <publisher>
+                Soledi
+            </publisher>
+            <dateIssued>
+                1944
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    163
+                </start>
+                <end>
+                    163
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Adhémar A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire et les frères Stevens, sa modernité
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Adhémar, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <dateIssued>
+                1958
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    125
+                </start>
+                <end>
+                    125
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Gazette des Beaux-Arts<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>51</number>
+                    <caption>volume</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        123
+                    </start>
+                    <end>
+                        126
+                    </end>
+                </extent>
+                <date>02/01/1958</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    6
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

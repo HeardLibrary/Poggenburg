@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11334
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/02/1864
+        </temporal>
+        <temporal point = "end">
+            07/02/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        2 VII 64
+    </note>
+    <note type = "journal content">
+        Dans la Semaine de Vichy, Stéphane Mallarmé L'Orgue de Barbarie; Plainte d'automne, et La Tête  (Pauvre Enfant pâle) sous le titre d'ensemble  (ref Pleiade)/  Mariage, à la Mairie du 16e Arrondissement de Paris de "Bébé [Irma-Adelina] Sabatier et Ulrich Hilaire F...   [Fallet] selon Billy Pres 252] Par acte de leur mariage ils ont reconnu et légitimé Fernande-Ernesta- Jeanne, fille naturelle de Bébé et Fernand Boissier (Ziegler Carré, 90n).  Pazzo, dans le Nain jaune, parle d'un "jeune avocat" de sa connaissance qui se fait fort de pasticher n'importe quel poète du moment.  Comme exemple il donne le texte d'un sonnet: Ma Rosse à la manière de Baudelaire, fait en 14 minutes et 2 chopes  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

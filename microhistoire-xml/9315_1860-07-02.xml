@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9315
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/02/1860
+        </temporal>
+        <temporal point = "end">
+            07/02/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        2 VII 60
+    </note>
+    <note type = "journal content">
+        Banville et Marie Daubrun arrivent à Paris, venant du Midi.  Ils dînent chez Marie avec la mère et une petite cousine de 15 ans.  La mère, selon Banville, est "absolument matérielle".  Ces trois personnes s'appellent Marie et se ressemblent {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Lacroix
+        </indentifier>
+        <titleInfo>
+            <title>
+                Théodore de Banville: Une famille pour un poète: Biographie originale, historique et documentaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Lacroix, Raymond
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Moulins</placeTerm>
+            </place>
+            <publisher>
+                Pottier
+            </publisher>
+            <dateIssued>
+                1990
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    291
+                </start>
+                <end>
+                    291
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

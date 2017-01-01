@@ -1,0 +1,92 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11308
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/01/1863
+        </temporal>
+        <temporal point = "end">
+            10/01/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1 X 63
+    </note>
+    <note type = "journal content">
+        Publication d'Eaux-fortes par Edouard Manet en édition pprésumée petite.  Baudelaire en reçoit un jeu d'épreuves dédicacé: "à mon ami Charles Baudelaire"  En reçoit écgalement Lejosne, comme d'autres amis intimes de l'artiste  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Cat Manet
+        </indentifier>
+        <titleInfo>
+            <title>
+                Manet 1832-1883: Catalogue de l'Exposition
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Valéry, Paul
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Jamot, Paul
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Musée de l'Orangerie
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Éditions des Musées Nationaux
+            </publisher>
+            <dateIssued>
+                1932
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    170, 532
+                </start>
+                <end>
+                    170, 532
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+</mods>

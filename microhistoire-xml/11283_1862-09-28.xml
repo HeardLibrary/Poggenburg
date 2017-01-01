@@ -1,0 +1,36 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11283
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/28/1862
+        </temporal>
+        <temporal point = "end">
+            09/28/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        28 IX 62
+    </note>
+    <note type = "journal content">
+        Au cours d'une lettre à Poulet-Malassis, Champfleury en arrive à parler de Salammbô de Flaubert.  Il le trouve "d'un ennui à avaler sa langue".  Seuls, Victor [Hugo?],  Baudelaire et les précieux , ou les romantiques attardés le trouveront bon  {1}
+    </note>
+    <note type = "researcher notes">
+        Fix References
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T, microfilm de lettres à P-M de Champfleury, BSC
+        </indentifier>
+    </relatedItem>
+</mods>

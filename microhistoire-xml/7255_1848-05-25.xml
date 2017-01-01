@@ -1,0 +1,183 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7255
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            04/22/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/25/1848
+        </temporal>
+        <temporal point = "end">
+            05/25/1848
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        25 V 48
+    </note>
+    <note type = "journal content">
+        Marie Daubrun crée, à la Porte-Saint-Martin, le rôle de la comtesse de Cayla, maîtresse de Louis XVIII, dans Le Maréchal Ney, drame historique en cinq actes et onze tableaux de Depeuty, Anicet-Bourgeois et Dennery {1}. "Le Scarabée d'or" traduit par Isabelle Meunier, paraît dans la Démocratie pacifique {2}. On représente La Marâtre, pièce de Balzac.  Baudelaire y assiste, peut-être en compagnie de Champfleury {3}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Feuillerat A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire et la belle aux cheveux d'or
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Feuillerat, Albert
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">New Haven CT</placeTerm>
+            </place>
+            <publisher>
+                Yale University Press
+            </publisher>
+            <dateIssued>
+                1941
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    84
+                </start>
+                <end>
+                    84
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bandy K
+        </indentifier>
+        <titleInfo>
+            <title>
+                Edgar Allan Poe: sa vie et ses ouvrages
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Toronto ON</placeTerm>
+            </place>
+            <publisher>
+                University of Toronto Press
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    xvi
+                </start>
+                <end>
+                    xvi
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Romance Series
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>22</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BLB
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire lecteur de Balzac
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Robb, Graham
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Librairie José Corti
+            </publisher>
+            <dateIssued>
+                1988
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

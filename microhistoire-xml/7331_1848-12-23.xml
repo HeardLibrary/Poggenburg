@@ -1,0 +1,90 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7331
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/23/1848
+        </temporal>
+        <temporal point = "end">
+            12/23/1848
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        23 XII 48
+    </note>
+    <note type = "journal content">
+        A la requête de M. Druet des Vaux, Poulet-Malassis est libéré des pontons de Brest {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Contades
+        </indentifier>
+        <titleInfo>
+            <title>
+                Auguste Poulet-Malassis
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Contades, Gérard de
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1881
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    75
+                </start>
+                <end>
+                    75
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Le Livre<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>5</number>
+                    <caption>volume</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        73
+                    </start>
+                    <end>
+                        86
+                    </end>
+                </extent>
+                <date>03/10/1884</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,131 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6546
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1840
+        </temporal>
+        <temporal point = "end">
+            12/31/1840
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1840
+    </note>
+    <note type = "journal content">
+        Liaison de Baudelaire avec la juive Sarah, dite Louchette, qui lui inspire des poèmes (Je n'ai pas pour maîtresse...; Tu mettrais l'univers...) {1}. Auguste Préault fait sa statue du Christ en croix;  elle servira d'inspiration à Baudelaire pour la 5e strophe du poème: Le Reniement de Saint Pierre {2}. Ancelle est conseiller municipal à Neuilly {3}.  Date [sans doute fausse] donnée dans Les Epaves pour A Une Malabaraise {4}. Alphonse Esquiros publie, chez Le Gallois, Les Vierges folles, pamphlet en faveur des prostituées {5}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OC61
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. texte établi et annoté par Y.-G. Le Dantec; édition révisée, complétée et présentée par Claude Pichois
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1961
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    xvii
+                </start>
+                <end>
+                    xvii
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            FM1959
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    488
+                </start>
+                <end>
+                    488
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Dufay E
+        </indentifier>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CML II
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    65
+                </start>
+                <end>
+                    65
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

@@ -1,0 +1,46 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9160
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/19/1860
+        </temporal>
+        <temporal point = "end">
+            01/19/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        19 I 60
+    </note>
+    <note type = "journal content">
+        A Bruxelles, Philoxène Boyer fait une conférence sur La Peinture flamande et son influence sur les autres écoles; la salle est presque vide {1}.  L'Indépendance belge qualifie Baudelaire d'"une des plumes les plus brillantes de ce temps" {2}..
+    </note>
+    <note type = "researcher notes">
+        2nd note is missing
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Charlier
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    144-145
+                </start>
+                <end>
+                    144-145
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

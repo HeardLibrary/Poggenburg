@@ -1,0 +1,66 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11294
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/09/1863
+        </temporal>
+        <temporal point = "end">
+            04/09/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        9 IV 63
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis déclare que ses revenus se montent à 24 000 francs par an, ses frais à 22 000 francs.  Cela laisse 400 francs par mois de bénéfices.  Il attribue aux frais ruineux de son magasin cette débâcle financière.  A Champfleury, Poulet-Malassis explique sa raison de ne pas déposer son bilan trois jours après la cessation des paiements.  C'est que ce délai a permis la résiliation d'un bail de 6 500 francs.  S'il avait fait son dépôt de bilan en temps légal, tout l'argent du bail serait retourné à la charge de sa faillite.  C'est ce délai pourtant qui le rend justiciable de la police correctionnelle  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-APM
+        </indentifier>
+        <titleInfo>
+            <title>
+                Auguste Poulet-Malassis. L'Editeur de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Fayard
+            </publisher>
+            <dateIssued>
+                1996
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

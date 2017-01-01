@@ -1,0 +1,186 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9977
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/13/1862
+        </temporal>
+        <temporal point = "end">
+            12/13/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        13 XII 62
+    </note>
+    <note type = "journal content">
+        Répondant à Poulet-Malassis, Baudelaire lui fait part de la "belle proposition" d'Hetzel  [2000 francs] à propos de la publication  des Fleurs du mal ed. de 1857 et des Petits Poèmes in prose . Lévy, quant à lui, ne s'est pas encore décidé. La proposition d'Hetzel est insuffisante  et est loin d'atteindre les souhaits de Baudelaire. Baudelaire repousse la suggestion de Poulet-Malassis de trouver quelqu'un pour diriger ses affaires. Il préfère apprendre à le faire lui-même. Lévy est furieux d'apprendre que Baudelaire négocie dans le même temps avec Hetzel. Il dit qu'Hetzel prend le "dessus du panier". Il veut tout ou rien.  Pourtant, Lévy n'offre à Baudelaire qu'une petite rente irrégulière, produit de la vente de ses oeuvres. Elle serait insuffisante de toute façon pour les besoins de Baudelaire. Prenant pour Poulet-Malassis l'exemple de la pièce d'Emile Augier,  Le Fils de Giboyer, il voit en elle l'exemple d'une  nouveauté littéraire dont on parle beaucoup et qui est à la mode mais dont il ne se soucie pas.  Il évoque  le grand succès de Salammbô, dont une édition de deux mille exemplaires a été épuisée en deux jours. Flaubert aurait reçu 12.000 ou 13.000 francs et non pas 30.000. Encore faut-il compter avec Madame Bovary, dont le contrat vient de se terminer chez Lévy.  Baudelaire pense que Salammbô est une belle oeuvre mais non exempte de défauts. Il se moque de la réaction excessive de Babou à propos de ce livre et le qualifie de "taquin". Baudelaire, dont la santé est précaire, dit avec sérieux que pour être guéri il aurait besoin d'un médecin du génie de Mesmer, de Cagliostro ou du [miraculeux] tombeau [du diâcre] Pâris. Il lui raconte, avec envie, la sympathie de Mme Paul Meurice à son égard {1}.  Baudelaire répond à Mme Aupick que les choses vont mal pour lui, qu'il doit 5.000 francs dans l'affaire de la faillite de Poulet-Malassis et que les Fleurs du mal ed. de 1861 et les Paradis artificiels sont "abandonnés aux hasards du rabais".  Il lui a  envoyé Les Poètes français pour qu'elle lise ce que Gautier a dit sur lui.  Il dément la nouvelle qu'avaient transmise ses "espions" soutenant qu'il est gai ces jours-ci et déclare que sa santé est déplorable, tout comme son moral. Baudelaire dit qu'il est plongé dans une "grandissime affaire" [peut-être la proposition qu'il prenne la direction d'un grand théâtre subventionné], affaire qu'il n'espère pas pouvoir mener à bien {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    171, 183, 609, 612
+                </start>
+                <end>
+                    171, 183, 609, 612
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    272
+                </start>
+                <end>
+                    272
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

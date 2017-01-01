@@ -1,0 +1,66 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7171
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/24/1847
+        </temporal>
+        <temporal point = "end">
+            08/24/1847
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        24 VIII 47
+    </note>
+    <note type = "journal content">
+        Mort du duc de Choiseul-Praslin {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Michaud
+        </indentifier>
+        <titleInfo>
+            <title>
+                Biographie universelle ancienne et moderne: ou, Histoire, par Ordre alphabétique, de la vie publique et privée de tous les hommes qui se sont fait remarquer par leurs écrits, leurs actions, leurs talents, leurs vertus ou leurs crimes
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Michaud, Joseph-François
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Delagrave
+            </publisher>
+            <dateIssued>
+                1870
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                07/02/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

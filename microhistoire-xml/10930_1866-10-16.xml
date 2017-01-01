@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10930
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/16/1866
+        </temporal>
+        <temporal point = "end">
+            10/16/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        16 X 66
+    </note>
+    <note type = "journal content">
+        Manet écrit à Nadar de venir le chercher à son atelier, pour qu'ils aillent ensemble prendre Baudelaire {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BN24277
+        </indentifier>
+        <titleInfo>
+            <title>
+                Lettres de la Collection d'autographes formée par Félix et Paul Nadar: XVIII Mac Donald-Mazère
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Letter
+        </genre>
+        <note type = "source note">
+            DATE?
+        </note>
+    </relatedItem>
+</mods>

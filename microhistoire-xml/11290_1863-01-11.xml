@@ -1,0 +1,46 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11290
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/11/1863
+        </temporal>
+        <temporal point = "end">
+            01/11/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        add to: 11 I 63
+    </note>
+    <note type = "journal content">
+        Carjat reconnaît l'activité de Poulet-Malassis en publiant d'excellents écrivains comme Banville, Babou, Baudelaire, Benjamin  Gastineau, Leconte de Lisle, Adolphe Perreau, et al  {1}
+    </note>
+    <note type = "researcher notes">
+        Fix references: P-Z?; Second edition addendum
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-V
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    476
+                </start>
+                <end>
+                    476
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

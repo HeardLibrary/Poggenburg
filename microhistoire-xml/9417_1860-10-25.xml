@@ -1,0 +1,111 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9417
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/25/1860
+        </temporal>
+        <temporal point = "end">
+            10/25/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        25 X 60
+    </note>
+    <note type = "journal content">
+        Dans la Revue de l'instruction publique, Arthur Arnould fait un compte rendu des Paradis artificiels et donne son opinion  sur les Fleurs du mal ed. de 1857 et les traductions d'Edgar Allan Poe {1}. Dans un article de Figaro, Alphonse Daudet soutient que Baudelaire est prêt à vendre son âme au Diable.  Encourent le même reproche: Gautier, About, La [danseuse] Rigolboche, Ernest Blum  [vaudevilliste], [le petit] Duchesne [journaliste au Figaro] {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bornecque C
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les années d'apprentissage d'Alphonse Daudet: la jeunesse, le second empire, les premières Suvres et les Suvres méridionales, avec de nombreux inédits
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bornecque, Jacques Henry
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1951
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    301-302
+                </start>
+                <end>
+                    301-302
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

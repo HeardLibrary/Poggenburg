@@ -1,0 +1,140 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6630
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/01/1841
+        </temporal>
+        <temporal point = "end">
+            09/01/1841
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1 IX 41
+    </note>
+    <note type = "journal content">
+        Escale forcée du Paquebot des mers du sud à Port-Louis, dans l'Ile Maurice {1}.  Le capitaine Saliz observe que la  tristesse de Baudelaire ne fait que croître à son hôtel avec les autres passagers, qu'il ne fréquente que des "hommes de lettres inconnus".  Baudelaire exprime le désir de rentrer en France; Saliz refuse, selon les instructions qu'il a reçues d'Aupick.  Il refuse en outre de remettre à Baudelaire l'argent qui reste et qui était destiné à payer les frais du voyage. Pourtant, pour amener Baudelaire à l'accompagner à l'Ile Bourbon, Saliz promet d'accéder à ses désirs, s'il persiste.  Baudelaire l'assure que sa famille approuverait se décision de revenir en France {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Foucque
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire aux Iles Maurice et Bourbon
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Foucque, H.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1930
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>La Grande Revue<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>mai</number>
+                    <caption>issue</caption>
+                </detail>
+                <detail type = "number">
+                    <number>132</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        390
+                    </start>
+                    <end>
+                        407
+                    </end>
+                </extent>
+                <date>05/01/1930</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            EJC
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire: étude biographique / d'Eugène Crépet, revue et mise à jour par Jacques Crépet, suivie des Baudelairiana d'Asselineau et de nombreuses lettres adressées à Ch. Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Eugène
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A. Messein
+            </publisher>
+            <dateIssued>
+                1906
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    221
+                </start>
+                <end>
+                    221
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

@@ -1,0 +1,79 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8331
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/10/1856
+        </temporal>
+        <temporal point = "end">
+            11/10/1856
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        10 XI 56
+    </note>
+    <note type = "journal content">
+        A Alençon, Poulet-Malassis compose, met en pages, tire à 26 exemplaires et plie une brochure in-16 carré, de 44 pages.  C'est H.Baudelaire.P.M., contrefaçon de l'essai de Mérimée sur Stendhal {1}.
+    </note>
+    <note type = "researcher notes">
+        fix abbreviation
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Dufay C
+        </indentifier>
+        <titleInfo>
+            <title>
+                Autour de Baudelaire: Poulet-Malassis, l'éditeur et l'ami; Madame Sabatier, la muse et la madone
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Dufay, Pierre
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Cabinet du Livre
+            </publisher>
+            <dateIssued>
+                1931
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    36
+                </start>
+                <end>
+                    36
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

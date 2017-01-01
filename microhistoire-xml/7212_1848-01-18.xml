@@ -1,0 +1,91 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7212
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/18/1848
+        </temporal>
+        <temporal point = "end">
+            01/18/1848
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        18 I 48
+    </note>
+    <note type = "journal content">
+        Un article de Baudelaire sur les Contes de Champfleury paraît dans le Corsaire-Satan. Baudelaire y remarque spécialement l'histoire de Rodolphe Bresdin, (Chien-Caillou), M. le Maire de Classy-les-Bois (en comparant son auteur à Balzac pour sa connaissance de la province), Carnaval, Pauvre Trompette, M. Prudhomme au Salon, Grandeur et décadence d'une sérinette, Une Religion au cinquième, Fuenzès, Simple Histoire d'un rentier, d'un lampiste et d'une horloge, Van Schaendel, père et fils.  Baudelaire loue le style de ces contes et n'hésite pas devant la comparaison à ceux de Balzac.  Il estime Champfleury comme supérieur à Dumas et à Paul Féval.  Baudelaire évoque également, comme comparaison, Les Contes normands et Les Histoires baguenaudières, de Philippe de  Chennevières {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OCPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome II
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    21, 1088
+                </start>
+                <end>
+                    21, 1088
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

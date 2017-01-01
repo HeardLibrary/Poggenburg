@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9880
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/01/1862
+        </temporal>
+        <temporal point = "end">
+            06/01/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        après VI 62
+    </note>
+    <note type = "journal content">
+        Swinburne écrit "Ernest Clouët", qu'il envoie au Spectator (Londres).  Ce périodique le fait composer sans l'imprimer.  Il s'agit d'un article "critique" sur un poète inexistant et dont le caractère ressemble fort à celui de Baudelaire. Le portrait est sans doute inspiré par un article de Pétrus Borel daté du 15 juillet 1861 [qu. v].  On décèle chez Swinburne l'influence des Fleurs du mal ed. de 1857 {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            NWS
+        </indentifier>
+        <titleInfo>
+            <title>
+                New Writings by Swinburne or Miscellaneous nova et curiosa. Being a medley of poems, critical essays, hoaxes and burlesques
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Swinburne, Algernon Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Lang, Cecil Y.
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Syracuse NY</placeTerm>
+            </place>
+            <publisher>
+                Syracuse University Press
+            </publisher>
+            <dateIssued>
+                1964
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    225
+                </start>
+                <end>
+                    225
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

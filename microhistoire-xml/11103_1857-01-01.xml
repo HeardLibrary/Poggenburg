@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11103
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1857
+        </temporal>
+        <temporal point = "end">
+            12/31/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1857
+    </note>
+    <note type = "journal content">
+        A Bruxelles, Emile Deschanel publie plusieurs poèmes ou fragments de poèmes de Baudelaire: Delphine et Hippolyte  {1} (vers 61-68); Don Juan aux enfers; Le Vampire; Les Métamorphoses du vampire; Le Léthé; Causerie  (2e strophe); L'Amour et le crâne.  Cette sorte d'anthologie s'intitule Le mal qu'on a dit de l'amour. Elle a paru dans la «Collection Hetzel et Lévy frères» datée de 1857, peut-être entre le 21 juin et le 20 août.  L'inclusion des pièces condamnées par le tribunal est à noter {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pichois V
+        </indentifier>
+        <titleInfo>
+            <title>
+                Deschanel et Baudelaire: présence des Fleurs du Mal dans une anthologie de 1857
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1989
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin Baudelairien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>24</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>2</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        57
+                    </start>
+                    <end>
+                        59
+                    </end>
+                </extent>
+                <date>12/01/1989</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

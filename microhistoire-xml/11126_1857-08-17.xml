@@ -1,0 +1,78 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11126
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/17/1857
+        </temporal>
+        <temporal point = "end">
+            08/17/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 17 VIII 57
+    </note>
+    <note type = "journal content">
+        Sans doute à l'occasion de sa publication des Articles justificatifs Dondey-Dupré reçoit un exemplaire des Fleurs du mal ed. de 1857 avec cette dédicace: "A M. Dondey-Dupré, témoignage de sympathie/C.Baudelaire."  {1}
+    </note>
+    <note type = "researcher notes">
+        Fix References
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Cat Bouquiniste
+        </indentifier>
+        <titleInfo>
+            <title>
+                Le bouquiniste belge: Catalogue des livres
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Brussels</placeTerm>
+            </place>
+            <publisher>
+                Moorthamers
+            </publisher>
+            <dateIssued>
+                1924-1926
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <detail type = "volume">
+                <number>72</number>
+                <caption>volume</caption>
+            </detail>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+        <note type = "source note">
+            No. 58
+        </note>
+    </relatedItem>
+</mods>

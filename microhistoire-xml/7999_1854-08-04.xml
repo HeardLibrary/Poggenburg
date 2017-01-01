@@ -1,0 +1,117 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7999
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/04/1854
+        </temporal>
+        <temporal point = "end">
+            08/04/1854
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        4 VIII 54
+    </note>
+    <note type = "journal content">
+        La seconde partie du Puits et le pendule paraît dans le Pays {1}. Champfleury écrit à Max Buchon disant: "Cette préface de Poe, de Baudelaire, est en effet remarquable: mais à peine terminera-t-il cette édition de contes cruels, algébriques et cauchmardesques que vous en connaissez pas, vous.  Avec quelques romanciers comme Poe, on aurait une littérature terrible.  Barbara [Charles], qui a du talent, semble un de ses élèves" {2}.
+    </note>
+    <note type = "researcher notes">
+        check text/reference
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Kameya
+        </indentifier>
+        <titleInfo>
+            <title>
+                Un conteur méconnu: Louis-Charles Barbara
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Kameya, Nori
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Nice</placeTerm>
+            </place>
+            <publisher>
+                Université de Nice
+            </publisher>
+            <dateIssued>
+                1983
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    I:57
+                </start>
+                <end>
+                    I:57
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <note type = "source note">
+            Thesis (Ph.D.)--University of Nice, 1983
+        </note>
+    </relatedItem>
+</mods>

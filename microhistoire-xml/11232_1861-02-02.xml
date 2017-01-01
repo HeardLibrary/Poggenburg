@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11232
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/02/1861
+        </temporal>
+        <temporal point = "end">
+            02/02/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        2 II 61
+    </note>
+    <note type = "journal content">
+        Dans le Monde illustré, Monselet donne un article nécrologique sur Henry Murger.  On y lit: "Hantant le quartier, qui était alors un Paris dans Paris, il s'y lia avec une bande de jeunes gens qui, depuis, se sont tous créé d'importants positions: - avec M. Auguste Vitu, aujourd'hui l'un des principaux rédacteurss du Constitutionnel; avec M. Champfleury, le romancier si discuté et si populaire; avec M. Fauchery, le correspondant voyageur du Moniteur; avec M. Théodore de Banville, d'Héricault, Charles Baudelaire, Barbara, Gustave Courbet, Bonvin,  Armand Barthet et tant d'autres qui sont aujourd'hui la gloire et la dignité de leur profession..."  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

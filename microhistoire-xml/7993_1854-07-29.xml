@@ -1,0 +1,108 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7993
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/21/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/29/1854
+        </temporal>
+        <temporal point = "end">
+            07/29/1854
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        29 VII 54
+    </note>
+    <note type = "journal content">
+        L'Argus... annonce qu'à la Gaîté, on crée  Le Sanglier des Ardennes, ou Le Spectre du château, mélodrame en 5 actes de Louis-Emile Vanderburch.  Marie Daubrun tient le rôle de Marguerite.  Elle y paraîtra tous les soirs, sauf le 15 août, jusqu'au 26 de ce dernier mois {1,2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Wicks
+        </indentifier>
+        <titleInfo>
+            <title>
+                The Parisian Stage: alphabetical indexes of plays and authors
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Wicks, Charles Beaumont
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Tuscaloosa AL</placeTerm>
+            </place>
+            <publisher>
+                University of Alabama Press
+            </publisher>
+            <dateIssued>
+                1950-1979
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    University of Alabama Studies
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

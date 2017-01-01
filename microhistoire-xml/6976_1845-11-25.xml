@@ -1,0 +1,48 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6976
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/25/1845
+        </temporal>
+        <temporal point = "end">
+            11/25/1845
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        25 XI 45
+    </note>
+    <note type = "journal content">
+        Baudelaire et Banville publient ensemble dans le Corsaire-Satan un fragment de Sapho.  Pierre Dupont et Auguste Vitu collaborent également à cet ouvrage, parodie d'un poème dramatique  en préparation d'Arsène Houssaye, directeur de l'Artiste.   Cette mystification a été organisée par Vitu.  On y décoche en passant une flèche à Ponsard, à propos de sa Lucrèce {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pommier A 522
+        </indentifier>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OCPl II
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1079
+                </start>
+                <end>
+                    1079
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11102
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/15/1856
+        </temporal>
+        <temporal point = "end">
+            11/15/1856
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        15 XI 56
+    </note>
+    <note type = "journal content">
+        Figaro publie, d'Edmond Duranty, "Les Jeunes".  On y lit des attaques contre: Ponsard, Augier, Feuillet, Dumas fils, Pontmartin, Du Camp, Pichat, Ulbach, de Molènes, Séjour, de Saint-Victor, Murger, Goudall, Jules de La Madelène, Ch. Barbara, About, Monselet, Bouilhet, Leconte-Delisle [sic].  Baudelaire est décrit comme "vampire", appelé "téte de mort" et accusé de n'avoir rien écrit depuis dix ans, enfin de s'être attaché à Edgar Allan Poe  (également attaqué) par intérêt.  Pourtant, de tous les traînards romantiques, Baudelaire "a le plus de tournure de sa catégorie"  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

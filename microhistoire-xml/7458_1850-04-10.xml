@@ -1,0 +1,241 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7458
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/10/1850
+        </temporal>
+        <temporal point = "end">
+            04/10/1850
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        10 IV 50
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis et sa soeur donnent leur consentement à la demande de brevets d'imprimeur et de libraire, faite au gouvernement, par leur mère.  Poulet-Malassis est décrit comme élève de l'Ecole des Chartes, résidant à Paris, mais domicilié à Alençon {1}.  Louis-Napoléon Bonaparte remercie Aupick d'une lettre détaillée sur "le véritable état des choses" à Constantinople; il l'encourage à en écrire d'autres {2}. Le Prince-Président répond favorablement aussi à la demande extraordinaire que lui a faite Aupick pour promouvoir Lefrançois, capitaine d'artillerie {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatPM
+        </indentifier>
+        <titleInfo>
+            <title>
+                Auguste Poulet-Malassis: Catalogue de l'exposition organise?e a? la Bibliothe?que d'Alenc?on par les Amitie?s litte?raires et Artistiques, avec le concours de la municipalite?, de l'imprimerie alenc?onnaise et des collections publiques et prive?es pour les centie?me anniversaire de l'e?dition des Fleurs du Mal
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Launay, Jean Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Alençon</placeTerm>
+            </place>
+            <publisher>
+                Imprimerie Alençonnaise
+            </publisher>
+            <dateIssued>
+                1957
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    19
+                </start>
+                <end>
+                    19
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pichois F
+        </indentifier>
+        <titleInfo>
+            <title>
+                Le Beau-père de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1955
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    475
+                </start>
+                <end>
+                    475
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>324</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>1102</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        261
+                    </start>
+                    <end>
+                        281
+                    </end>
+                </extent>
+                <date>06/01/1955</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>324</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>1103</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        472
+                    </start>
+                    <end>
+                        490
+                    </end>
+                </extent>
+                <date>07/01/1955</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pichois F
+        </indentifier>
+        <titleInfo>
+            <title>
+                Le Beau-père de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1955
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    482
+                </start>
+                <end>
+                    482
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>324</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>1102, 1103</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        261
+                    </start>
+                    <end>
+                        281
+                    </end>
+                    <start>
+                        472
+                    </start>
+                    <end>
+                        490
+                    </end>
+                </extent>
+                <date>06/01/1955</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            TODO
+        </note>
+    </relatedItem>
+</mods>

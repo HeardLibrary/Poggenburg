@@ -1,0 +1,113 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9506
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/03/1861
+        </temporal>
+        <temporal point = "end">
+            02/03/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        3 II 61
+    </note>
+    <note type = "journal content">
+        Charles Boverat, dans la Causerie, appelle Baudelaire (avec Banville et Murger) un des "astres les plus éclatants" du Corsaire-Satan à l'époque où Murger y écrivait.  Charles de Puyramant y évoque également les nouveaux locaux de la Librairie Poulet-Malassis et De Broise. Il signale une fresque où sont représentés tous les auteurs de  la maison, dont Baudelaire. Puyrament annonce aussi la mise en vente de la seconde édition des Fleurs du mal ed. de 1861, ainsi que  La Double Conversion d'Alphonse Daudet {1}. La Société des Jeunes Artistes fait entendre à Paris La Marche des fiançailles de Lohengrin {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Servières
+        </indentifier>
+        <titleInfo>
+            <title>
+                ***
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Servières, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    47
+                </start>
+                <end>
+                    47
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <part>
+                <date>NULL</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            TITLE? Print for Poggenburg. Possibly PQ2247.M386 1927
+        </note>
+    </relatedItem>
+</mods>

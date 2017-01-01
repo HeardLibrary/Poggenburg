@@ -1,0 +1,100 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9709
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/01/1861
+        </temporal>
+        <temporal point = "end">
+            10/15/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        XII 61-15 X 63
+    </note>
+    <note type = "journal content">
+        Baudelaire rédige la page II du Carnet.  Il espère avoir  la somme de 9000 francs en 20 jours. Doivent rapporter: ses poèmes en prose, 4000 francs; ses études sur Duranty (400 francs), sur Villemain (1200 francs), sur les peintres (1200 francs), sur les Dandies (1200 francs).  {it Eureka doit lui rapporter 1000 francs.  Pour Guérin, Baudelaire note les adresses d'Eugène Boursier (marchand de vins, 42, rue Notre-Dame de Lorette) et de Dorlin, huissier (62, faubourg Montmartre).  En haut du feuillet se trouve l'adresse de Poulet-Malassis à Bruxelles: 15bis, rue Traversière {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            JI
+        </indentifier>
+        <titleInfo>
+            <title>
+                Journaux intimes. Fusées. Mon Coeur mis à nu. Carnet
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Blin, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Blin, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Librairie José Corti
+            </publisher>
+            <dateIssued>
+                1949
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    109, 238, 411
+                </start>
+                <end>
+                    109, 238, 411
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

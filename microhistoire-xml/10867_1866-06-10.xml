@@ -1,0 +1,87 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10867
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/10/1866
+        </temporal>
+        <temporal point = "end">
+            06/11/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        vers le 10-11 VI 66?
+    </note>
+    <note type = "journal content">
+        Asselineau déclare à Poulet-Malassis que Baudelaire ne souffre certainement pas de la folie, que l'on de devrait en aucun cas le confier à l'établissement du Dr Blanche.  Asselineau trouve touchant mais puéril ou senile le sentiment maternel pourtant, ayant assisté à la lecture de plusieurs de ses lettres.  Surtout l'idée qu'elle a d'avoir récupéré son enfant en l'adulte qu'il est devenu, après de longues années de séparation.  Il voit dans cette sentimentalité un signe que Mme Aupick insistera pour le garder au lieu de le confier à Poulet-Malassis ou à lui.  Mais les améliorations de santé physique et intellectuel chez Baudelaire le font pensé qu'ils n'ont pas besoin de hâter la décision sur la publication de son oeuvre.  A ce sujet il trouve juste que Poulet-Malassis puisse partager les bénéfices d'une vente, faisant valoir des soins et des sacrifices faits par Poulet-Malassis en faveur de Baudelaire depuis si longtemps.  Il conclue donc que Poulet-Malassis devrait publier quand et ou il veut à Paris les Fleurs du mal ed. de 1857 et les poèmes en prose.  Plus tard il pourra traiter pour le reste, peut-être avec Lévy {1}.
+    </note>
+    <note type = "researcher notes">
+        Date uncertain
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    54
+                </start>
+                <end>
+                    54
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

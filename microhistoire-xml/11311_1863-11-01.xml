@@ -1,0 +1,46 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11311
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/01/1863
+        </temporal>
+        <temporal point = "end">
+            11/30/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        XI 63?
+    </note>
+    <note type = "journal content">
+        Baudelaire laisse à la réception de l'hôtel de Dieppe un mot pour Edmond Laumonier, son copiste.  Il lui rappelle leur rendez-vous pour le lendemain.  Baudelaire lui demande le sens d'un mot (hickory) et d'une phrase (vanishing pictures).  On les trouve dans Le Cottage Landor (ClP "Un billet inédit de Baudelaire à Laumonier Buba et {2}
+    </note>
+    <note type = "researcher notes">
+        Fix References; Date uncertain
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    833
+                </start>
+                <end>
+                    833
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

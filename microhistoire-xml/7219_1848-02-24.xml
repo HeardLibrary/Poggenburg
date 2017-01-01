@@ -1,0 +1,381 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7219
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/24/1848
+        </temporal>
+        <temporal point = "end">
+            02/24/1848
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        24 II 48
+    </note>
+    <note type = "journal content">
+        Toubin rencontre Baudelaire et Barthet, le matin, au  carrefour de Buci.  Ils sont armés de fusils de chasse et sont prêts à se battre derrière une barricade qui ne les couvre que jusqu'à la ceinture.  Selon Jules Buisson, qui les y retrouve le même soir, Baudelaire s'est servi d'un fusil volé chez un armurier {1}.  Toubin prétend qu'à cette date l'argent trimestriel de Baudelaire était épuisé {2}. Pendant que son beau-fils prend part à l'insurrection, Aupick s'efforce de contenir ses élèves à  l'Ecole Polytechnique.  Ils n'obéissent pas à ses ordres et sortent pour se battre dans les rues {3}.  Selon le témoignage de Fargue, élève de première année, Aupick, dans l'amphithéâtre de l'Ecole polytechnique, prend la parole devant tous les élèves.  Il les exhorte à la patience et au calme et leur recommande à continuer à lui faire confiance. Les élèves désirent sortir de l'Ecole.  Ils voudraient se joindre à la Garde nationale pour se placer entre les combattants mais Aupick ne veut pas leur permettre cette liberté, tout en approuvant leur intention de faire ainsi la paix.  Soudain l'Ecole se voit attaquer par des hommes du peuple qui essayent d'en enfoncer les portes.  Ces hommes demandent qu'on leur livre les élèves.  Pour trancher cette question l'Ecole passe au vote, les élèves choisissant la sortie.  Pendant la journée une compagnie de la troupe est assaillée devant l'Ecole par une troupe d'hommes du peuple: un ou deux hommes sont tués.  Aupick fait entrer les soldats dans l'Ecole.  A ce moment un homme du peuple le couche en joue, et il n'est sauvé que par l'intervention des camarades du tireur et par des élèves qui l'identifient comme commandant de l'institution.  Aupick, qui n'accepte pas de rendre les soldats au peuple, ordonne à ses élèves de prendre les fusils des militaires et de les escorter comme prisonniers à leur caserne.  Cela fait, le groupe sort par une porte de derrière, et rentre accompagné par les cries d'approbation du peuple {4}.  Charles de Freycinet, élève de seconde année, décrit l'action d'un groupe auquel il appartient.  On veut s'interposer entre gouvernement et peuple.  Ils consultent leur commandant.  Aupick, au lieu de le leur défendre, reconnaît l'inutilité d'un refus. Il leur donne la permission de sortir sur leur parole d'honneur de ne faire que ce qu'ils proposen {5}.  Au cours de ces événements Aupick envoie au duc de Nemours deux messages, l'une pour décrire l'état d'effervescence des élèves, l'autre pour dire qu'il n'est plus maître de l'Ecole {6}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BDC
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire devant ses contemporains
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Union Générale d'Edition
+            </publisher>
+            <dateIssued>
+                1967
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    100-101
+                </start>
+                <end>
+                    100-101
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <note type = "source note">
+            Le Monde en 10/18, 364/365
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bandy et Mouquet
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire en 1848
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Mouquet, Jules
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Émile-Paul Frères
+            </publisher>
+            <dateIssued>
+                1946
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    11
+                </start>
+                <end>
+                    11
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Girard
+        </indentifier>
+        <titleInfo>
+            <title>
+                Un Ennemi de Baudelaire: le général Aupick
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Girard, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1922
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    282
+                </start>
+                <end>
+                    282
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>La Revue de la Semaine<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>19 mai</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        264
+                    </start>
+                    <end>
+                        286
+                    </end>
+                </extent>
+                <date>05/19/1922</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    254
+                </start>
+                <end>
+                    254
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    255
+                </start>
+                <end>
+                    255
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    256
+                </start>
+                <end>
+                    256
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

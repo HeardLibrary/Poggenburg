@@ -1,0 +1,75 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10872
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/21/1866
+        </temporal>
+        <temporal point = "end">
+            06/21/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        21 VI 66
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis écrit à Champfleury pour lui demander "quelques notes sur le Baudelaire de l'hôtel Pimodan" qu'il n'a pas connu. Poulet-Malassis lui avoue qu'il a rencontré Baudelaire en sa compagnie, chez Perrin, rue du Petit-Lion-Saint-Sulpice, en 1850, pour la première fois {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bulletin 74-75
+        </indentifier>
+        <titleInfo>
+            <title>
+                ***
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1964
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Chapter
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin Pierre Berès<title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>74-75</number>
+                    <caption>number</caption>
+                </detail>
+                <date>08/01/1964</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

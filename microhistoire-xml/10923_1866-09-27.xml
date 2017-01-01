@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10923
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/27/1866
+        </temporal>
+        <temporal point = "end">
+            09/27/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        27 IX 66
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis félicite Asselineau sur ses publications sur Furetière et sur la caricature antique.  Pour l'édition des poèmes en prose de Baudelaire, Poulet-Malassis trouve chimérique les projets d'Asselineau.  Il pense que, même en bonne santé intellectuelle, Baudelaire n'aurait jamais pu en venir à bout.  Il y en a 70 d'écrits mais d'une qualité inégale. De plus, il en manque 28 sur les cent que Baudelaire aurait voulu faire pour choisir ceux du volume éventuel.  Pour sa critique littéraire, il y en a dont il n'a écrit que les titres, telle "Chateaubriand, chef de file des Dandys".  Les  curiosités esthétiques présentent les mêmes problèmes.  Toute la matière de ces volumes, telle qu'elle est, est à Honfleur.  Poulet-Malassis craint les complications entourant la formulation d'une entente avec Baudelaire pour ces publications.  Poulet-Malassis observe que Baudelaire, avant son aphasie, s'occupait beaucoup à chercher à faire un traité pour ses oeuvres, mais n'arrivait pas à terminer les volumes pour lesquels il voulait traiter.  Pendant les six mois qui ont précédé son accident, Baudelaire était d'une incapacité  d'écrire vingt lignes quelconques, selon Poulet-Malassis.  En deux ans à Bruxelles il n'a fait qu'une dizaine de brefs poèmes en prose et Les Bons Chiens.  En tout, 15 à 20 pages.  Un traité avec Levy ou un autre est impensable.  Baudelaire n'aura, selon Poulet-Malassis, pas d'édition d'ensemble de son vivant.  L'éditeur répète son jugement que seule une édition des Fleurs du mal ed. de 1857 serait de mise, et immédiatement.  Ce serait la manière d'avoir le consentement facile du poète, convaincu par la promesse d'une édition ultérieure de ses oeuvres.  La malle se trouvant à Honfleur [jamais retrouvée] contient toutes les matières de cette nouvelle édition. Poulet-Malassis observe qu'une telle édition manque depuis une année chez les libraires parisiens {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    77
+                </start>
+                <end>
+                    77
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

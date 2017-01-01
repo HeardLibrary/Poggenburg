@@ -1,0 +1,160 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7518
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/01/1850
+        </temporal>
+        <temporal point = "end">
+            11/31/1850
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        XI 50
+    </note>
+    <note type = "journal content">
+        Baudelaire habite 95, avenue de la République, au dire de Vitu.  Celui-ci se réfère à une lettre [manquante] de Baudelaire en sa possession {1}. Maxime Du Camp et Flaubert, au cours de leur voyage en Orient, passent une soirée chez le général Aupick et la mère de Baudelaire.  Sans savoir que Baudelaire est de leur famille, Du Camp fait la louange du poète {2}. L'Artiste publie Sapho, d'Arsène Houssaye, poème parodié en 1845 par Baudelaire, Vitu et Banville {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pincebourde
+        </indentifier>
+        <titleInfo>
+            <title>
+                Souvenirs. Correspondance. Bibliographie suivie de pièces inédites
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <publisher>
+                René Pincebourde
+            </publisher>
+            <dateIssued>
+                1872
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    118
+                </start>
+                <end>
+                    118
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Du Camp
+        </indentifier>
+        <titleInfo>
+            <title>
+                Souvenirs littéraires
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Du Camp, Maxime
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Hachette et C.ie
+            </publisher>
+            <dateIssued>
+                1906
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <detail type = "volume">
+                <number>2</number>
+                <caption>volume</caption>
+            </detail>
+            <extent unit = "pages">
+                <start>
+                    II:57-58
+                </start>
+                <end>
+                    II:57-58
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

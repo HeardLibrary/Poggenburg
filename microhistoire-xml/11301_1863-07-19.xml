@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11301
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/19/1863
+        </temporal>
+        <temporal point = "end">
+            07/19/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        19 VII 63
+    </note>
+    <note type = "journal content">
+        Dans le Journal des baigneurs  (Dieppe) dans sa "Chronique parisienne", Charles Coligny demande "Qu'est devenue... cette Tentation de Saint-Antoine, cet autre roman archéologique que M. Flaubert n'a jamais voulu nous donner que des fragments?  M. Charles Baudelaire, cet élève de Pétrus Borel qui a voulu faire école de lycanthropie comme M. Flaubert école d'immoralité archéologique, a proclamé qu'il trouve dans la Tentation de Saint-Antoine des morceaux éblouissants; par exemple: [ici suit une longue citation de la fin del'essai de Baudelaire sur Madame Bovary  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

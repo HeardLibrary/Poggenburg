@@ -1,0 +1,75 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10949
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/24/1866
+        </temporal>
+        <temporal point = "end">
+            12/24/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        24 XII 66
+    </note>
+    <note type = "journal content">
+        Baudelaire déjeune en compagnie de Théophile Silvestre, qui l'emmène ensuite chez lui.  Vers 6h du soir, Baudelaire tient à rentrer rue du Dôme.  Silvestre le fait raser puis reconduire en voiture {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Crépet E
+        </indentifier>
+        <titleInfo>
+            <title>
+                Quelques Lettres inédites de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1935
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Candide<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>8 et 15 aout 1935</number>
+                    <caption>issue</caption>
+                </detail>
+                <date>08/08/1935</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            PAGES?
+        </note>
+    </relatedItem>
+</mods>

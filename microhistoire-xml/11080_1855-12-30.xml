@@ -1,0 +1,94 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11080
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/30/1855
+        </temporal>
+        <temporal point = "end">
+            12/30/1855
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        30 XII 55
+    </note>
+    <note type = "journal content">
+        Dans Figaro Louis Goudall s'attaque à A. Weill, aux frères de Gourmont, à Murger, à Monselet, à Marc-Michel.  Il reproche Weill d'avoir pris les Bohémiens actuels pour des descendants du divin Mélésigène [Homère], ce que Baudelaire lui-même n'aurait jamais voulu croire  (T). Karl Stachel, correspondant parisien de la revue Ot etchestrennye Zapiski  (Les Annales de la Patrie) de Saint-Petersbourg.  Il présente au public russe quatre jeunes poètes français: Philoxène Boyer, Baudelaire, Banville et Pierre Dupont.  Quatre pages sont consacrées  à Baudelaire.  Pour Stachel, ce n'est pas par la publication de ses poèmes dans la Revue des deux mondes que Baudelaire s'est fait connaître, mais c'est plutôt par son succès auprès du public artistique et averti qu'est venue sa réputation. Pour lui,  Sainte-Beuve, Chasles et Planche tantôt l'encouragent et tantôt le réprimandent.  Mettant l'accent sur sa tactique d'étonner le public, Stachel donne pourtant une bonne description du caractère, de la personnalité et de la vie du poète jusque-là.  Suit en russe une traduction  du Crépuscule du matin dans la version qui a paru dans Hommage à C.F. Denecourt, Fontainebleau, avec quatre vers supprimés par le censeur.  Stachel rapporte des anecdotes:  Baudelaire qui se rase la tête, qui critique Shakespeare "mauvais auteur", à qui il préfère Mathurin.  Les traductions d'Edgar Allan Poe sont louées et la sortie en librairie en mars 1856 des Histoires extraordinaires est prédite.  Stachel prétend avoir appris de Baudelaire lui-même son intention de faire un drame au sujet de Don Juan, dont le dénouement serait le départ, un peu ivre, du commandeur, ramené chez lui par ses respectueux servants qui le remettent au cimetière.  Pour le texte présenté du Flacon, inédit, il serait probable que Baudelaire le lui aurait donné. Il y a des détails qui semblent de la main de Stachel ou d'un rédacteur russe {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Wanner
+        </indentifier>
+        <titleInfo>
+            <title>
+                Le premier regard russe sur Baudelaire et la publication du Flacon
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Wanner, A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1991
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    43-50
+                </start>
+                <end>
+                    43-50
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin Baudelairien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>26</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>2</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        43
+                    </start>
+                    <end>
+                        50
+                    </end>
+                </extent>
+                <date>12/01/1991</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

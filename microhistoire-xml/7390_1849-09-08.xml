@@ -1,0 +1,125 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7390
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            04/22/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/08/1849
+        </temporal>
+        <temporal point = "end">
+            09/08/1849
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        8 IX 49
+    </note>
+    <note type = "journal content">
+        Le Journal des théâtres  note que Marie Daubrun s'en va de l'Ambigu-Comique au Théâtre Historique {1}. On remarquera que cette arrivée aura eu lieu au même moment que celle des artistes suivants: "Clarence, Mme Génot, soeur de Mme Volneys, Mmes Astruc et Daubrun...", et on les considère tous comme des transfuges de la Porte-Saint-Martin {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pougin
+        </indentifier>
+        <titleInfo>
+            <title>
+                Le Théâtre historique d'Alexandre Dumas
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pougin, Arthur
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1889
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    261
+                </start>
+                <end>
+                    261
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Revue d'Art Dramatique<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>13</number>
+                    <caption>volume</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        257
+                    </start>
+                    <end>
+                        274
+                    </end>
+                </extent>
+                <date>01/01/1889</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

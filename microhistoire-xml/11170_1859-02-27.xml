@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11170
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/27/1859
+        </temporal>
+        <temporal point = "end">
+            02/27/1859
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        27 II 59
+    </note>
+    <note type = "journal content">
+        Dans Figaro, Alphonse Duchesne écrit dans son "Figaro  à la main" sur  "Ch.Baudelaire., un poète qui se distingue par des antipathies et des prédilections singulières, a particulièrement en horreur les vaudevillistes".  A l'un de leur tribu qui l'aborde sur les boulevards et qui lui dlemande s'il fera jouer à l'Odéon en vers, il réplique que non, que ce sera en français, qu'un vaudevilliste prendrait pour des vers, peut-être  (T)  Au même endroit  ("Bruits de la ville") on prédit du succès pour Mme F. O'Connell au Salon, où elle enverra Un Satan gigantesque, montrant Eve endormie sous l'influence du mal  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

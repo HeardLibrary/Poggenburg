@@ -1,0 +1,107 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10717
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/15/1866
+        </temporal>
+        <temporal point = "end">
+            01/15/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        15 I 66
+    </note>
+    <note type = "journal content">
+        Baudelaire commence une lettre de remerciements à Sainte-Beuve pour celles qu'il lui a envoyées.  Son médecin ne lui permet ni étude ni lecture. Un autre qu'il a consulté le juge  hystérique, mot qui selon Baudelaire, sert à cacher son  ignorance des vraies causes de sa maladie.  Baudelaire parle de son propre travail poétique, le comparant à celui de Sainte-Beuve. Il espère parvenir dans ses poèmes à égaler Joseph Delorme. Baudelaire a relu les Poésies complètes de Sainte-Beuve, parues chez Lévy en 1863 et espère faire une étude de Sainte-Beuve poète.  Baudelaire apprécie particulièrement parmi ces poèmes: Sonnet à Mad[ame] G. [Mme Grimblot, dame que Baudelaire a connu et à qui il avait souvent entendu  Mme De Mirbel faire la morale]; Tu te révoltes; Dans ce cabriolet; En revenant du convoi; La voilà; Le Joueur d'orgue.  Les récits qui lui ont plu sont: Doudun;  Marèze; La Veillée; Ramon; M. Jean. Il compare Sainte-Beuve à Chénier pour ses élégies analytiques.  Baudelaire s'étonne que Sainte-Beuve désire avoir le suffrage de Thiers, de Berryer, de Thierry et de Villemain (ce dernier étant le sujet d'un long poème: A M. Villemain. Baudelaire dit connaître par coeur: Dans l'Ile Saint-Louis; La Croix de la vallée; Rose; Stances de Kirke White; La Plaine.  Baudelaire remarque une ressemblance entre un vers de Sainte-Beuve et une phrase de Paul de Molènes dans son roman: L'Ecueil de Lovelace.  Cette lettre est interrompue par des vertiges et des chutes, Baudelaire ne l'enverra que le 5 février {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    583
+                </start>
+                <end>
+                    583
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

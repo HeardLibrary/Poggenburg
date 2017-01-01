@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11292
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/16/1863
+        </temporal>
+        <temporal point = "end">
+            01/16/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        16 I 63
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis donne à Champfleury l'explication de la suspension de ses paiements à ses auteurs.  Entre juillet 1857 et juillet 1862 il n'a écoulé en une seule édition que cinq des ouvrages qu'il a publiés.  De ses propres fonds il a engagé plus de 150 000 francs dans la librairie des éditions.  Ses ventes n'arrivent pas à payer ses frais (P-APM 158). Ecrivant à Champfleury, il avoue qu'il considère son propre vice "l'indifférence pour l'argent".  Celui-ci lui semble comme un instrument et non une valeur en soi.  Au moment de l'ouverture de sa faillite, il croyait son actif comme étant de 42 000 francs, son passif 62 000.  Il se croyait donc capable de payer ses créanciers jusqu'à 70 pourcent de ses dettes, le reste en quelques mois, si ces créanciers lui permettaient de continuer son activité commerciale en vendant les livres déjà fabriqués, en liquidant ainsi ses dettes en une année  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-APM
+        </indentifier>
+        <titleInfo>
+            <title>
+                Auguste Poulet-Malassis. L'Editeur de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Fayard
+            </publisher>
+            <dateIssued>
+                1996
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    160
+                </start>
+                <end>
+                    160
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

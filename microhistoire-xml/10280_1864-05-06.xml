@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10280
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/06/1864
+        </temporal>
+        <temporal point = "end">
+            05/06/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 6 V 64
+    </note>
+    <note type = "journal content">
+        Baudelaire voit Poulet-Malassis.  Ils parlent du manque de succès des conférences de Baudelaire, après un début enthousiaste. Baudelaire achète les Nouvelles Histoires extraordinaires et Aventures d'Arthur Gordon Pym {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Marsan A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Collection de Jules Marsan. Manuscrits et autographes. Vente à l'Hôtel George V, le 17 juin 1975
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Guérin, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Loliée, Marc
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Drouot Rive Gauche
+            </publisher>
+            <dateIssued>
+                1975
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    No.25
+                </start>
+                <end>
+                    No.25
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+</mods>

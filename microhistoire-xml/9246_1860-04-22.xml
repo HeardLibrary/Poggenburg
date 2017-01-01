@@ -1,0 +1,107 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9246
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/22/1860
+        </temporal>
+        <temporal point = "end">
+            04/22/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        22 IV 60
+    </note>
+    <note type = "journal content">
+        Baudelaire a reçu de Poulet-Malassis une lettre qu'il n'a pas comprise. Il lui envoie toutefois le billet demandé.  Son éditeur lui  propose d'ajouter aux Paradis artificiels une notice pharmaceutique d'un ton scientifique et incluant une publicité pour un pharmacien. En retour, ce pharmacien s'engagera à prendre et à vendre  chez lui 200 exemplaires du livre. Baudelaire rédigera cette note avec le directeur de la maison pharmaceutique Dorvault, qu'il connaît depuis longtemps mais il attendra de Poulet-Malassis confirmation de cet arrangement.  Baudelaire mettra cette note à la fin du volume, pour mieux en dissimuler le caractère commercial.  Il donnera au successeur de la maison Dorvault l'adresse de Poulet-Malassis, pour qu'ils  s'entendent sur la question de la livraison des volumes.  Baudelaire se plaint à Poulet-Malassis de ce qu'il reçoit des épreuves d'imprimerie n'ayant pas été corrigées "en première" (c'est-à-dire sans avoir été nettoyées de leurs fautes grossières avant qu'on ne les lui envoie), ce qui augmente la difficulté des corrections surtout lorsqu'il  est fatigué.  A cause des rapports des Paradis artificiels avec l'Angleterre, Baudelaire voudrait qu'on fasse la réclame de ses quatre volumes à Londres et à Edimbourg.  Pincebourde, au moment de chaque publication, devra en offrir un extrait à trois ou quatre journaux (français), à publier gratuitement.  Son manque de fonds empêche Baudelaire d'envoyer à Poulet-Malassis le livre de Ferrari, La [Histoire de la] Raison d'état.  Baudelaire regrette maintenant de ne pas avoir pris Penguilly pour illustrer les Fleurs du mal ed. de 1857 {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    28
+                </start>
+                <end>
+                    28
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

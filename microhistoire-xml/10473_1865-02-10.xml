@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10473
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/10/1865
+        </temporal>
+        <temporal point = "end">
+            02/10/1865
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        10 II 65
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis écrit à Asselineau, lui demandant d'être son intermédiaire auprès de Banville.  Poulet-Malassis voudrait que Banville écrive pour lui l'introduction d'une édition d'un choix de poèmes de Ronsard qu'il projette. Poulet-Malassis informe Asselineau que Baudelaire, plus heureux que lui-même, a pu retrouver le numéro de la Revue de Paris contenant des fragments d'un récit de voyage d'Asselineau.  Baudelaire en dit beaucoup de bien à Poulet-Malassis; le poète y goûte surtout l'anecdote d'un mendiant distingué, qui fait payer à Asselineau "tant par jour" {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Laurin
+        </indentifier>
+        <titleInfo>
+            <title>
+                ***
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Catalog
+        </genre>
+        <note type = "source note">
+            TITLE? Auction date?
+        </note>
+    </relatedItem>
+</mods>

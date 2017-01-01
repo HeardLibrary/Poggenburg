@@ -1,0 +1,217 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7727
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/01/1852
+        </temporal>
+        <temporal point = "end">
+            09/30/1852
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        IX 52
+    </note>
+    <note type = "journal content">
+        La Revue britannique publie, sous le titre de  L'Aéronaute hollandais, la traduction par Amédée Pichot des Unparalleled Adventures of One Hans Pfaall. Il est possible que Baudelaire se soit attendu à y voir paraître sa propre traduction de l'ouvrage d'Edgar Allan Poe et qu'il considère cela comme un mauvais tour qu'on lui a joué {1,2}. A Saint-Pétersbourg, l'on donne, dans Pantéon, une version russe d'"Edgar Allan Poe, Sa Vie et ses ouvrages", sans la signature de Baudelaire ni du traducteur {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bandy K
+        </indentifier>
+        <titleInfo>
+            <title>
+                Edgar Allan Poe: sa vie et ses ouvrages
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Toronto ON</placeTerm>
+            </place>
+            <publisher>
+                University of Toronto Press
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    xiii
+                </start>
+                <end>
+                    xiii
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Romance Series
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>22</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bandy K
+        </indentifier>
+        <titleInfo>
+            <title>
+                Edgar Allan Poe: sa vie et ses ouvrages
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Toronto ON</placeTerm>
+            </place>
+            <publisher>
+                University of Toronto Press
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    xxix
+                </start>
+                <end>
+                    xxix
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Romance Series
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>22</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Grossman
+        </indentifier>
+        <titleInfo>
+            <title>
+                Edgar Allan Poe in Russia. A study in legend and literary influence
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Grossman, Joan Delaney
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Würzburg</placeTerm>
+            </place>
+            <publisher>
+                Jal-Verlag
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Colloquium Slavicum
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>3</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

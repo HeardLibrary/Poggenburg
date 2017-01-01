@@ -1,0 +1,204 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9908
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/01/1862
+        </temporal>
+        <temporal point = "end">
+            09/30/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        VIII-IX 62?
+    </note>
+    <note type = "journal content">
+        Baudelaire apprend à Michel Lévy qu'il ajouterait à la troisième édition des Fleurs du mal ed. de 1857 dix ou douze pièces et une préface.  Faute d'une préface, l'on pourrait utiliser la notice sur Baudelaire de Gautier, parue dans Les Poètes français {1}. Baudelaire écrit à Poulet-Malassis pour dire qu'il n'est pas certain que la propriété littéraire des Fleurs du mal ed. de 1857 et des Paradis artificiels vaillent actuellement 5000 francs. Pourtant, la dette de Baudelaire envers Poulet-Malassis pourra se solder par la valeur future des Fleurs du mal ed. de 1857 seules.  Baudelaire propose de donner à un seul éditeur la propriété de ses cinq volumes (Réflexions sur mes contemporains, 2 vol.; Les Fleurs du mal ed. de 1857; Paradis artificiels, Opium et Haschisch; Poèmes en prose).  Baudelaire songe à Michel Lévy, malgré son refus de publier les Contemporains. Lévy pourra être utile plus tard, au moment de négocier avec Hachette pour l'édition illustrée des oeuvres d'Edgar Allan Poe.  Baudelaire autorise Poulet-Malassis à montrer à Lévy sa note.  Si Lévy n'est pas intéressé, il ne voit qu'Hetzel ou Didier qui soient susceptibles de l'être. Il demande 800 francs par volume {2}. Ecrivant à Lévy, Baudelaire dit que dans la troisième édition des Fleurs du mal ed. de 1857, il ajoutera dix ou quinze pièces et une grande préface pour expliquer sa méthode.  Il dit qu'il  y enseignera comment écrire de la poésie, appelant cela une  "sérieuse bouffonnerie".  S'il n'a pas le courage d'écrire cette préface, il y mettra "l'excellent article" de Gautier sur les Fleurs du mal ed. de 1861, dans le quatrième volume des Poètes français {3}.
+    </note>
+    <note type = "researcher notes">
+        Date uncertain
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    257
+                </start>
+                <end>
+                    257
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    256
+                </start>
+                <end>
+                    256
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPL I
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    257
+                </start>
+                <end>
+                    257
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

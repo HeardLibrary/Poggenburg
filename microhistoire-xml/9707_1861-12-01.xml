@@ -1,0 +1,82 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9707
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/01/1861
+        </temporal>
+        <temporal point = "end">
+            01/31/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        XII 61-I 62
+    </note>
+    <note type = "journal content">
+        "A francia költészet 1861-ben" ["La Poésie française en 1861"] paraît dans Szépirodalmi Figyëlo [Observateur des belles-lettres, Belgrade].   Le poète Jànos Arany y traduit les remarques d'Armand de Pontmartin sur la poésie de Baudelaire et de Leconte de Lisle {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Fodor
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire en Hongrie
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Fodor, Istvan
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Neuchâtel</placeTerm>
+            </place>
+            <publisher>
+                Éditions la Baconnière
+            </publisher>
+            <dateIssued>
+                1971
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Chapter
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Etudes Baudelairiennes II<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        145
+                    </start>
+                    <end>
+                        159
+                    </end>
+                </extent>
+                <date>01/01/1971</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11090
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/10/1856
+        </temporal>
+        <temporal point = "end">
+            04/10/1856
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        10 IV 56
+    </note>
+    <note type = "journal content">
+        Figaro publie La Vérité sur le cas de M. Valdemar, d'Edgar Allan Poe.  Il informe ses lecteurs que c'est tiré du volume paru chez Lévy, Contes extraordinaires, en traduction de Baudelaire  (T).  Legendre, au même endroit, loue la traduction, comme l'auteur, qu'il appelle "net, brillant et troublant".  Il proteste contre le jugement sévère des Fleurs du mal ed. de 1857 au Figaro par Louis Goudall.  Mais il reconnaît l'utilité des attaques pour attirer la lecture du public  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

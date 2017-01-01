@@ -1,0 +1,31 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8657
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1857
+        </temporal>
+        <temporal point = "end">
+            12/31/1858
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1857 ou 1858
+    </note>
+    <note type = "journal content">
+        Delacroix convoque Baudelaire pour lui adresser des reproches, à propos de ce qu'il a écrit sur Charlet dans Quelques Caricaturistes français {1}.
+    </note>
+    <note type = "researcher notes">
+        Reference. duplicate?
+    </note>
+</mods>

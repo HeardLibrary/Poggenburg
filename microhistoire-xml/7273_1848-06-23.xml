@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7273
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/23/1848
+        </temporal>
+        <temporal point = "end">
+            06/23/1848
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        23 VI 48
+    </note>
+    <note type = "journal content">
+        Dans la matinée, Poulet-Malassis, sur le quai Voltaire, apprend que des barricades se sont érigées et des actions engagées du côté de la porte Saint-Denis.  Il se dirige vers le ministère de l'intérieur à la recherche de ses amis Delvau et Watripon, qu'il arrive à rencontrer.  Les trois ayant pris la résolution de se joindre à la garde nationale, ils vont chez Watripon pour chercher sa carabine.  Une seconde carabine appartenant à Danicourt, artilleur, est allouée à Poulet-Malassis.  Ils se rendent place de la Sorbonne où devait se trouver la batterie de Watripon, sans la rencontrer.  Une barricade est en place.  Voyant le danger où ils se trouvent, Poulet-Malassis suggère à ses camarades de se réfugier chez lui.  Arrivant rue des Mathurins, au coin du cloître Saint-Benoît, ils tombent sur une barricade en train de s'élever.  A 4h ils montent chez Poulet-Malassis.  A 6h les gardes mobiles s'emparent des barricades environnantes.  En entrant chez lui, Poulet-Malassis avait mis leurs armes chez le portier, pour plus de sécurité.  Deux heures plus tard, un couple d'insurgés remettent, eux aussi, leurs armes chez le portier.  Sur ce, Poulet-Malassis fait mettre leurs armes de côté, de peur qu'elles ne tombent entre les mains des insurgés {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-APM
+        </indentifier>
+        <titleInfo>
+            <title>
+                Auguste Poulet-Malassis. L'Editeur de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Fayard
+            </publisher>
+            <dateIssued>
+                1996
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    29-29
+                </start>
+                <end>
+                    29-29
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

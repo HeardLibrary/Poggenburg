@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10974
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/17/1867
+        </temporal>
+        <temporal point = "end">
+            02/17/1867
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        17 II 67
+    </note>
+    <note type = "journal content">
+        D'Honfleur, Mme Aupick avertit Poulet-Malassis que l'ennui gagne Baudelaire et qu'Asselineau trouve qu'il serait bien que Baudelaire vienne à elle. Elle le recevra très volontiers dès que le temps sera moin mauvais.  Au passé, quand il venait à Honfleur, la solitude l'arrangeait bien, il lisait beaucoup, et ils passaient leurs soirées à travailler ensemble sur la prononciation seulement de l'anglais.  Baudelaire savait mieux qu'elle la langue.  Or maintenant, sans pouvoir lire et obligé de passer ses soirées avec une vieille personne, Baudelaire risquerait s'ennuyer fort, pense-t-elle.  Elle prie Poulet-Malassis de saluer pour elle Stevens et le docteur Marcq {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    90
+                </start>
+                <end>
+                    90
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

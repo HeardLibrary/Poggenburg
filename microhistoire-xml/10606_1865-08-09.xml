@@ -1,0 +1,110 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10606
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/09/1865
+        </temporal>
+        <temporal point = "end">
+            08/09/1865
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        9 VIII 65
+    </note>
+    <note type = "journal content">
+        Le matin, Baudelaire reçoit la lettre de Lemer.  Encouragé, il envisage de donner 1200 francs à Hetzel et 500 francs à Manet lorsqu'il aura reçu de l'argent des frères Garnier.  Baudelaire voudrait effectuer ces deux remboursements avant même de payer ses dettes bruxelloises.  Il informe Lemer qu'il songe à transformer le titre de Pauvre Belgique en  Une Capitale ridicule.  La bonne nouvelle de l'intérêt des Garnier pour ses oeuvres lui a rendu ses forces,  et il a pu travailler à ses poèmes en prose.  Baudelaire explique à Lemer l'ordre de  publication de ses ouvrages: dans la troisième édition des Fleurs du mal ed. de 1857, Baudelaire propose d'insérer les lettres qu'il a reçues au sujet  des deux éditions précédentes (lettres de Gautier, de Sainte-Beuve, d'Ed. Thierry, d'Asselineau, de d'Aurevilly, de Custine, de Deschamps et autres).  Elles prendront place en fin de volume, comme l'a fait Sainte-Beuve dans Vie, poésies et pensées de Joseph Delorme.  Baudelaire envisage pour cette édition une préface de Th. Gautier.  En terminant sa lettre, Baudelaire envoie ses salutations à Manet {1}. Baudelaire demande 50 francs à Ancelle pour aller à Paris et à Honfleur.  Il prie le notaire de rechercher dans ses papiers les articles d'Armand Fraisse parus dans le Salut public, les Articles justificatifs et des lettres de Custine, de Flaubert notamment {2}.
+    </note>
+    <note type = "researcher notes">
+        missing reference
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    524
+                </start>
+                <end>
+                    524
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

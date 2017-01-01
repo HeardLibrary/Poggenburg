@@ -1,0 +1,87 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6775
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/28/1843
+        </temporal>
+        <temporal point = "end">
+            10/28/1843
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+         fin X 43?
+    </note>
+    <note type = "journal content">
+        Baudelaire écrit à sa mère qu'il lui envoie ce jour même quelqu'un pour préciser quel domicile il a choisi.  Il accepte les conditions que sa mère a établies et l'autorise à les porter à la connaissance de son propriétaire, mais lui défend de parler de conseil judiciaire.  Il envoie à Mme Aupick la liste de ce qu'il a laissé chez M. Leroy, son ancien propriétaire, chez qui il ne tient pas à reparaître {1}.  Il menace, si elle n'accède pas à son désir de ne pas entendre parler de conseil judiciaire, d'aller vivre chez Jeanne Duval.  Celle-ci vient d'emménager avec sa mère dans le quartier, au 6, rue de la Femme-sans-tête [aujourd'hui rue Le Regrattier]  {1}.
+    </note>
+    <note type = "researcher notes">
+        Date uncertain
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    161
+                </start>
+                <end>
+                    161
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

@@ -1,0 +1,304 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6523
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/12/1839
+        </temporal>
+        <temporal point = "end">
+            08/12/1839
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        12 VIII 39
+    </note>
+    <note type = "journal content">
+        A 4h Baudelaire est reçu au baccalauréat {1}.  Il dira plus tard à Asselineau que c'était par complaisance et à titre d'enfant idiot, grâce à la recommandation de Mlle Céleste Théot auprès de M. Patin, examinateur.  Cette demoiselle tient, rue du Pot-de-Fer, une pension pour les étudiants dévots et catholiques {2}. Il reçoit le certificat d'aptitude au grade de bachelier ès lettres.  Ses notes dans la Série 1ère: Auteurs grecs, Auteurs latins, Rhétorique, Passable; Composition, Assez bien.  Dans la Série 2ème: Histoire ancienne, Passable, Histoire moderne, Géographie, Faible.  Série 3ème: Philosophie, Mathématiques, Physique, Passable.  Ses notes ressemblent à celles décernées à ses camarades de classe au collège.  Le jury sous la présidence de Victor Leclerc, professeur d'éloquence latine, fut composé de: Henri Patin, professeur de litterature latine; Jean-Philibert Damiron, professeur adjoint de philosophie moderne; Louis-Etienne Lefébure de Fourcy, professeur de calcul différentiel et de calcul intégral; Théodore Patin, professeur et secrétaire de la Faculte des Lettres. En retirant son certificat d'aptitude Baudelaire indiquera son intention d'étudier le droit {5}. Le Moniteur universel annonce la nomination d'Aupick comme maréchal de camp {3}, grade correspondant à celui de général de brigade.  A cette date, Aupick est mis en disponibilité {4}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CG I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. Correspondance générale I: 1833-1856
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Éditions Louis Conard
+            </publisher>
+            <dateIssued>
+                1947-53
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    8
+                </start>
+                <end>
+                    8
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Oeuvres Complètes de Charles Baudelaire
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pommier-Pichois
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire et Renan à l'ombre de Saint-Sulpice
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pommier, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1958
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>334</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>1009</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        164
+                    </start>
+                    <end>
+                        168
+                    </end>
+                </extent>
+                <date>09/01/1958</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Nouvion
+        </indentifier>
+        <titleInfo>
+            <title>
+                La Famille de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Nouvion, Georges de
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1901
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    165
+                </start>
+                <end>
+                    165
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin de la Société Historique du VIe Arrondissement de Paris<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        139
+                    </start>
+                    <end>
+                        174
+                    </end>
+                </extent>
+                <date>07/01/1901</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    117
+                </start>
+                <end>
+                    117
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

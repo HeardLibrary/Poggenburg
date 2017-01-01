@@ -1,0 +1,31 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8472
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/18/1857
+        </temporal>
+        <temporal point = "end">
+            05/18/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        18 V 57
+    </note>
+    <note type = "journal content">
+        Les Goncourt retournent chez Banville, qu'ils trouvent malade du coeur et confiné au lit.  Il est soigné par Pétroz, homéopathe.  Sa maîtresse, Marie Daubrun,  qu'ils appellent "Monstre vert" est à ses côtés (Journal.  T.1, p. 352).
+    </note>
+    <note type = "researcher notes">
+        To which journal does this note refer?
+    </note>
+</mods>

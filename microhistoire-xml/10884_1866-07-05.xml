@@ -1,0 +1,174 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10884
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/05/1866
+        </temporal>
+        <temporal point = "end">
+            07/05/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        5 VII 66
+    </note>
+    <note type = "journal content">
+        Asselineau fait parvenir à Poulet-Malassis l'adresse de Baudelaire, chez le Dr Duval, 1, rue du Dôme, rond-point de l'Arc de Triomphe.  Lorsque Baudelaire n'est pas exaspéré par Mme Aupick ou par  Aimée, il semble â Asselineau être parfaitement lucide, intelligent et calme.  Mme Aupick retournera bientôt à Honfleur, s'étant rendu compte de ce que sa présence rendait irrité son fils.  Baudelaire a bien traité Asselineau et parle maintenant, de Poulet-Malassis.  Mme Aupick porte ce dernier aux nues.  Il s'agit maintenant de trouver une subvention ministérielle pour Mme Aupick.  Ancelle entend faire une demande sans lui en parler.  Sainte-Beuve va aider.  Baudelaire ne veut plus entendre parler de publication de son oeuvre, Asselineau voudrait en avoir l'avis de Poulet-Malassis.  Baudelaire, qui attache une grande importance à sa malle, a refusé de la faire porter dans le grenier.  Asselineau se demande si c'est là que sont ses papiers {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Crépet B
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers Jours de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1925
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    82
+                </start>
+                <end>
+                    82
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        74
+                    </start>
+                    <end>
+                        84
+                    </end>
+                </extent>
+                <date>02/01/1925</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        155
+                    </start>
+                    <end>
+                        160
+                    </end>
+                </extent>
+                <date>03/01/1925</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        198
+                    </start>
+                    <end>
+                        206
+                    </end>
+                </extent>
+                <date>04/01/1925</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    57
+                </start>
+                <end>
+                    57
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

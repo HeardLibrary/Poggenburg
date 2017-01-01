@@ -1,0 +1,132 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6335
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/10/1834
+        </temporal>
+        <temporal point = "end">
+            04/10/1834
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        10 IV 34
+    </note>
+    <note type = "journal content">
+        Le Collège, situé près d'une place occupée par les ouvriers, fut exposé aux conséquences des attaques de la troupe contre ceux-ci.  Des tirailleurs des deux côtés s'attaquaient dans les rues voisines et jusque sur la place du Collège.  Soudain se présente à la porte une bande d'hommes, demandant des armes.  Bedel, le proviseur, ouvre la porte à quatre d'entre eux, leur déclare qu'on n'a pas d'armes et les invite à se retirer.  Cette crise fut interrompue par une autre, un incendie qui éclate dans une maison à côté du Collège, et qui les menace tous.  Aucune aide n'était possible, on organise des moyens de défense internes contre le feu jusqu'à l'arrivée d'une pompe envoyée par la mairie. Deux des professeurs avaient réussi à gagner celle-ci pour l'alerter.  Toutefois le toit brûlait, et ceux qui essayaient de l'éteindre furent soudain la cible du feu de la troupe, qui les prenait pour des insurgés.  Malgré le feu et en dépit des tirs qui pleuvaient sur le Collège, les écoliers et le personnel ont pu éteindre l'incendie sans qu'il y eût de blessés.  Les élèves ont même réussi à maîtriser les conflagrations dans les maisons voisines.  Surgit une nouvelle bande d'insurgés demandant violemment des armes.  Le Recteur, le Proviseur et d'autres administrateurs permettent que trois d'entre eux pénètrent dans le Collège pour faire une perquisition.  Ne trouvant rien, il s'en vont.  La nuit passe sans incident, les écoliers dormant sur des matelas.  Leur conduite a été exemplaire  {1,2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pellow
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire. The Formative Years
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pellow, David
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Nashville TN</placeTerm>
+            </place>
+            <publisher>
+                Vanderbilt University
+            </publisher>
+            <dateIssued>
+                1971
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    63-66
+                </start>
+                <end>
+                    63-66
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    87-88
+                </start>
+                <end>
+                    87-88
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

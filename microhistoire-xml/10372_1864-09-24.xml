@@ -1,0 +1,83 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10372
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/24/1864
+        </temporal>
+        <temporal point = "end">
+            09/24/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        24 IX 64
+    </note>
+    <note type = "journal content">
+        Début d'une période de sept jours passée par  Georges Barral en compagnie de Baudelaire {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Barral
+        </indentifier>
+        <titleInfo>
+            <title>
+                Entretiens avec Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Barral, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Brussels</placeTerm>
+            </place>
+            <dateIssued>
+                1901
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Le Petit Bleu<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>31 août</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        243
+                    </start>
+                </extent>
+                <date>08/31/1901</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            Corrected date 11/1/2016
+        </note>
+    </relatedItem>
+</mods>

@@ -1,0 +1,236 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10768
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/28/1866
+        </temporal>
+        <temporal point = "end">
+            03/31/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        fin II ou début III 66
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis publie Les Epaves de Charles Baudelaire [Amsterdam, à l'Enseigne du coq].  Il y a 260 exemplaires, dont 10 sur chine.  Un "Avertissement de l'éditeur" apprend au public que ces pièces n'ont pas été jugées  dignes d'entrer dans l'édition définitive des Fleurs du mal ed. de 1857 par leur auteur.  Poulet-Malassis se prévaut de l'exclusivité intégrale accordée par Baudelaire.  Il explique le frontispice de Félicien Rops.  En fait, Baudelaire lui-même fournit des notes pour ce volume.  On en tire en même temps à Bruxelles,  on trouve l'édition originale chez tous les libraires,  sans avertissement, sans frontispice [ou explication], et avec une couverture annonçant des"...livres français défendus en France" {1}. Baudelaire en prend quelques exemplaires et les envoie à Paris {2}. Il fait la liste de Presse qui comprend 48 exemplaires: Asselineau, Vitu, Gavarni, Ancelle, Yriarte, Mendès, Chenavard, Gozlan, Delange, de Calonne, Banville, Du Camp, Reyer, Rouland, Marcelin, Leconte de Lisle, Janin, Roqueplan, Pelletier,  Villemessant, Flaubert, Fromentin, Dulamon, Pinard, Armand Fraisse, Champfleury, Du Mesnil, Mérimée, Chaix d'Est-Ange, Houssaye, Manet, Soulary, Thoré, Dentu, Monselet, Nadar,  Hetzel + Lévy [sic], Faure, d'Aurevilly, Flahaut, Chasles, Sainte-Beuve, D'Estampes, Gautier, Troubat, Lejosne, Mme Meurice,  Marancour {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OCPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome I
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1975
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    812--813
+                </start>
+                <end>
+                    812--813
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Plan
+        </indentifier>
+        <titleInfo>
+            <title>
+                Lettres de Poulet-Malassis
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Plan, P.-P.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1933
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    696
+                </start>
+                <end>
+                    696
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>246</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>846</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        695
+                    </start>
+                    <end>
+                        698
+                    </end>
+                </extent>
+                <date>09/15/1933</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    624
+                </start>
+                <end>
+                    624
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

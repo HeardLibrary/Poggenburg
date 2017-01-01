@@ -1,0 +1,43 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11258
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/21/1861
+        </temporal>
+        <temporal point = "end">
+            12/21/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        21 XII 61
+    </note>
+    <note type = "journal content">
+        Enregistré à cette date par la Bibliographie de la France, Soirs d'octobre, de Paul Juillerat paraît chez Dentu. Ces vers datés de 1842 à 1853, contiennent de nombreuses épigraphes puisées dans les Fleurs du mal ed. de 1857.  (Stoecklin, Christophe, "Un Admirateur de Baudelaire: Paul Juillerat"  Buba T 28(XII 1993) 81-82) Ph. Boyer écrit longuement à E. Crépet à propos de l'anthologie des poètes français.  Entre autres, il désirerait savoir à qui reviendra d'écrire la notice sur Baudelaire.  Boyer serait content d'avoir ce travail lui-même  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            David, Sale ami
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    298
+                </start>
+                <end>
+                    298
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

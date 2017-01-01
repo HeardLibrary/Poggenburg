@@ -1,0 +1,159 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7788
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/11/1853
+        </temporal>
+        <temporal point = "end">
+            03/12/1853
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        11 ou 12 III ou 53
+    </note>
+    <note type = "journal content">
+        Mort de Mathieu Orfila, chimiste célèbre et ami de la famille Aupick.  Comme doyen de la Faculté de Médecine à Paris, il a fait avec Tardieu l'autopsie du corps du duc de Choiseul le 25 juillet 1847, après l'assassinat de la femme de celui-ci {1}. Le défunt habitait au numéro 45 de la rue Saint-André-des-Arts {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Vapereau
+        </indentifier>
+        <titleInfo>
+            <title>
+                Dictionnaire universel des contemporains, contenant toutes les personnes notables de la France et des pays étrangers
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Vapereau, Gustave
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Hachette et C.ie
+            </publisher>
+            <dateIssued>
+                1865
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Rousselot
+        </indentifier>
+        <titleInfo>
+            <title>
+                L'Affaire du duc de Praslin et la magistrature
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Rousselot, Marcel
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <publisher>
+                Librairie du Recueil Sirey
+            </publisher>
+            <dateIssued>
+                1937
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    35
+                </start>
+                <end>
+                    35
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Lepage
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Boutiques de l'esprit
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Lepage, Auguste
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Théodore Olmer
+            </publisher>
+            <dateIssued>
+                1879
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    223
+                </start>
+                <end>
+                    223
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

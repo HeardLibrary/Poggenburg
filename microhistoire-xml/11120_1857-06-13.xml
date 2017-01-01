@@ -1,0 +1,31 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11120
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/13/1857
+        </temporal>
+        <temporal point = "end">
+            06/13/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        add to 13 VI 57
+    </note>
+    <note type = "journal content">
+        Théophile Gautier doit être servi le premier, avec le plus bel  exemplaire.  Celui-ci portera, avec la dédicace imprimée, une note qui renchérit sur le sens de celle-ci.
+    </note>
+    <note type = "researcher notes">
+        Fix References; Second edition addendum
+    </note>
+</mods>

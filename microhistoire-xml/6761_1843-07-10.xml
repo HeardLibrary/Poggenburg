@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6761
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/10/1843
+        </temporal>
+        <temporal point = "end">
+            07/10/1843
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        10 VII 43
+    </note>
+    <note type = "journal content">
+        Gautier publie son article: "Le Hachich", dans la Presse {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Lovenjoul
+        </indentifier>
+        <titleInfo>
+            <title>
+                Histoire des oeuvres de Théophile Gautier
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Spoelberch de Lovenjoul, Charles, vicomte de
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                G. Charpentier
+            </publisher>
+            <dateIssued>
+                1887
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    I:255
+                </start>
+                <end>
+                    I:255
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

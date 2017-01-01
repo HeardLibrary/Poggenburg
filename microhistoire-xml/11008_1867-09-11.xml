@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11008
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/11/1867
+        </temporal>
+        <temporal point = "end">
+            09/11/1867
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        11 IX 67
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis répond à Asselineau, le remerciant de sa longue et bonne lettre.  Il se dit du même avis de son ami en ce qui concerne leur intention de ne rien écrire sur Baudelaire avant un an.  Que Nadar ait fait déjà autrement lui semble déraisonnable.  L'article de Poulet-Malassis sur Baudelaire, qu'il a lu la veille devant un cercle de personnes, lui a semblé d'une belle indifférence.  Mais il pense que c'est tout ce qu'on peut attendre de lui.  Poulet-Malassis lirait volontiers les articles sur Baudelaire de Banville, de Vitu, de Désonnaz.  Il est frappé par le fait que tout ce qui fait chez Baudelaire la pâture de ses ennemis est justement ce que ses amis trouvent séduisant chez lui.  Le désir de comprendre ce phénomène est ce qui le pousse à lire ces articles injurieux pour Baudelaire.  Un inconnu lui a envoyé de Paris l'article de Vallès.  Il le trouve ignoble mais encore plus idiot.  Poulet-Malassis trouve spécialement dégoûtant l'article de "Covielle" [pseudonyme d'Albert Rogard] dans le Nord sur les rapports de Baudelaire avec Jeanne [article non-retrouvé]. Poulet-Malassis signale l'existence d'une biographie de Baudelaire faite en 1861 par Duranty qui, avec une autre de Courbet, devait figurer en tête d'une série de petits livres "format Mirecourt". Baudelaire aurait donné à  Duranty des renseignements précis sur sa vie.  Poulet-Malassis charge Asselineau de la lui retrouver [sans doute chez Duranty].  Poulet-Malassis invite Asselineau et Banville à venir passer huit jours chez lui à Bruxelles pour parler de leur ami mort et de la publication de ses oeuvres  {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    106
+                </start>
+                <end>
+                    106
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

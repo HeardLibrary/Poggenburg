@@ -1,0 +1,43 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11016
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1851
+        </temporal>
+        <temporal point = "end">
+            12/31/1851
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1851
+    </note>
+    <note type = "journal content">
+        Date portée par un album appartenant à Philoxène Boyer.  On y trouve les noms de nombreuses personnalités de l'époque, y compris Baudelaire, qui y "griffonna quelques dessins"
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            David Sale Ami
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    122
+                </start>
+                <end>
+                    122
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

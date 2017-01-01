@@ -1,0 +1,140 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7218
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/23/1848
+        </temporal>
+        <temporal point = "end">
+            02/23/1848
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        23 II 48
+    </note>
+    <note type = "journal content">
+        Toubin, Baudelaire, Promayet et Champfleury traversent la Seine à 1h de l'après-midi et vont au Café de la Rotonde, près de l'Ecole de Médecine, où ils rencontrent d'Abrantès.  Ce dernier leur révèle qu'on se bat dans le quartier Saint-Denis; ils s'y dirigent sans attendre.  De la place du Châtelet ils entendent la fusillade et arrivent au boulevard du Temple pour apprendre la démission de Guizot et la fin des hostilités. Baudelaire parle de tout cela avec Toubin, avec qui il dîne à 9h du soir. Baudelaire et Toubin reviennent ensuite au Café de la Rotonde, où ils retrouvent Courbet.  Le tocsin sonne.  Ils courent immédiatement à la place Saint-Sulpice, où les accueillent les coups de feu des gardes municipaux.  Ils battent en retraite vers le Pont-Neuf, qu'occupe un bataillon de ligne.  Toubin rentre chez lui à trois heures du matin {1}.  A l'Ecole polytechnique, c'est le jour de sortie.  Aupick convoque les élèves pour les conseiller de ne pas quitter la sécurité de l'institution.  La plupart d'entre eux ont décidé de ne pas suivre son avis mais néanmoins sont rentrés sains et saufs {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bandy et Mouquet
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire en 1848
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Mouquet, Jules
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Émile-Paul Frères
+            </publisher>
+            <dateIssued>
+                1946
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    10
+                </start>
+                <end>
+                    10
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    254
+                </start>
+                <end>
+                    254
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

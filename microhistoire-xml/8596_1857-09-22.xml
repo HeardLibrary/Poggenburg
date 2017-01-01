@@ -1,0 +1,79 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8596
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/22/1857
+        </temporal>
+        <temporal point = "end">
+            12/21/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        automne 57?
+    </note>
+    <note type = "journal content">
+        Maxime Du Camp reçoit la visite de Baudelaire, qu'il invite à l'accompagner à dîner le lendemain chez Mme Sabatier.  Puis, il écrit à celle-ci pour l'avertir de sa démarche, espérant qu'il n'a pas fait une sottise {1}.
+    </note>
+    <note type = "researcher notes">
+        Verify that the page number really belongs here.; Date uncertain
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Billy D
+        </indentifier>
+        <titleInfo>
+            <title>
+                La pre?sidente et ses amis
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Billy, André
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Flammarion
+            </publisher>
+            <dateIssued>
+                1945
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    189
+                </start>
+                <end>
+                    189
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

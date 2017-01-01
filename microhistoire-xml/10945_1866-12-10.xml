@@ -1,0 +1,79 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10945
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/10/1866
+        </temporal>
+        <temporal point = "end">
+            12/10/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        10 XII 66
+    </note>
+    <note type = "journal content">
+        Sainte-Beuve écrit à Paul Verlaine sur les Poèmes saturniens: "Vous n'avez pas à craindre, par endroits, à être plus harmonieux et un peu plus agréable, comme aussi un peu moins noir et moins dur en fait d'émotions.  Ne prenons point ce brave et pauvre Baudelaire comme point de départ pour aller encore au delà" {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bornecque D
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les poèmes saturniens
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bornecque, Jacques Henry
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1952
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Études Verlainiennes
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>1</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

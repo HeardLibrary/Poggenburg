@@ -1,0 +1,108 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6027
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/01/1802
+        </temporal>
+        <temporal point = "end">
+            12/31/1802
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        XII  02
+    </note>
+    <note type = "journal content">
+        Jacques Aupick entre au Prytanée militaire au titre de fils d'officier mort pour la France {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pichois F
+        </indentifier>
+        <titleInfo>
+            <title>
+                Le Beau-père de Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1955
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>324</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>1102</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        261
+                    </start>
+                    <end>
+                        281
+                    </end>
+                </extent>
+                <date>06/01/1955</date>
+            </part>
+        </relatedItem>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>324</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>1103</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        472
+                    </start>
+                    <end>
+                        490
+                    </end>
+                </extent>
+                <date>07/01/1955</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

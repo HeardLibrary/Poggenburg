@@ -1,0 +1,71 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6753
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/11/1843
+        </temporal>
+        <temporal point = "end">
+            06/11/1843
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        11 VI 43
+    </note>
+    <note type = "journal content">
+        Baudelaire cède la maison sise 11, rue du Débarcadère à Neuilly au marquis d'Allègre.  Elevée sur rue, elle comprend quatre pièces et un vestibule{1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Risser
+        </indentifier>
+        <titleInfo>
+            <title>
+                Une Maison que Baudelaire aima va disparaître
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Risser, Sylvia
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1930
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Nouvelles Littéraires<title>
+            </titleInfo>
+            <part>
+                <date>05/31/1930</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            PAGES?
+        </note>
+    </relatedItem>
+</mods>

@@ -1,0 +1,97 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6746
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/01/1843
+        </temporal>
+        <temporal point = "end">
+            05/31/1843
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        V 43
+    </note>
+    <note type = "journal content">
+        Ernest Prarond quitte la Pension Bailly, pour prendre une chambre à l'Hôtel de l'Empereur-Joseph, 11, rue de Tournon, s'installant ensuite au numéro 35 de cette même rue.  De là il envoie à son père un exemplaire de Vers {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pichois O
+        </indentifier>
+        <titleInfo>
+            <title>
+                La Jeunesse de Baudelaire vue par Ernest Prarond
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Québec</placeTerm>
+            </place>
+            <dateIssued>
+                1968
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    114
+                </start>
+                <end>
+                    114
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Etudes Littéraires<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>1</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>1</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        113
+                    </start>
+                    <end>
+                        125
+                    </end>
+                </extent>
+                <date>01/01/1968</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,43 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6777
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/05/1843
+        </temporal>
+        <temporal point = "end">
+            11/05/1843
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        5 XI 43
+    </note>
+    <note type = "journal content">
+        Baudelaire signe un billet de 300 francs à l'ordre d'Arondel, valeur reçue en marchandises.  Le billet porte l'adresse de l'Hôtel Pimodan, quai d'Anjou {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatBN47
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    21
+                </start>
+                <end>
+                    21
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

@@ -1,0 +1,91 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10244
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/11/1864
+        </temporal>
+        <temporal point = "end">
+            04/11/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 11 IV 64
+    </note>
+    <note type = "journal content">
+        A Versailles, Baudelaire compose sa lettre-article, qu'il enverra à Figaro: "L'Anniversaire de la naissance de Shakespeare", protestant contre les intentions politiques et commerciales de cette célébration, laquelle semble exclure ceux qui auraient le droit à y être associés: Philarète Chasles; Emile Deschamps; Philoxène Boyer; et lui-même.  Il trouve déplacée la présence de: Guizot; Villemain; Biéville; Legouvé; Saint-Marc Girardin; Jules Favre. Pourraient être présents: Gautier; Auguste Barbier et  Berlioz [des deux derniers il dit ne rien  savoir].  Baudelaire trouve malhonnête la confusion  établie entre les questions littéraires et sociales, qui aboutit à prêter des idées socialistes à Shakespeare, et le mélange intolérable d'éléments religieux et politiques, représenté par Havin et Renan. En réalité, la raison véritable de cette cérémonie serait de faire de la publicité au livre d'Hugo, William Shakespeare, et de soutenir une certaine politique envers le Danemark.   Elle ne correspond pas à la volonté d'honorer un grand poète {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OCPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome II
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    225
+                </start>
+                <end>
+                    225
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

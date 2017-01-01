@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10941
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/22/1866
+        </temporal>
+        <temporal point = "end">
+            11/22/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        22 XI 66
+    </note>
+    <note type = "journal content">
+        D'Honfleur, après un séjour de trois semaines à Paris où elle a vu Baudelaire, Mme Aupick donne à Poulet-Malassis des nouvelles de son ami.  Elle a pu constater que sa jambe est guérie, mais qu'il lui reste de la raideur dans le bras droit et dans la main.  Malgré une lenteur du développement de la parole, il a pu prononcer quelques mots à table, ce qui la fait penser à un progrès possible.  Elle est découragée toutefois par son incapacité à lire, il ne connaîf même pas ses lettres.  Elle attribue cela à une paralysie qui lui aurait gagné son oeil droit.  Son progrès est pourtant réel depuis le début.  Elle voudrait des nouvelles de sa santé, n'ayant rien entendu de lui depuis le mois de septembre et fait la même demande pour Stevens {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    80
+                </start>
+                <end>
+                    80
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

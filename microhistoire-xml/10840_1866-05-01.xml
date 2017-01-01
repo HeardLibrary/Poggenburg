@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10840
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/01/1866
+        </temporal>
+        <temporal point = "end">
+            05/01/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1 V 66
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis informe Asselineau de l'envoi de 15 exemplaires des Epaves.  Il est d'accord pour Gautier et pour Leconte de Lisle comme  bénéficiaires d'exemplaires.  Asselineau est autorisé à en choisir d'autres comme il juge convenable de faire.  D'Aurevilly devra recevoir son exemplaire sur la seule volonté de Baudelaire, malgré l'avis d'Asselineau.  L'état de Baudelaire ne montrant aucune amélioration évidente, il est clair que le malade ne peut pas encore être transporté à Honfleur. Poulet-Malassis, essayant de convaincre Mme Aupick de la valeur littéraire de la poésie de son fils, lui a donné la 5e livraison du Parnasse  contemporain contenant des vers de Baudelaire.  Elle a dû donc le parcourir et a fini par lire à haute voix pour Poulet-Malassis Recueillement, terminant avec le vers Entends, ma chère, entens la douce nuit qui marche.  L'éditeur est frappé par la correction et la sensibilité de cette lectrice, dont la voix rappelle beaucoup celle de Baudelaire.  Il se rend compte que cette dame de 72 ans garde bien de la vivacité de sa jeunesse.  Toute fois, il trouve cette "jeune vieille" trop frétillarde pour son âge.  A moins que Baudelaire ne soit pas en était de quitter Bruxelles, Poulet-Malassis fera un voyage à pied au mois de juin dans le Zélande.  A 4h, il rouvre sa lettre, ayant rendu visite à Baudelaire, dont la santé et le morale sont bons.  En entendant les noms d'Asselineau et de Préault, le poète n'a rien manifesté: c'est la première fois que Poulet-Malassis ait remarqué une telle réaction chez lui au non d'un ami.  Le docteur Marcq a confirmé son impression que l'intelligence de Baudelaire est en baisse, qu'il se réduit peu à peu à la vie végétative.  Il sera donc transportable sous peu.  Cela décide Poulet-Malassis de s'occuper des affaires littéraires du poète auprès d'Ancelle et de Mme Aupick {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    38
+                </start>
+                <end>
+                    38
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

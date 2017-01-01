@@ -1,0 +1,107 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10547
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/24/1865
+        </temporal>
+        <temporal point = "end">
+            05/24/1865
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        24 V 65
+    </note>
+    <note type = "journal content">
+        Baudelaire répond à Mme Meurice en se gaussant de l'idée que la maladie puisse susciter l'amitié ou l'intérêt des gens.  Il affirme, en badinant, que la religion de Mme Meurice  s'apparente à celle de Rogeard, Michelet, Benjamin Gastineau, Mario Proth, Garibaldi et l'abbé Chatel, qui presque tous font preuve d'une espèce d'anti-cléricalisme républicain.  En réponse aux coquetteries épistolaires de sa correspondante, il affirme délicatement qu'il se plaît à la rencontrer de façon amicale. Manet a un grand talent et ne doit pas céder au découragement: qu'elle le lui dise, et qu'il ne se soucie pas des critiques. Baudelaire raconte à Mme Meurice son récent dîner chez les Hugo, où il a été sermonné pendant deux heures par les fils de Hugo et  par sa femme, à propos de l'éducation internationale. C'est la nouvelle manie du groupe Hugo.  Quant à la valeur de cette formation intellectuelle, Baudelaire estime qu'elle n'est pas nécessaire à naissance des grands hommes, opinion qui le fait passer pour fou chez les Hugo. Baudelaire raconte aussi que chez un homme célèbre il a subi un "sermon" en guise de conversation.  Il lui a demandé en fin de compte s'il se sentait "assez fort pour aimer un merdeux qui ne pense pas comme [lui]" {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    500
+                </start>
+                <end>
+                    500
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

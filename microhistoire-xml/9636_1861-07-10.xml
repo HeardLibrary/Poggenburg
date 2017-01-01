@@ -1,0 +1,107 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9636
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/10/1861
+        </temporal>
+        <temporal point = "end">
+            07/10/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        10 VII 61
+    </note>
+    <note type = "journal content">
+        Ayant reçu de Mme Aupick une lettre (manquante),  Baudelaire lui explique pourquoi il arrivera plus tard que prévu à Honfleur: argent à recevoir; désordre dans l'impression des épreuves de "Réflexions sur quelques-uns de mes contemporains;" discussion avec un ministre à propos d'une mission à Londres (pour cela il faudrait que Baudelaire restât à la Revue européenne au lieu de la quitter pour la Revue des deux mondes); nécessité d'être présent lors de la restauration des deux Greuzes, du Boilly et d'autres dessins, travail presque achevé même si les surfaces ne sont pas encore sèches; attention qu'il porte au frontispice proposé pour l'édition illustrée, à 25 francs, des Fleurs du mal ed. de 1857.  Baudelaire envoie à sa mère "une petite marionnette" [peut-être une version primitive du frontispice en squelette de Bracquemond, pour les Fleurs du mal ed. de 1857], disant qu'il ne comprend rien au procédé par lequel la photographie, utilisée pour produire cette image, se fond à la gravure, qu'elle est censée permettre.  Baudelaire trouve insolite ce que lui dit Mme Aupick à propos de Mme Bâton.  Révélant à sa mère son intention de se porter candidat à l'Académie française, il suggère l'idée que son conseil judiciaire risque de lui nuire {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    177
+                </start>
+                <end>
+                    177
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

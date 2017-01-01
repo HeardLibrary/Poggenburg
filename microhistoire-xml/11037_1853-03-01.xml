@@ -1,0 +1,97 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11037
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/01/1853
+        </temporal>
+        <temporal point = "end">
+            03/31/1853
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        III 53
+    </note>
+    <note type = "journal content">
+        Jules Viard, rédacteur du "Courrier de Paris" au Monde littéraire y annonce un "volume d'Edgar Poë par son collaborateur M. C. Baudelaire"   {1}
+    </note>
+    <note type = "researcher notes">
+        [add to 21 XI 52]
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Delesalle D
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire, Jules Viard et La Passante
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Delesalle, Jean-François
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1984
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    57
+                </start>
+                <end>
+                    57
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin Baudelairien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>19</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>3</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        55
+                    </start>
+                    <end>
+                        67
+                    </end>
+                </extent>
+                <date>12/01/1984</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

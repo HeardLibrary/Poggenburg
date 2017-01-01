@@ -1,0 +1,163 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9708
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/01/1861
+        </temporal>
+        <temporal point = "end">
+            01/31/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        XII 61-I 62
+    </note>
+    <note type = "journal content">
+        Baudelaire rédige les feuillets XIX et XXII du Carnet. Parmi ses affaires pressantes: la blanchisserie; Ducreux, Bohné [créanciers].  Au sujet de lithographies, il note: la rue Neuve  Vivienne; l'Institut; le quai Voltaire; le passage Choiseul; Leclère; Delarue; Daziaro; la Cour du Dragon; Cadart; la rue Bonaparte.  A propos de sa candidature à l'Académie, il entend écrire à De Laprade, Patin, Vigny, Sainte-Beuve, Blaze de Bury, Sandeau.  Les noms ayant un rapport à ses dettes sont:  Ducreux; Ravisé [sic]; Bohné. Ses affaires littéraires sont avec: Houssaye, Dumesnil[?]; VéRON [sic], ses relations avec le gouvernement: De Saux; Dumesnil [?] {1}. Il compte distribuer des exemplaires d'Eureka,  écrire à Flaubert et à Amédée Pichot, voir Houssaye, faire des visites [académiques?], à propos desquelles il verra Larchey et Carjat.  Il compte payer: à Poulet-Malassis, 600 francs; à Dentu, 600 francs; à Torlot, 360 francs; à Jousset 600 francs; à Raviset, 500 francs.  Pour lui-même il a besoin de 1000 francs.  Il prend note de ses dettes envers: Cousinet, 110 francs; Porée [sic], 107 francs; Ducreux, 153 francs; Martin, 53 francs; Hardi, 51 francs; Cladel, 80 francs; Guys, 80 francs {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            JI
+        </indentifier>
+        <titleInfo>
+            <title>
+                Journaux intimes. Fusées. Mon Coeur mis à nu. Carnet
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Blin, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Blin, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Librairie José Corti
+            </publisher>
+            <dateIssued>
+                1949
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    119, 121, 238, 417, 418
+                </start>
+                <end>
+                    119, 121, 238, 417, 418
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OCPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome I
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1975
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    725
+                </start>
+                <end>
+                    725
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

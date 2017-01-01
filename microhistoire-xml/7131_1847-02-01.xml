@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7131
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/01/1847
+        </temporal>
+        <temporal point = "end">
+            02/28/1847
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        II 47
+    </note>
+    <note type = "journal content">
+        Le Livre des feuilletons republie dans son numéro de cette date La Fanfarlo signée "Charles Defayis" {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bennett
+        </indentifier>
+        <titleInfo>
+            <title>
+                The First Republication (February 1847) of Baudelaire's La Fanfarlo
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bennett, J.H.B.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1847
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>French Studies Bulletin<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>8</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>26</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        1
+                    </start>
+                    <end>
+                        4
+                    </end>
+                </extent>
+                <date>02/01/1847</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

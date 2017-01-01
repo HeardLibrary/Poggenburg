@@ -1,0 +1,89 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10707
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/05/1866
+        </temporal>
+        <temporal point = "end">
+            01/05/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        5 I 66
+    </note>
+    <note type = "journal content">
+        Sainte-Beuve répond à Baudelaire, remettant en cause Proudhon et l'idée du progrès en littérature.  Il trouve l'article de Verlaine sur Baudelaire flatteur  et dit que si Baudelaire était à Paris, il serait un oracle pour la jeunesse littéraire. Le critique se lamente, pourtant, de la naïveté de cette jeunesse qu'il trouve néanmoins "très littéraire par le fond de leur nature". Sainte-Beuve fait demander à Poulet-Malassis par Baudelaire le titre d'une "petite ordure" de l'abbé de Voisenon, ouvrage qui est absent de l'édition de ses oeuvres complètes consultée par le critique.  Quant au sonnet que Baudelaire lui a soumis, il n'a pu identifier son auteur.  Sainte-Beuve remercie Baudelaire d'avoir parlé parfois de lui à Mme Victor Hugo, sa seule vraie amie, selon lui, dans le milieu hugolien {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            LAB
+        </indentifier>
+        <titleInfo>
+            <title>
+                Lettres à Charles Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Neuchâtel</placeTerm>
+            </place>
+            <publisher>
+                Éditions la Baconnière
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    346
+                </start>
+                <end>
+                    346
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Études Baudelairiennes: nouvelles séries
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>4</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

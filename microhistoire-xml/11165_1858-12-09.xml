@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11165
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/09/1858
+        </temporal>
+        <temporal point = "end">
+            12/09/1858
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        9 XII 58
+    </note>
+    <note type = "journal content">
+        Figaro publie "Les Cancans de la semaine" d'Alfred Demi, où l'on apprend que la première édition du Dictionnaire des contemporains de Vapereau manque le nom de Baudelaire.  On prétend que ce dernier, admiré par les écrivains sans importance, ne l'est que d'eux  (T).  Dans ce même numéro du journal, Charles Monselet donne sa "Chronique imaginaire" où il imagine une liste d'ouvrages poétiques de Bouilhet, de Laprade, de Leconte de Lisle, d'Auguste Vacquerie, de Théophile Gautier, de Maxime Du Camp, de Pierre Dupont, et de Belloy.  La contributon de Baudelaire s'intitule L'Oreiller mordu  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

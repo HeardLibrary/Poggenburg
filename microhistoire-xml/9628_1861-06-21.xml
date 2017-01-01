@@ -1,0 +1,156 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9628
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/21/1861
+        </temporal>
+        <temporal point = "end">
+            09/22/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        été 61
+    </note>
+    <note type = "journal content">
+        Baudelaire rédige la page IX du Carnet, dressant la liste de ceux à qui il propose de remettre un peu d'argent: M. de P., Cadart, Hardi, Martin, Bohné, Goepp, Lejosne, Duranty, Cladel, Guys, Porée. Il voudrait donner 300 francs à Jeanne Duval, 300 à sa mère, 360 à Lemercier, 143 à Ducreux, 300 à Poulet-Malassis, 600 à Jousset {1}.  Poulet-Malassis envisage une troisième édition des Fleurs du mal ed. de 1857, de luxe.  Il engage Bracquemond et Soutain pour en faire les illustrations et espère montrer cette édition à l'Exposition de Londres de 1862.  Poulet-Malassis écrira trois fois à Bracquemond au sujet des illustrations de ce livre {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            JI
+        </indentifier>
+        <titleInfo>
+            <title>
+                Journaux intimes. Fusées. Mon Coeur mis à nu. Carnet
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Blin, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Blin, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Librairie José Corti
+            </publisher>
+            <dateIssued>
+                1949
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    113, 128, 415
+                </start>
+                <end>
+                    113, 128, 415
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pichois H
+        </indentifier>
+        <titleInfo>
+            <title>
+                Autour de La Fanfarlo: Baudelaire, Balzac et Marie Daubrun
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1956
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>328</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>1120</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        604
+                    </start>
+                    <end>
+                        636
+                    </end>
+                </extent>
+                <date>01/01/1956</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

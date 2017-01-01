@@ -1,0 +1,107 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9378
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/28/1860
+        </temporal>
+        <temporal point = "end">
+            08/28/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        fin VIII 60
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis revient à la charge à propos du frontispice de Bracquemond pour les Fleurs du mal ed. de 1861.  Ecrivant à Baudelaire, il évoque aussi sa philosophie de l'histoire, laquelle traduit, selon Baudelaire, ses idées de vieux révolutionnaire de 1848.  Poulet-Malassis croit qu'à la suite de profondes modifications sociales les conflits dans le monde disparaîtront. Répondant à cette lettre, Baudelaire s'oppose toujours au frontispice allégorique proposé par Bracquemond.  Il suggère à Poulet-Malassis de couper simplement dans son texte la gravure de Langlois et d'en demander la copie à Bracquemond, sans qu'il n'y ajoute rien. Baudelaire voit dans l'image en question le symbole littéraire par excellence, puisqu'il pense que toute littérature dérive du péché.  Baudelaire s'attend à ce que son étude sur Guys et celle sur "L'Art philosophique" soient bientôt publiées.  Commentant les idées philosophiques de Poulet-Malassis, Baudelaire les contredit et leur préfère celle de "l'harmonie éternelle par la lutte éternelle". Baudelaire raconte avoir vu Ferrari à Paris.  Comme exemples de la stupidité de l'esprit parisien actuel à propos de la politique italienne, Baudelaire cite des mots de Paul Meurice, de Louis Jourdan, de Gustave Mathieu et de Léon Plée {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    84
+                </start>
+                <end>
+                    84
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

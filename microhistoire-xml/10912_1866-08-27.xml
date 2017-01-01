@@ -1,0 +1,180 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10912
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/27/1866
+        </temporal>
+        <temporal point = "end">
+            08/27/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        27 VIII 66
+    </note>
+    <note type = "journal content">
+        Pétition au ministre de l'Instruction publique en faveur de Baudelaire.  Les signataires en sont: Champfleury; Banville; Leconte de Lisle; Asselineau.  Elle est apostillée par Sainte-Beuve, Jules Sandeau et Mérimée {1}. Sandeau, en l'apostillant, appelle Baudelaire "un vrai poète...malheureux" {2}. Banville révèle à Asselineau que Mérimée a renvoyé directement à Duruy, le ministre de l'Instruction publique, la pétition en faveur de Baudelaire.  Il aurait dû la rendre à Banville, qui voulait y faire ajouter la signature de Gautier {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatBN57
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Bibliothèque Nationale de France
+            </publisher>
+            <dateIssued>
+                1957
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    102
+                </start>
+                <end>
+                    102
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Carriat
+        </indentifier>
+        <titleInfo>
+            <title>
+                En Marge d'une exposition [sur Baudelaire, à la Bibliothèque Nationale]
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Carriat, Amédée
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1958
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mémoires de la Société des Sciences Naturelles et Archéologiques de la Creuse<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>33</number>
+                    <caption>volume</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        314
+                    </start>
+                    <end>
+                        317
+                    </end>
+                </extent>
+                <date>01/01/1958</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Souffrin B
+        </indentifier>
+        <titleInfo>
+            <title>
+                Une Pétition en faveur de Baudelaire avec une lettre inédite de Banville
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Souffrin-Le Breton, Eileen M.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1961
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Le Bayou<title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>85-86</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        324
+                    </start>
+                    <end>
+                        327
+                    </end>
+                </extent>
+                <date>01/01/1961</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

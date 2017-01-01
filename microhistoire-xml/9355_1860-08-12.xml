@@ -1,0 +1,80 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9355
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/12/1860
+        </temporal>
+        <temporal point = "end">
+            08/12/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 12 VIII 60
+    </note>
+    <note type = "journal content">
+        Baudelaire remercie Armand Fraisse de sa lettre contenant aussi son article sur les Paradis artificiels, article qu'il remettra immédiatement à Poulet-Malassis.  Baudelaire réaffirme ses principes d'écrivain: "la nécessité d'exprimer avec beauté n'importe quoi".  Il qualifie de "charlatan obscène" Jean-Jacques Rousseau et George Sand leur reprochant de se livrer dans leurs écrits à des confidences trop ultimes.  Baudelaire engage Fraisse à ne tenter aucune expérience avec le haschisch ou l'opium; il estime la première de ces drogues comme la plus dangereuse.  Baudelaire promet de lire dans la Gazette des Tribunaux l'article que recommande Fraisse.  Il annonce son intention de partir bientôt pour Honfleur, pour Rouen et pour Alençon afin d'y faire de courts séjours {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Montauzan
+        </indentifier>
+        <titleInfo>
+            <title>
+                Une Lettre inédite de Baudelaire [communiquée par Marie-José Montauzan, petite-nièce d'Armand Fraisse]
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1980
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Les Cahiers Obliques<title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>1</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        4
+                    </start>
+                    <end>
+                        6
+                    </end>
+                </extent>
+                <date>01/01/1980</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

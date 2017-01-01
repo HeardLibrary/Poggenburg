@@ -1,0 +1,208 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9508
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/09/1861
+        </temporal>
+        <temporal point = "end">
+            02/09/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        9 II 61
+    </note>
+    <note type = "journal content">
+        Se servant du dos de la lettre qu'il vient de recevoir de Calonne, Baudelaire écrit à Armand Du Mesnil.  Il nie devoir payer la dette de 1300 francs à de Calonne, disant qu'il la couvrira par des manuscrits à publier: M. Constantin G,--et généralement les peintres de moeurs; Les Peintres philosophes, ou l'art  enseignant; Le Dandysme dans les lettres (Chateaubriand, de Maistre, de Custine, Ferrari, Paul de Molènes, d'Aurevilly. - Analyse d'une faculté unique, particulière, des décadences); Poèmes nocturnes (essais de poésie lyrique en prose, dans le genre de Gaspard de la Nuit). Tout cela aboutira à un ensemble de six feuilles sans tenir compte des poèmes en prose, d'une longueur indéfinie.  De Calonne sera payé avec ces textes, dit Baudelaire et prie Du Mesnil de montrer [probablement à Gustave Rouland] cette lettre et de le sauver [sans doute en convaincant ainsi Rouland de lui octroyer des fonds] {1}. Cette lettre sera transmise à Lacaussade, éditeur de la Revue européenne, pour qu'il réfléchisse sur la possibilité d'engager Baudelaire comme collaborateur {2}. La Bibliographie de la France annonce les Fleurs du mal ed. de 1861 {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    128
+                </start>
+                <end>
+                    128
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Crépet S
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire, Fin Manoeuvrier
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1948
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    13
+                </start>
+                <end>
+                    13
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>La Nef<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>5</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>juin</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        3
+                    </start>
+                    <end>
+                        21
+                    </end>
+                </extent>
+                <date>06/01/1948</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

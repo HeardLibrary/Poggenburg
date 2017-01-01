@@ -1,0 +1,188 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10888
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/11/1866
+        </temporal>
+        <temporal point = "end">
+            07/11/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        11 VII 66
+    </note>
+    <note type = "journal content">
+         Mme Aupick suggère à Poulet-Malassis que Baudelaire serait désireux de recevoir les visites de Sainte-Beuve, Maxime du Camp, Henry de la Madelène, Banville, Hetzel et  Leconte de Lisle {1}.  Champfleury écrit à Mme Paul Meurice pour lui parler de la condition du poète, entré depuis quelques jours dans la maison de santé Duval.  Champfleury révèle que Baudelaire est très sensible aux fleurs et à la musique et suggère que Mme Meurice se rende rue du Dôme pour y jouer du piano devant Baudelaire {2}. Quelques jours après l'installation de Baudelaire dans la maison de santé du Dr Duval, Champfleury lui rend visite.  Il trouve Baudelaire, qui reconnaît ses amis, d'une forte vitalité, sensible à la musique et aux fleurs mais impatient de son incapacité de parler.  Champfleury écrit à Mme Paul Meurice pour suggérer qu'elle se rende auprès de leur ami pour lui jouer du piano.  Avant de lui faire cette suggestion, Champfleury en parle à Baudelaire, qui la reçoit avec enthousiasme, surtout l'idée de jouer ces morceaux de Tannhäuser  {2}. Mme Aupick, écrivant du 8, rue Duphot ("maison meublée"), précise pour Poulet-Malassis l'adresse de Baudelaire chez le Dr Duval rue du Dôme.  Elle explique que son fils y est bien, qu'il y a chez lui un mieux.  Le poète occupe une chambre au rez-de-chaussée donnant sur un jardin.  A l'intérieur, les murs portent des copies de tableaux d'après Goya.  Ces images enchantaient Baudelaire mais le Dr n'y voyaient rien de beau.  Si on le trouve doux et poli, sa colère contre Aimée, la servante de Mme Aupick, persiste.  Depuis la jour de l'installation de Baudelaire, Mme Aupick n'a jamais revu Asselineau.  Baudelaire a accueilli avec joie les noms, comme visiteurs, de Sainte-Beuve, de Maxime Du Camp, d'Henry de La Madelène, de Banville, d'Hetzel et de Leconte de Lisle.  Mme Aupick a écrit à Sainte-Beuve et à Du Camp.  Elle sera contente si Poulet-Malassis écrit à des amis de Baudelaire pour les prier de venir le voir {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            EJC
+        </indentifier>
+        <titleInfo>
+            <title>
+                Charles Baudelaire: étude biographique / d'Eugène Crépet, revue et mise à jour par Jacques Crépet, suivie des Baudelairiana d'Asselineau et de nombreuses lettres adressées à Ch. Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Crépet, Eugène
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Crépet, Jacques
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A. Messein
+            </publisher>
+            <dateIssued>
+                1906
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    201n
+                </start>
+                <end>
+                    201n
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatRonaldDavis
+        </indentifier>
+        <titleInfo>
+            <title>
+                E?ditions originales, autographes litte?raires, varia
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Ronald Davis
+            </publisher>
+            <dateIssued>
+                1967
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    11
+                </start>
+                <end>
+                    11
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    62
+                </start>
+                <end>
+                    62
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

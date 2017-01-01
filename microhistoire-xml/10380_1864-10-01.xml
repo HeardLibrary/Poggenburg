@@ -1,0 +1,132 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10380
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/21/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/01/1864
+        </temporal>
+        <temporal point = "end">
+            10/31/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        X 64
+    </note>
+    <note type = "journal content">
+        Mendès écrit à Mallarmé en saluant le caractère unique de sa poésie.  Il assure Mallarmé que l'originalité de ses vers ne sera pas affectée par sa lecture de Baudelaire.  Villiers ajoute à cette lettre un mot pour Mallarmé, le remerciant de l'envoi de La Fanfarlo dont il a tiré profit {1}. Des Essarts fait savoir à Mallarmé que Taine aime la poésie de Baudelaire {2}. A Bruxelles, place du Trône, on organise une "Exposition internationale des beaux-arts".  Le Cercle artistique et littéraire obtient que Courbet y envoie un tableau,  refusé au dernier Salon de Paris, toile inspirée par Femmes damnées Baudelaire [Vénus et Psyché] {3}.
+    </note>
+    <note type = "researcher notes">
+        Only 3 notes are indicated in text, while there are a total of 4 notes below the text.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Villiers
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance générale et documents inédits. Ed. recueillie, classée et présentée par Joseph Bollery
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Villiers de l'Isle-Adam, Jean-Marie
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Bollery, Joseph
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Mercure de France
+            </publisher>
+            <dateIssued>
+                1962
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    I:75
+                </start>
+                <end>
+                    I:75
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Mondor--Richard
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    135
+                </start>
+                <end>
+                    135
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Charlier
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    163
+                </start>
+                <end>
+                    163
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Léger
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    94
+                </start>
+                <end>
+                    94
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

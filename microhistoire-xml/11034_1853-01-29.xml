@@ -1,0 +1,31 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11034
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/29/1853
+        </temporal>
+        <temporal point = "end">
+            01/29/1853
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        29 I 53
+    </note>
+    <note type = "journal content">
+        Alfred Busquet publie, dans Paris, les traductions de Baudelaire de: Chansonnette  (M'aimez-vous, dit Fanny...); Chansonnette (Dans le joyeux mois de mai). (WTB jan. 76 FS) G3?
+    </note>
+    <note type = "researcher notes">
+        [add to 21 XI 52] Is this Bandy L.  Year should be 75 if it is.
+    </note>
+</mods>

@@ -1,0 +1,94 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9422
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/01/1860
+        </temporal>
+        <temporal point = "end">
+            11/30/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        début XI 60
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis reçoit de Duranty des textes pour la France nouvelle.  Ce projet littéraire de biographie et de critique devra être établi sous la direction de Champfleury et édité par Poulet-Malassis. Poulet-Malassis exprime à Champfleury son opinion à propos  de ces textes: bien que la partie biographique soit bien faite et en général acceptable, la partie critique lui semble entachée d'un réalisme littéraire trop agressif pour plaire au public {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Parturier et Privat
+        </indentifier>
+        <titleInfo>
+            <title>
+                Duranty et Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Parturier, Maurice
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Privat, Daniel
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1953
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    9
+                </start>
+                <end>
+                    9
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <extent unit = "page">
+                    <start>
+                        1
+                    </start>
+                    <end>
+                        13
+                    </end>
+                </extent>
+                <date>01/01/1953</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

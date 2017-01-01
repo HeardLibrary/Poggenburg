@@ -1,0 +1,108 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10049
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/15/1863
+        </temporal>
+        <temporal point = "end">
+            05/15/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        15 V 63
+    </note>
+    <note type = "journal content">
+        Ouverture du "Salon des Refusés" au Palais des Champs-Elysées.  Elle est facilitée par Napoléon III, qui le visitera.  Y exposent de leurs oeuvres: Manet; Jongkind; Whistler; Fantin-Latour; Pissaro; Cazin; Bracquemond; Henry Cros; Jean-Paul Laurens; Chintreuil; Legros; Vollon; Harpignies.  Manet y expose son Déjeuner sur l'herbe.  Le salon a un très grand succès {1}. Le soir, en sortant de cette exposition, Fantin-Latour écrit à Whistler, pour dire que son ami anglais  est célèbre, que son tableau (La Dame blanche), est très bien placé, et que cette toile remporte  "un succès de distinction".  Fantin déclare que Baudelaire trouve charmant ce tableau {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Tabarant A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Manet. Histoire catalographique
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Tabarant, Adolphe
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <publisher>
+                Montaigne
+            </publisher>
+            <dateIssued>
+                1931
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    95
+                </start>
+                <end>
+                    95
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Glasgow
+        </indentifier>
+        <titleInfo>
+            <title>
+                ***
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Manuscript
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

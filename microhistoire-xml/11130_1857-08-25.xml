@@ -1,0 +1,97 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11130
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/25/1857
+        </temporal>
+        <temporal point = "end">
+            08/25/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        25 VIII 57
+    </note>
+    <note type = "journal content">
+        Baudelaire promet de répondre quelques mots à Emile Deschamps avant 4h.  Il dit que ce sera pour prouver qu'il n'est pas un misérable; il s'agit des vers de Deschamps sur les Fleurs du mal ed. de 1857  Baudelaire en est ravi, et salue Deschamps comme membre d'une "noble génération".  Il aimerait avoir la permission de les faire publier dans le Présent.Baudelaire promet à Deschamps de lui écrire plus longuement ce soir  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl93 I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I, 2e édition contenant un « supplément »
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1993
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1082
+                </start>
+                <end>
+                    1082
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>247</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

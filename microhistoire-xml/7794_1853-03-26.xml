@@ -1,0 +1,107 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7794
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/26/1853
+        </temporal>
+        <temporal point = "end">
+            03/26/1853
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        26 III 53
+    </note>
+    <note type = "journal content">
+        Du 60, rue Pigalle, après un silence d'une année, Baudelaire écrit enfin à sa mère, disant que sa lettre sera courte car il est pressé.  Depuis le mois d'avril passé sa vie n'est qu'un désastre, quoique ses moyens lui auraient permis un tout autre résultat.  Il n'a plus de bois de cheminée.  Il est poursuivi pour un paiement dû hier et le sera pour un autre à la fin du mois. L'année passée, ayant reçu des fonds de Mme Aupick il a tout réglé de ce qu'il devait et a recommencé à vivre sagement.  Mais à cause des ennuis que lui causait sa maîtresse de maison il est parti sans  rien dire en laissant courir le loyer mais sans y habiter.  Il doit à cette personne une somme considérable.  Elle détient sous ses papiers, manuscrits, lettres, dessins contre paiement de sa dette envers elle.  Son travail est bloqué.  Il avait un traité pour un livre à remettre le 10 janvier, il a livré à l'imprimerie un manuscrit si informe qu'il a fallu défaire les formes et repartir à zéro. Il a dû payer les frais lui-même. Tout le monde est furieux avec lui. Un traité entre la France et l'Amérique menace de rendre impossible la publication d'un livre [peut-être des traduction d'Edgar Allan Poe] avec toutes ses poésies, la réédition de ses Salons et son travail sur les Caricaturistes resté chez son hôtelière et payé déjà 200 francs par la Revue de Paris.  L'homme bienveillant qui voulait l'appuyer pour toutes ces publications va le croire fou ou un voleur.  Baudelaire se fait des soucis pour les débuts de sa réputation littéraire.  Avec ces difficultés, son désordre et sa misère l'ont fait manquer une grande occasion: une commande d'un livret pour l'Opéra d'un genre nouveau, à être mis en musique peut-être par Meyerbeer.  Le directeur du Théâtre du Boulevard lui a commandé un drame, qui n'est pas fait, l'échéance est dans six jours.  Il a passé l'hiver sans feu, il ne dort plus, il désespère pour son avenir.  Pour s'en tirer, il voudrait récupérer ses livres et ses manuscrits qui sont en gage, payer le reliquat des frais d'imprimerie qu'il doit (peut-être chez Lecou), rendre au chef de claque à l'Odéon les 300 francs qu'il lui a empruntés, payer son loyer et un traiteur et liquider de nombreuses petites dettes.  En outre, il veut offrir une aide financière à Jeanne Duval, qui est malade.  Pour faire tout cela il aura besoin de 2400 francs et il propose, pour gagner cet argent, un projet non-littéraire. En vue de toutes ces obligations, il prie Mme Aupick de lui envoyer autant d'argent qu'elle pourra.  Il joint à sa lettre quelques échantillons d'un de ses livres et recommande à Mme Aupick la lecture du numéro d'octobre de la Revue de Paris, où ont paru certains de ses écrits {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    210
+                </start>
+                <end>
+                    210
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

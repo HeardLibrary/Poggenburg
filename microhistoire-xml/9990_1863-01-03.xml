@@ -1,0 +1,158 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9990
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/03/1863
+        </temporal>
+        <temporal point = "end">
+            01/03/1863
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        3 I 63
+    </note>
+    <note type = "journal content">
+        La Bibliographie de la France enregistre Dominique, de Fromentin. Cet auteur en enverra un exemplaire à Baudelaire avec l'inscription " A Monsieur Baudelaire" {1}. Le matin, Baudelaire reçoit de Mme Aupick un envoi d'argent dont le montant l'étonne.  Pourtant, au lieu de le rendre, comme il pense le faire d'abord, il court payer une dette de 50 francs à un libraire [Poupart?]. Le motif en est qu'il se croit appelé à déposer contre cet homme devant un juge. Il veut ainsi éviter la possibilité que  ce libraire le présente comme son obligé à ce moment-là.  Ensuite, il répond à la lettre de sa mère, la remerciant et s'excusant de ne pas lui avoir écrit le jour de l'an.  Il  aurait voulu lui faire un cadeau mais il n'avait pas d'argent. Baudelaire continue à essayer de vendre globalement tous ses droits d'auteur, afin d'obtenir une assez grosse  somme d'argent.  Il le fait contre l'avis d'amis qui les estiment à une valeur supérieure aux 23.000 francs qu'il en demande.  Ne rencontrant pas de succès, Baudelaire se voit forcé maintenant de placer séparément ces cinq volumes. Il compte voir sa mère le 15 ou le 20 du mois courant, à Honfleur. Baudelaire remarque que lui et Mme Aupick ne se sont pas vus depuis quinze mois, qu'il a les cheveux tous gris; il la prie de ne pas rire de ses fatuités de vieillard {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Cat97
+        </indentifier>
+        <titleInfo>
+            <title>
+                Catalogue d'ouvrages d'auteurs du XIXe sie?cle et contemporains en e?ditions originales et quelques livres anciens composant la bibliothe?que de Fernand Vande?rem
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                L. Giraud-Badin
+            </publisher>
+            <dateIssued>
+                1939
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    No 499
+                </start>
+                <end>
+                    No 499
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+        <note type = "source note">
+            No. 97
+        </note>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    283
+                </start>
+                <end>
+                    283
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

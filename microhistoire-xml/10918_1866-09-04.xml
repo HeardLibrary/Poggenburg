@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10918
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/04/1866
+        </temporal>
+        <temporal point = "end">
+            09/04/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        4 IX 66
+    </note>
+    <note type = "journal content">
+        Mme Aupick jubile à Asselineau au sujet de huit mots nouveaux prononcés par Baudelaire.  Mais son incapacité de parler peut toujours créer des problèmes.  Elle raconte pour Asselineau les difficultés qu'Ancelle a eues pour le comprendre [v. lettre du 26 VIII]. Mme Aupick pense qu'Asselineau, qui comprend mieux que personne Baudelaire, pourrait peut-être le percer  l'énigme. Elle approuve le fait que Baudelaire travaille sur ses Epaves mais craint bien les suites de sa maladie pour sa vie de poète.  Mme Aupick autorise Asselineau à parler à Baudelaire de Mme Baton, une de ses plus vieilles amies qui est venu le voir en apportant des belles fleurs.  Cela a plu à Baudelaire, qui s'est montré charmant pour cette personne. Il a reçu récemment Nadar et son épouse, aussi Champfleury.  Sa mère voudrait qu'Asselineau encourage tout ceux qui sont susceptibles de faire de ces visites à Baudelaire, les appelant actes de charité.  Elle se dit prête à envoyer à Asselineau tous les manuscrits de Baudelaire et demande s'il voudrait recevoir toutes les revues où il a publié et qu'il gardait.  Elle juge qu'il y en a immensément [c'est elle qui souligne]  {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    71
+                </start>
+                <end>
+                    71
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

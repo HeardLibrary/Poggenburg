@@ -1,0 +1,69 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11139
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/23/1857
+        </temporal>
+        <temporal point = "end">
+            10/23/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        23 X 57
+    </note>
+    <note type = "journal content">
+        Babou  transmet à Poulet-Malassis  une lettre qu'il a eue de Louis Viardot au sujet des traductions par Viardot des nouvelles de Cervantes.  Poulet-Malassis explique sa propre manière de traiter avec les écrivains en discutant avec eux la publication de leurs oeuvres.  Il les paie à raison  de 100 francs le tirage de 600 exemplaires. Poulet-Malassis donne comme exemple d'une autre faaçon de faire en Michel Lévy, qui les achète 100 francs par tirage de 1500 exemplaires plus de deux fois moins cher.  Baudelaire a reçu une telle somme pour ses traductions d'Edgar Allan Poe.  Enfin, Poulet-Malassis décrit pour Viardot les conditions généreuses qu'il proposerait pour un contrat sur le Cervantès (P-APM 149).  Baudelaire reçoit une lettre de Flaubert, envoyée de Croisset.  Baudelaire est à l'Hôtel Voltaire  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Cat HD 3
+        </indentifier>
+        <titleInfo>
+            <title>
+                Catalogue de la vente publique. Hôtel Drouot, 26 nov 1987
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Mme J. Vidal-Mégret, M. Chalvet
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Catalog
+        </genre>
+        <note type = "source note">
+            No. 48
+        </note>
+    </relatedItem>
+</mods>

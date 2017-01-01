@@ -1,0 +1,53 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7038
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/30/1846
+        </temporal>
+        <temporal point = "end">
+            04/30/1846
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        fin IV 46
+    </note>
+    <note type = "journal content">
+        Baudelaire publie chez Charpentier le Salon caricatural en collaboration avec Banville et Vitu {1}.  Le prologue en vers est écrit par Baudelaire.  Les illustrations sont de Raymond Pelez {2}. La Revue indépendante annonce la publication du Salon de 1846 {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OP II 159
+        </indentifier>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CatBN57
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    25
+                </start>
+                <end>
+                    25
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+    </relatedItem>
+</mods>

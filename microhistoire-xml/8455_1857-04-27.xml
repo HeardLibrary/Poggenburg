@@ -1,0 +1,225 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8455
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/27/1857
+        </temporal>
+        <temporal point = "end">
+            04/27/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        27 IV 57
+    </note>
+    <note type = "journal content">
+        Le matin, Baudelaire reçoit une lettre conciliante de Poulet-Malassis. En y répondant, il promet d'envoyer ce soir tous ses placards, soigneusement remaniés. Baudelaire compte pouvoir se mettre à préparer les Curiosités esthétiques.  Il a l'intention d'y ajouter deux morceaux nouveaux: "Peintres raisonneurs;" "Excitations artificielles".  Il peut voyager gratuitement en chemin de fer, ce qui facilitera sa visite à Alençon, qu'il prévoit pour dans quinze jours, la renvoyant ainsi au delà de la date prévue auparavant. Baudelaire travaille sur les trois dernières parties des Fleurs du mal ed. de 1857: La Révolte; Le Vin; La Mort.  Ce soir, il compte envoyer à Poulet-Malassis la fin de la partie: Spleen et idéal.  A propos du Roman de la momie, Baudelaire conseille un tirage plus fort que celui envisagé par Poulet-Malassis.  Il vient de parcourir les bonnes feuilles des Cariatides, de Banville, où il dit trouver des fautes "cruelles" {1}.  Le général Aupick meurt à Paris, dans son appartement 91, rue du Cherche-Midi {2}. Il a 68 ans et il est grand officier de la Légion d'honneur.  Le décès est déclaré par le baron de Lacrosse et par Jean-Louis Emon.  Baudelaire, qui assistera aux obsèques y remarquera les manières brutales d'Emon envers lui {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    394
+                </start>
+                <end>
+                    394
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Girard
+        </indentifier>
+        <titleInfo>
+            <title>
+                Un Ennemi de Baudelaire: le général Aupick
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Girard, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1922
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    289
+                </start>
+                <end>
+                    289
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>La Revue de la Semaine<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>19 mai</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        264
+                    </start>
+                    <end>
+                        286
+                    </end>
+                </extent>
+                <date>05/19/1922</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    340
+                </start>
+                <end>
+                    340
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

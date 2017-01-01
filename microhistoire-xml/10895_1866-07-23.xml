@@ -1,0 +1,150 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10895
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/23/1866
+        </temporal>
+        <temporal point = "end">
+            07/23/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        23 VII 66
+    </note>
+    <note type = "journal content">
+        Mme Aupick donne soixante pilules à Baudelaire, qui doit en  prendre une par jour {1}. Toujours rue Duphot, Mme Aupick annonce à Poulet-Malassis un mieux sensible dans la santé de Baudelaire. Mais elle doit subir chez lui de terribles colères, souvent au sujet des Epaves, dont il voudrait parler mais que sa maladie l'empêche de discuter.  Après l'un de ses emportements, le Dr Duval la conseille de suspendre ses  visites à son fils, ce qu'elle ne fait que partiellement.  A la prochaine, Baudelaire est plus affectueux pour elle.  Elle est contente de savoir qu'elle pourra partir pour Honfleur sachant que Baudelaire est en bonnes mains, recevant des visites d'amis et logé près du domicile d'Ancelle {2}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Auzas
+        </indentifier>
+        <titleInfo>
+            <title>
+                Lettres de Mme Vve Aupick à Charles Asselineau
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Auzas, August
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1912
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    226
+                </start>
+                <end>
+                    226
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>99</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>366</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        225
+                    </start>
+                    <end>
+                        257
+                    </end>
+                </extent>
+                <date>09/16/1912</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    64
+                </start>
+                <end>
+                    64
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

@@ -1,0 +1,76 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11086
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/12/1856
+        </temporal>
+        <temporal point = "end">
+            03/12/1856
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        12 III 56
+    </note>
+    <note type = "journal content">
+        Michel Lévy met en vente les Histoires extraordinaires.  Le chiffre convenu de l'édition était 6000 exemplaires: on en a tire 6600.  Cette passe a valu à Baudelaire une rémunération supplémentaire de 150 francs, à 25 centimes par volume tiré.  Il en sera de même pour Nouvelles Histoires extraordinaires, pour Aventures d'Arthur Gordon Pym et pour Eureka  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Mollier
+        </indentifier>
+        <titleInfo>
+            <title>
+                Michel & Calmann Lévy: ou, la naissance de l'edition moderne, 1836-189
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Mollier, Jean-Yves
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Calmann-Lévy
+            </publisher>
+            <dateIssued>
+                1984
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    279
+                </start>
+                <end>
+                    279
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

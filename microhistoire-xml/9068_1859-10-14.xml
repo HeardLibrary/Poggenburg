@@ -1,0 +1,43 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9068
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/14/1859
+        </temporal>
+        <temporal point = "end">
+            10/14/1859
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        14 X 59
+    </note>
+    <note type = "journal content">
+        Disparition du Divan Le Peletier {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            v. 20 X j 59
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    CHECK
+                </start>
+                <end>
+                    CHECK
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

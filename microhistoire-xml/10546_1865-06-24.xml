@@ -1,0 +1,89 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10546
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/21/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/24/1865
+        </temporal>
+        <temporal point = "end">
+            06/24/1865
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 24 V 65
+    </note>
+    <note type = "journal content">
+        A la demande de Manet, Mme Meurice écrit à Baudelaire une longue lettre, amicale et caline.  Le train-train de sa vie parisienne ne peut intéresser Baudelaire, très informé des événements parisiens. Elle n'a fait qu'une seule visite au Salon, en raison d'un anthrax bénin, dont les symptômes, trop peu dramatiques, n'attirent l'attention de personne. On la laisse donc seule avec sa fièvre.  Elle lui rappelle la première visite qu'il lui a rendue, où il l'a trouvée assise dans son petit jardin et elle insinue subtilement que son mari la délaisse un peu pour  d'autres distractions féminines. Elle rêve parfois de dîner en tête à tête avec lui, ou avec d'autres.  Elle l'encourage à revenir  lui tenir compagnie.  Elle défend la peinture de Manet contre les insultes de son entourage, et souhaiterait obtenir le renfort de Baudelaire {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            LAB
+        </indentifier>
+        <titleInfo>
+            <title>
+                Lettres à Charles Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Neuchâtel</placeTerm>
+            </place>
+            <publisher>
+                Éditions la Baconnière
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    270
+                </start>
+                <end>
+                    270
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Études Baudelairiennes: nouvelles séries
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>4</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

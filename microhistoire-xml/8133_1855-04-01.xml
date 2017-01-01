@@ -1,0 +1,80 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8133
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/01/1855
+        </temporal>
+        <temporal point = "end">
+            04/30/1855
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        IV 55
+    </note>
+    <note type = "journal content">
+        Fondation de la Revue anecdotique, qui a pour but de ressusciter la "nouvelle à la main" du dix-huitième siècle {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bandy B
+        </indentifier>
+        <titleInfo>
+            <title>
+                The Revue anecdotique and Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1938
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Romanic Review<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>29</number>
+                    <caption>volume</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        68
+                    </start>
+                    <end>
+                        73
+                    </end>
+                </extent>
+                <date>02/01/1938</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

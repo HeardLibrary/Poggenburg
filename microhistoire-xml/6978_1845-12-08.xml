@@ -1,0 +1,94 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6978
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/08/1845
+        </temporal>
+        <temporal point = "end">
+            12/08/1845
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        8 XII 45
+    </note>
+    <note type = "journal content">
+        Marie Daubrun joue dans trois pièces, au théâtre de Montmartre.  Elle tient les rôles de: Nini, dans L'Amour dans tous les quartiers (comédie-vaudeville en sept tableaux, de Clairville); Zaza, dans Les Marocaines (comédie-vaudeville en un acte, de Clairville et E. Damarin); Pauline, dans Vieille Fille et vieux garçon [texte non-retrouvé]. Ces pièces se jouent ensemble jusqu'à la fin du mois {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pichois H
+        </indentifier>
+        <titleInfo>
+            <title>
+                Autour de La Fanfarlo: Baudelaire, Balzac et Marie Daubrun
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1956
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    610-611
+                </start>
+                <end>
+                    610-611
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>328</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>1120</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        604
+                    </start>
+                    <end>
+                        636
+                    </end>
+                </extent>
+                <date>01/01/1956</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,97 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11189
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            12/14/1859
+        </temporal>
+        <temporal point = "end">
+            12/14/1859
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        14 XII 59
+    </note>
+    <note type = "journal content">
+        Au soir, à 7h, Baudelaire écrit à Poulet-Malassis, exprimer sa reconnaissance pour son amitié inconditionnelle.  Il déclare que pour son ami il éprouve un dévouement pareil.  Pourtant, au départ précipité de son éditeur, celui-ci a oublié de laisser à Baudelaire un reçu,  impliquant ainsi que Poulet-Malassis aura payé le salaire de l'Opium et que Baudelaire lui ait remis le manuscrit du volume.  Demain, Baudelaire dînera avec Calonne, qui lui demanderait certainement s'il a ce reçu.  Commentant un "nouveau malheur" annoncé par Poulet-Malassis Baudelaire voudrait qu'ils explorent la possibilité de faire faire un procès à Lévy par lui.  Selon Baudelaire il est question des Notices littéraires, du Corbeau, de L'ange du bizarre, d'Eléonora et d'Evénement à Jérusalem  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl93 I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I, 2e édition contenant un « supplément »
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1993
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1088
+                </start>
+                <end>
+                    1088
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>247</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

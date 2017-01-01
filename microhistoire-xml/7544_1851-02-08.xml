@@ -1,0 +1,80 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7544
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/08/1851
+        </temporal>
+        <temporal point = "end">
+            02/08/1851
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        8 II 51
+    </note>
+    <note type = "journal content">
+        La Bibliographie de la France enregistre, à Evreux, la publication par Costerousse des Beautés de la ville du soleil et Mr Victor Grandin, de Le Roy le Ménestrel.  Baudelaire, ayant trouvé ce livre par hasard, l'enverra à Nadar avec une lettre "surprenante" (manquante). Nadar a été, de 1844 à 1846, secrétaire de Grandin, député d'Elbeuf {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bornecque B
+        </indentifier>
+        <titleInfo>
+            <title>
+                Du Rêve d'un bourgeois au Rêve d'un curieux
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bornecque, Jacques Henry
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1961
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>1</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        57
+                    </start>
+                    <end>
+                        63
+                    </end>
+                </extent>
+                <date>01/01/1961</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

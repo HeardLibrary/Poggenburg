@@ -1,0 +1,90 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6505
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/17/1839
+        </temporal>
+        <temporal point = "end">
+            05/17/1839
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        17 V 39
+    </note>
+    <note type = "journal content">
+        Le général Pajol propose la promotion d'Aupick au grade de maréchal de camp (aujourd'hui général de brigade), pour son attitude durant l'insurrection quatre jours plus tôt {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Girard
+        </indentifier>
+        <titleInfo>
+            <title>
+                Un Ennemi de Baudelaire: le général Aupick
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Girard, Georges
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1922
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    274
+                </start>
+                <end>
+                    274
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>La Revue de la Semaine<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>19 mai</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        264
+                    </start>
+                    <end>
+                        286
+                    </end>
+                </extent>
+                <date>05/19/1922</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

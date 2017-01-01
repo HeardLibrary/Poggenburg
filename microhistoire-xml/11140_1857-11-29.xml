@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11140
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            07/03/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            11/29/1857
+        </temporal>
+        <temporal point = "end">
+            11/29/1857
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        29 XI 57
+    </note>
+    <note type = "journal content">
+        Béranger publie, de Paul de Lascaux, une scène imaginée au Café Racine, près de l'Odéon.  Un poète appelé Chalandard y semble ressembler au Baudelaire mythique.  Ce dernier prépare 3.000 vers [peut-être ceux de L'Ivrogne] comme de l'acteur Fechter qui aurait critiqué le "chef d'oeuvre  de Chalandard, Le Cadavre  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Robb B
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire au Béranger
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Robb, Graham
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin Baudelairien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>22</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>2</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        61
+                    </start>
+                    <end>
+                        71
+                    </end>
+                </extent>
+                <date>12/01/1987</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

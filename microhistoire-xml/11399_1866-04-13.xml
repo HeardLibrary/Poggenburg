@@ -1,0 +1,43 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11399
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/13/1866
+        </temporal>
+        <temporal point = "end">
+            04/13/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        13 IV 66
+    </note>
+    <note type = "journal content">
+        Mme Aupick partant le lendemain de Paris, Ancelle envoie une dépêche pour l'annoncer à Poulet-Malassis.  Il demande à l'éditeur de rencontrer Mme Aupick et sa femme de chambre à 1h à la gare.  Ces dames devront être logées à l'hôtel près de Baudelaire  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-V
+        </indentifier>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    564
+                </start>
+                <end>
+                    564
+                </end>
+            </extent>
+        </part>
+    </relatedItem>
+</mods>

@@ -1,0 +1,63 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11247
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/31/1861
+        </temporal>
+        <temporal point = "end">
+            10/31/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        31 X 61
+    </note>
+    <note type = "journal content">
+        Aurélien Scholl {1} dans "Coulisses" au Figaro) indique la publication par Poulet-Malassis du Théâtre de Poliichinelle de Fernand Desnoyers.  Scholl prétend que les auteurs de Poulet-Malassis l'adorent, que l'évoquer, "c'est appeler le nom de Charles Baudelaire, l'auteur des Fleurs du mal et le créateur des sombres histoires d'Edgard Poë,  Au contraire des critiques de Baudelaire qui ne le connaissent pas, Schioll déclare que ce poète a "la sincérité de son caractère".  Scholl évoque le temps du "grand drame à passion" de Baudelaire,L'Ivrogne, et le choix de Rouvière pour y jouer.  Pour Scholl ce choix est parfait, étant donné le caractère de l'acteur tout à fait assorti à la pièce et à son auteur.  Scholl termine avec l'anecdote de Baudelaire qui choque deux dames parentes de Rouvière en leur racontant le quatrième acte ou l'assassin de sa femme exprime l'envie d'embrasser la défunte  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            T
+        </indentifier>
+        <titleInfo>
+            <title>
+                Texte vu
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Other
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

@@ -1,0 +1,75 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        7394
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/27/1849
+        </temporal>
+        <temporal point = "end">
+            09/27/1849
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        27 IX 49
+    </note>
+    <note type = "journal content">
+        La Silhouette publie A Une Jeune Saltimbanque.  Le poème est signé Privat d'Anglemont, bien qu'il puisse être attribué à Baudelaire {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bandy A
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire ou Privat d'Anglemont?
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1929
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Le Figaro<title>
+            </titleInfo>
+            <part>
+                <detail type = "issue">
+                    <number>9 novembre</number>
+                    <caption>issue</caption>
+                </detail>
+                <date>11/09/1929</date>
+            </part>
+        </relatedItem>
+        <note type = "source note">
+            PAGES?
+        </note>
+    </relatedItem>
+</mods>

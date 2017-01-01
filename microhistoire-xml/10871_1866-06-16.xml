@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10871
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            06/16/1866
+        </temporal>
+        <temporal point = "end">
+            06/16/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        16 VI 66
+    </note>
+    <note type = "journal content">
+        Anthony North-Peat annonce dans le Morning Star (Londres) que Baudelaire est toujours en vie et qu'il rentre à Paris {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            North Peat
+        </indentifier>
+        <titleInfo>
+            <title>
+                Gossip from Paris during the second empire; correspondence (1864-1869) of Anthony B. North Peat
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                North Peat, Anthony B.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Waller, Alfred Rayney
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">New York</placeTerm>
+            </place>
+            <publisher>
+                D. Appleton and Co.
+            </publisher>
+            <dateIssued>
+                1903
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    190--191
+                </start>
+                <end>
+                    190--191
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

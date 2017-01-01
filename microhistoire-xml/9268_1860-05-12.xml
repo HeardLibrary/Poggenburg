@@ -1,0 +1,94 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9268
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            05/12/1860
+        </temporal>
+        <temporal point = "end">
+            05/12/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 12 V 60
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis recommande Glatigny à Bracquemond, arguant du fait que le jeune poète a trouvé le moyen d'intéresser Baudelaire et Banville ainsi que d'autres écrivains de la génération précédent {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Pichois N
+        </indentifier>
+        <titleInfo>
+            <title>
+                Documents Nouveaux sur Charles Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1961
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    273
+                </start>
+                <end>
+                    273
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Mercure de France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>341</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "number">
+                    <number>1170</number>
+                    <caption>number</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        259
+                    </start>
+                    <end>
+                        276
+                    </end>
+                </extent>
+                <date>02/01/1961</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

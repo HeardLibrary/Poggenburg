@@ -1,0 +1,66 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10210
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            02/19/1864
+        </temporal>
+        <temporal point = "end">
+            02/19/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        19 II 64
+    </note>
+    <note type = "journal content">
+        Whistler écrit à Fantin-Latour pour annoncer son arrivée à Paris au moment du Salon.  Il propose d'y être le 15 mars, avec ses tableaux {1}. [Bibl. J. Doucet, cart. 28 peintres].
+    </note>
+    <note type = "researcher notes">
+        Should "Bibl. J. Doucet" be retained in sources info.?
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            BAAJD
+        </indentifier>
+        <titleInfo>
+            <title>
+                Bibliothèque d'Art et Archéologie, Jacques Doucet
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                ***
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Catalog
+        </genre>
+        <note type = "source note">
+            TITLE?
+        </note>
+    </relatedItem>
+</mods>

@@ -1,0 +1,79 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11419
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/01/1867
+        </temporal>
+        <temporal point = "end">
+            09/07/1867
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        Première semaine de IX 67
+    </note>
+    <note type = "journal content">
+        A la mort de Baudelaire, Mme Aupick fait cadeaau à Ancelle du dictionnaire qui a servi à Baudelaire pour ses traductions d'EàP:  Dictionnaire anglais-français et français-anglais abrégé de Boyer.  Paris, Baudry, 1846 35e éd.  {1}
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Cat HD 3
+        </indentifier>
+        <titleInfo>
+            <title>
+                Catalogue de la vente publique. Hôtel Drouot, 26 nov 1987
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                ***
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Mme J. Vidal-Mégret, M. Chalvet
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    18
+                </start>
+                <end>
+                    18
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Catalog
+        </genre>
+        <note type = "source note">
+            No. 48
+        </note>
+    </relatedItem>
+</mods>

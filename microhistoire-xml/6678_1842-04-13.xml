@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6678
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            04/13/1842
+        </temporal>
+        <temporal point = "end">
+            04/13/1842
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        13 IV 42
+    </note>
+    <note type = "journal content">
+        Date d'un poème d'Ernest Prarond: A Charles Baudelaire.  L'auteur y caractérise les vers de Baudelaire comme faisant paraître beau le péché {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Wallace B
+        </indentifier>
+        <titleInfo>
+            <title>
+                La Violette d'Honfleur était-elle une fleur du mal?
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Wallace, James K.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1969
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Revue d'Histoire Littéraire de la France<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>69</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>2</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        245
+                    </start>
+                    <end>
+                        251
+                    </end>
+                </extent>
+                <date>03/01/1969</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

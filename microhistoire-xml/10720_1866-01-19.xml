@@ -1,0 +1,148 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10720
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/19/1866
+        </temporal>
+        <temporal point = "end">
+            01/19/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        19 I 66
+    </note>
+    <note type = "journal content">
+        Baudelaire fait savoir à  Catulle Mendès qu'il acceptera de publier quelques-uns de ses vers dans le Parnasse contemporain.  Il accepte également les 100 francs que Mendès a offerts de lui prêter. Baudelaire insiste pourtant, quant aux poèmes, sur le droit de les imprimer dans une nouvelle édition des Fleurs du mal ed. de 1857.  Il dit qu'il enverra à Mendès un volume [Les Epaves] et nie avoir collaboré avec Poulet-Malassis pour cet ouvrage. Baudelaire voudrait que Mendès le renseigne sur la revue L'Art, dont lui a parlé Sainte-Beuve et qu'il ne connaît pas.  Baudelaire conseille à Mendès de demander des vers à Philoxène Boyer.  Ce dernier fait des poésies que Baudelaire juge "superbes", quoique leur auteur ne s'en sépare pas facilement {1}. Le journal des Goncourt de cette date décrit sans indulgence une réunion de jeunes poètes chez Louis-Xavier Ricard.  Ils sont appelés "la queue de Baudelaire et de Banville..." {2}.
+    </note>
+    <note type = "researcher notes">
+        "ck ref JUL" was written at the end of this entry.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    573
+                </start>
+                <end>
+                    573
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Robichez
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres poétiques
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Verlaine, Paul
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Classiques Garnier
+            </publisher>
+            <dateIssued>
+                1995
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

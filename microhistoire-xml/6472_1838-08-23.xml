@@ -1,0 +1,28 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6472
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/23/1838
+        </temporal>
+        <temporal point = "end">
+            08/23/1838
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        23 VIII 38
+    </note>
+    <note type = "journal content">
+        Fin de l'année académique au Collège Louis-le-Grand. Sur le point de partir pour la rejoindre à Barèges, Charles écrit à sa mère pour dire qu'au Concours général, il n'a pas eu de prix mais qu'il en a eu au collège. On lui a décerné  comme prix les Mélanges [sic] de Villemain et le Cours de Littérature française...Tableau du dix-huitième siècle. Il part tout à l'heure pour Toulouse, où il descendra peut-être chez le général Durrieu, peut-être à l'auberge {1}. Avant de partir, Charles écrit à son demi-frère pour annoncer ses projets de voyage et pour raconter son insuccès au Concours {2}.
+    </note>
+</mods>

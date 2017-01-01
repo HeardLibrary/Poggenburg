@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10917
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/03/1866
+        </temporal>
+        <temporal point = "end">
+            09/03/1866
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        3 IX 66
+    </note>
+    <note type = "journal content">
+        Poulet-Malassis se plaint à Asselineau de sa mauvaise santé pendant cette année, ainsi que de ses déboires financières. Il a perdu à peu près tout ce qu'il a gagné depuis deux ans, somme peut-être petite pour le monde, mais beaucoup pour lui. Brochant sur le tout il a eu une violente cholérine [un faux choléra]. Poulet-Malassis ne voit aucun espoir pour Baudelaire; il trouve que son état actuel de santé est le meilleur qu'il peut espêrer.  Ses rares amis, selon Poulet-Malassis, ont le devoir d'adoucir comme il peuvent la demi-existence qu'il lui reste.  Il regrette beaucoup d'être absent de Paris et appelle Asselineau de le remplacer auprès de Baudelaire.  Surtout il faudra travailler pour conserver à Baudelaire sa mémoire.  Il ne saurait être question de publier les oeuvres complètes de Baudelaire tant qu'il garde son intelligence au degré qu'il l'a conservée.  Sinon, il faudrait les publier telle quelle, chose inadmissible quant à Poulet-Malassis pour le livre qui assurera la renommée de Baudelaire.  Mais l'éditeur préfère avoir une édition des Fleurs du mal ed. de 1857 pour l'heure actuelle ce qui manque en librairie.  Cela protégera le poète contre une opinion publique qui le dirait fini.  Poulet-Malassis cite ses droits dans la question d'une nouvelle édition, faisant valoir ses traités avec Baudelaire, antérieurs à tous les autres que, follement, il aurait pu faire passer après cet engagement.  Pour cela. il verrait bien une édition à Paris de 1500 exemplaires, à un prix de 3 francs, avec 40 c par exemplaire donnés par le libraire et imprimée par Râçon afin de correspondre à la dernière [celle de 1861].  Poulet-Malassis pense qu'Ancelle donnera l'autorisation de traiter pour cette édition, et qu'il ne faudrait pas en parler à Baudelaire, parce qu'il n'est pas capable d'exprimer ses intentions dans une telle affaire.  Poulet-Malassis s'attend cette semaine à une double saisie.  Dimanche il ira chez Rops pour se reposer huit jours de "ces chaudes alarmes" {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Ruff-Richer
+        </indentifier>
+        <titleInfo>
+            <title>
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Richer, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ruff, Marcel A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                A.-G. Nizet
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    69
+                </start>
+                <end>
+                    69
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

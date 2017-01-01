@@ -1,0 +1,265 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9540
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/20/1861
+        </temporal>
+        <temporal point = "end">
+            03/20/1861
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        env 20 III 61
+    </note>
+    <note type = "journal content">
+        Baudelaire demande à Aimé Blaisot, secrétaire de la Revue européenne, l'envoi de deux  jeux d'épreuve de son article sur Wagner; il en gardera un et fera ses corrections sur l'autre {1}.  Baudelaire demande également à Blaisot de lui envoyer le manuscrit de l'article {2}. Baudelaire parle à Hetzel  de l'escompte de billets que celui-ci tient de Baudelaire et de Poulet-Malassis.  Hetzel se dit inquiet à propos des affaires de la maison Malassis, il estime qu'elle risque de  connaître des difficultés.  On lui a parlé d'effets restés en souffrance.  Hetzel a vu suspendre ses paiements par son banquier: il se sert maintenant, une fois par mois, du Comptoir d'escompte et prendrait volontiers les billets de Poulet-Malassis, malgré le fait que ce comptoir ait refusé une première fois, le banquier d'Hetzel les ayant finalement acceptés. Hetzel offre à Baudelaire de faire escompter de leurs billets en Belgique mais Baudelaire croit que la maison belge à laquelle il s'adresserait vient de faire faillite, à la suite de l'affaire Mirès.  Hetzel offre de publier les Réflexions sur quelques-uns de mes contemporains, ainsi que les Curiosités esthétiques, d'ici quelques mois. Il voudrait toutefois changer le titre du dernier ouvrage, présentant "un bouillon". Après une discussion avec De Broise, Baudelaire et Hetzel décident d'aller voir d'autres escompteurs:  Lemercier, que Baudelaire ira voir; Schwartz, que verra l'autre.  Cela devra être fait avant qu'ils ne retournent chez Hetzel. Baudelaire rédige une note à l'intention de Poulet-Malassis, qu'il remet à Eugène De Broise. Il informe Poulet-Malassis qu'à la fin du mois, au plus tard au 10 avril, Hetzel présentera leurs billets pour paiement.  Ce dernier ne veut pas courir le risque de ne pouvoir payer à temps une dette personnelle, par le fait qu'on refuse d'escompter des billets de Baudelaire et de Poulet-Malassis, le laissant à court d'argent. Poulet-Malassis écrit à Baudelaire, qui lui répond qu'il sera nécessaire que Poulet-Malassis emprunte sur ses ressources personnelles de quoi payer, le 25 mars, 1850 francs en billets échéant à cette date. La "navette", dit Baudelaire, sera impossible pour répondre à ce besoin. Si Poulet-Malassis lui-même ne peut faire accepter ses billets par Gélis ou chez Lemercier, il pourra peut-être les y faire passer par un autre. En tout cas Baudelaire, qui se trouve actuellement poursuivi pour un total de 1900 francs, ne pourra rien faire lui-même. Quant à ses activités littéraires, Baudelaire, qui avait craint une "espèce de maladie à la Gérard [de Nerval]", réussit pourtant depuis quatre ou cinq jours à écrire. Il s'attend à ce que sa dette, bien que grossissante, soit payée par une édition de luxe des oeuvres d'Edgar Allan Poe et par ses propres écrits sur le théâtre.  Baudelaire remarque que l'Artiste n'a publié ni son portrait par Bracquemond ni la note qu'il a rédigée pour l'accompagner {3}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    133
+                </start>
+                <end>
+                    133
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    134
+                </start>
+                <end>
+                    134
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    134
+                </start>
+                <end>
+                    134
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

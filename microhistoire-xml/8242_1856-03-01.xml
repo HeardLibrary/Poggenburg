@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        8242
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            03/01/1856
+        </temporal>
+        <temporal point = "end">
+            03/01/1856
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1  III 56
+    </note>
+    <note type = "journal content">
+        La  Bibliographie de la France enregistre un des volumes des Oeuvres choisies de F. Masini: 24 Nocturnes, Sérénades et Mélodies.  Alfred Busquet ayant demandé à Baudelaire de faire une traduction de vers italiens, Baudelaire en écrit sur un papier portant le titre de ce volume-ci.  Ces vers sont une version corrompue de quelques-uns de L'Aminta du Tasse {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Bandy M
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire, Masini et Le Tasse
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Bandy, William Thomas
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateIssued>
+                1974
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <genre>
+            Article
+        </genre>
+        <relatedItem type = "host">
+            <titleInfo>
+                <title>Bulletin Baudelairien<title>
+            </titleInfo>
+            <part>
+                <detail type = "volume">
+                    <number>10</number>
+                    <caption>volume</caption>
+                </detail>
+                <detail type = "issue">
+                    <number>1</number>
+                    <caption>issue</caption>
+                </detail>
+                <extent unit = "page">
+                    <start>
+                        6
+                    </start>
+                    <end>
+                        14
+                    </end>
+                </extent>
+                <date>04/01/1974</date>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

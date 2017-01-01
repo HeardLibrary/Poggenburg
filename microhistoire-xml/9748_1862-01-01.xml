@@ -1,0 +1,91 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9748
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            01/01/1862
+        </temporal>
+        <temporal point = "end">
+            12/31/1862
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        1862-1865
+    </note>
+    <note type = "journal content">
+        Baudelaire dresse deux listes de livres à distribuer gracieusement {1} l'une à l'intention des membres de l'Académie française et à  ses amis, l'autre à l'intention de personnes susceptibles de lui être utiles dans le monde du journalisme.   Sur la liste des académiciens figurent: Sainte-Beuve; Victor Hugo; Lamartine; Mérimée; Legouvé; Sandeau; Ponsard; Emile Augier; De Sacy; Vitet.  Parmi les amis il nomme: Babou;  Champfleury; Poulet-Malassis; Flaubert; Delange; Chenavard; Mme Meurice; Pelletier; Le Josne; Fromentin; Du Mesnil; Leconte de Lisle; G. Rouland; Maxime Du Camp; Reyer; Préault; Manet; Féval;  Gozlan; Thierry; Daumier; Gavarni; Noriac; Hostein; Fournier; Browning; Tennyson; Rossetti;  Whistler; Joly; Dubois; Neyt; Soulary; Rops; Dulamon; Deschamps; Vitu; Asselineau; Pinard; Hetzel. Dans la seconde, il indique les revues et les journaux où il peut avoir l'appui de gens qu'il connaît: au Moniteur (Lavoix, Gautier, Deschanel); aux Débats (Janin, Cuvillier-Fleury, Chasles, Taine); au Constitutionnel (Sainte-Beuve, Vitu, Roqueplan); à la Presse (A. Houssaye, De Mouÿ, de Saint-Victor);  au Siècle (Jourdan, Texier); à l'Opinion nationale (Levallois); au Pays (Barbey d'Aurevilly); à La France (Banville); à la Gazette de France (de Pontmartin--[avec un point d'interrogation]); à la Nation (sans nom); au Monde (Veuillot); au Temps (Nefftzer); au Salut public de Lyon (Fraisse); au Spectator de Londres (Swinburne); à  l'Atheneum (personne); à l'Illustration (Texier); au Monde illustré (Yriarte, Monselet); au Figaro (Jouvin, Dechesne, Jules Claretie); à la Revue des deux mondes (E. Montégut, Buloz); à la Revue de Paris (Henry de La Madelène);  à la Revue contemporaine  (de Calonne); à la Revue britannique (Pichot); à la Revue germanique (Ch. Dollfus); à la Revue nationale (G. Charpentier, Asselineau); à la Revue française (personne); à la Vie parisienne (L. Marcelin); à l'Indépendance belge (G. Frédérix, Janin, P. Véron, Thoré); à l'Evénement (E. Zola) {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            OCPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome II
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1976
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    275
+                </start>
+                <end>
+                    275
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

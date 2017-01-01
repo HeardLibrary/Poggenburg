@@ -1,0 +1,84 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        6096
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/03/1816
+        </temporal>
+        <temporal point = "end">
+            08/03/1816
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        3 VIII 16
+    </note>
+    <note type = "journal content">
+        Sémonville, en lui faisant force compliments sur ses années de service, écrit à J.-F. Baudelaire une lettre d'adieu à l'occasion de sa retraite.  Il lui annonce l'allocation d'une pension de 4000 francs et l'assure de la continuation de Claude-Alphone Baudelaire en sa qualité de surnuméraire dans l'ancien bureau de son père même après le départ de celui-ci en retraite.  En outre, il promet pour cet enfant de 1 ans son appui au moment où, grandi, il voudrait exercer la carrière de fonctionnaire dans leurs bureaux.  Enfin, il se déclare prêt à contribuer, en utilisant les fonds libres de la Chambre, aux frais extraordinaires de l'éducation du garçon {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            P-Z
+        </indentifier>
+        <titleInfo>
+            <title>
+                Baudelaire
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Julliard
+            </publisher>
+            <dateIssued>
+                1987
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    49
+                </start>
+                <end>
+                    49
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+    </relatedItem>
+</mods>

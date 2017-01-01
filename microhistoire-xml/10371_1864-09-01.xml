@@ -1,0 +1,87 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10371
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            09/01/1864
+        </temporal>
+        <temporal point = "end">
+            09/30/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        IX 64
+    </note>
+    <note type = "journal content">
+        Un soir, Baudelaire rencontre Nadar en compagnie d'Hetzel {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            Parménié
+        </indentifier>
+        <titleInfo>
+            <title>
+                Histoire d'un E?diteur et de ses Auteurs: P.-J. Hetzel (Stahl)
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Parménié, A.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Bonnier de la Chapelle, C.
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                E?ditions Albin Michel
+            </publisher>
+            <dateIssued>
+                1954
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    459
+                </start>
+                <end>
+                    459
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <note type = "source note">
+            Corrected 11/1/2016
+        </note>
+    </relatedItem>
+</mods>

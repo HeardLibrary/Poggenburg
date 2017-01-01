@@ -1,0 +1,100 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        11061
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            10/26/2000
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            08/04/1854
+        </temporal>
+        <temporal point = "end">
+            08/04/1854
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        add to 4 VIII 54
+    </note>
+    <note type = "journal content">
+        Champfleury, dans une lettre à Max Buchon, reconnaît comme (Kameya I:57).  Pour [Poulet-Malassis?], Baudelaire décrit la commotion qu'il cause en publiant les Histoires extraordinaires.  Il suggère que le Pays qui reçoit des plaintes de certains de ses lecteurs au sujet de cette publication, seraient convaincus de changer d'avis  par une lettre appuyant Baudelaire.  Cette lettre, signée par un abonné de l'endroit qu'habite la personne à qui est adressée cette lettre de Baudelaire,  pourra être écrite par elle ou sollicitée par elle à un autre.  Baudelaire est très poussé par le travail, il doit écrire un feuilleton par jour, puis en corriger les épreuves le lendemain.  Il appelle son correspondant "le chef des esprits littéraires de l'endroit"  {1}
+    </note>
+    <note type = "researcher notes">
+        Second edition addendum
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl93 I
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome I, 2e édition contenant un « supplément »
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1993
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/08/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    1082
+                </start>
+                <end>
+                    1082
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+            <part>
+                <detail type = "number">
+                    <number>247</number>
+                    <caption>number</caption>
+                </detail>
+            </part>
+        </relatedItem>
+    </relatedItem>
+</mods>

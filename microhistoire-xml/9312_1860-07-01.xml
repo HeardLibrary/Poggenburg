@@ -1,0 +1,110 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        9312
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            07/01/1860
+        </temporal>
+        <temporal point = "end">
+            07/31/1860
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        début VII 60?
+    </note>
+    <note type = "journal content">
+        Baudelaire transmet à Poulet-Malassis une lettre de Pincebourde avec le détail des exemplaires des Paradis artificiels remis à l'auteur. Baudelaire trouve ce compte inexact, y ajoutant le nom de Piogey, qui a reçu un exemplaire en chine; il ne comprend pas l'allusion au Monsieur du Mans.  Baudelaire vient de rencontrer Caen, un libraire, à qui il demande qu'on envoie un exemplaire.  Il offre à Poulet-Malassis d'échanger l'exemplaire de Feydeau, très annoté par celui-ci, contre des exemplaires courants. Baudelaire travaille sur les Fleurs du mal ed. de 1857, et promet d'envoyer à son éditeur dans "très peu de jours" tous ces poèmes, y compris  l'épilogue adressé à la ville de Paris.  Il reconnaît avoir reçu 24 exemplaires des Paradis artificiels, dont 19 de l'édition courante. Baudelaire observe que de Lescure, de la Gazette de France, est émerveillé par le livre et que Barbey d'Aurevilly en est content. Pourtant, ce dernier, hésite à  faire une critique des écrits d'avant-garde (dont les Paradis artificiels). On s'est moqué de ce que Barbey a écrit récemment à propos de Pommier et d'Aubryet au Pays.  En terminant, Baudelaire fait allusion à l'édition de grand luxe d'Edgar Allan Poe, ainsi qu'à son essai sur Wagner.  Dans une autre lettre, non-terminée, Baudelaire reproche à Poulet-Malassis ne pas s'occuper assez de sa librairie.  Il demande un supplément de dix exemplaires des Paradis artificiels et observe que Pincebourde a omis d'en envoyer à la Revue britannique, au Correspondant, à l'Union, à la Gazette et à l'Opinion nationale. A côté de ces omissions, il y a, dit-il, des prodigalités niaises.  Baudelaire prie Poulet-Malassis d'écrire, entre autres, à de Lescure, à de Wailly et à Barbey d'Aurevilly {1}.
+    </note>
+    <note type = "researcher notes">
+        Date uncertain
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    56, 58
+                </start>
+                <end>
+                    56, 58
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>

@@ -1,0 +1,107 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <identifier displayLabel = "record number" type = "local">
+        10383
+    </identifier>
+    <originInfo>
+        <dateCaptured>
+            08/16/1999
+        </dateCaptured>
+        <dateModified>
+            03/08/2002
+        </dateModified>
+    </originInfo>
+    <subject>
+        <temporal point = "start">
+            10/09/1864
+        </temporal>
+        <temporal point = "end">
+            10/09/1864
+        </temporal>
+    </subject>
+    <note type = "poggenburg date">
+        9 X 64
+    </note>
+    <note type = "journal content">
+        Baudelaire a reçu un paquet de Louis Marcelin [sans doute le texte, en copie manuscrite, des Habitations imaginaires (Le Domaine d'Arnheim, Le Cottage Landor, Philosophie de l'ameublement)] et une lettre (manquante) demandant des coupures  dans le texte.  Marcelin demande que Baudelaire lui envoie des vers à publier et lui parle du Sonnet [Sur les débuts d'Amina Boschetti...].  Baudelaire écrit à Marcelin pour dire que le paquet a probablement croisé sa lettre et l'informe que Lévy--ou Parfait--lui fournira les  épreuves de ces textes, afin qu'il juge des coupures à y effectuer.  Baudelaire tient à ce que les coupures ne détruisent pas l'équilibre entre les parties morales et pittoresques. Quant au sonnet en question, Baudelaire n'y comprend rien; il nie avoir envoyé à Marcelin de poésies, ignorant le désir du directeur de revue d'en recevoir.  Il avoue qu'il a composé un mauvais sonnet sur la Boschetti, vers qu'il a détruits après les avoir montrés seulement à deux personnes, mais ne voit pas comment Marcelin en aurait eu vent, à moins que quelqu'un en eût pris copie {1}.
+    </note>
+    <relatedItem type = "references">
+        <identifier displayLabel = "bibliographic abbreviation" type = "local">
+            CPl II
+        </indentifier>
+        <titleInfo>
+            <title>
+                Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
+            </title>
+        </titleInfo>
+        <name type = "personal">
+            <namePart>
+                Baudelaire, Charles
+            </namePart>
+            <role>
+                <roleTerm type = "text">author</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Pichois, Claude
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <name type = "personal">
+            <namePart>
+                Ziegler, Jean
+            </namePart>
+            <role>
+                <roleTerm type = "text">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type = "text">Paris</placeTerm>
+            </place>
+            <publisher>
+                Gallimard
+            </publisher>
+            <dateIssued>
+                1973
+            </dateIssued>
+            <dateCaptured>
+                03/07/2002
+            </dateCaptured>
+            <dateModified>
+                03/07/2002
+            </dateModified>
+        </originInfo>
+        <part>
+            <extent unit = "pages">
+                <start>
+                    407
+                </start>
+                <end>
+                    407
+                </end>
+            </extent>
+        </part>
+        <genre>
+            Book
+        </genre>
+        <relatedItem type = "series">
+            <titleInfo>
+                <title>
+                    Bibliothèque de la Pléiade
+                </title>
+            </titleInfo>
+        </relatedItem>
+    </relatedItem>
+</mods>
