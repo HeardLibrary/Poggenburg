@@ -28,12 +28,12 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CML I 11
-        </indentifier>
+        </identifier>
     </relatedItem>
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>

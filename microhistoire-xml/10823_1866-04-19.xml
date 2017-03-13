@@ -28,10 +28,10 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Ruff-Richer
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
-                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Oeuvres: correspondances, documents
             </title>
         </titleInfo>
         <name type = "personal">
@@ -84,7 +84,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             BN2914
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Lettre n. 2914 de la Collection d'autographes formée par Félix et Paul Nadar
@@ -119,7 +119,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Kunel B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire en Belgique
@@ -167,7 +167,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             EJC
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire: étude biographique / d'Eugène Crépet, revue et mise à jour par Jacques Crépet, suivie des Baudelairiana d'Asselineau et de nombreuses lettres adressées à Ch. Baudelaire
@@ -223,7 +223,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -302,7 +302,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu

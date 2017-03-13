@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -107,7 +107,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             AR
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 L'art romantique. Notice, notes et éclaircissements de M. Jacques Crépet
@@ -163,7 +163,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             HGS
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Histoires grotesques et sérieuses
@@ -218,7 +218,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois N
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Documents Nouveaux sur Charles Baudelaire
@@ -248,7 +248,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

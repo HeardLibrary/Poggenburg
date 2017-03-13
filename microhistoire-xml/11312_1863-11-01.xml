@@ -28,10 +28,10 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Mollier
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
-                Michel & Calmann Lévy: ou, la naissance de l'edition moderne, 1836-189
+                Michel &amp; Calmann Lévy: ou, la naissance de l'edition moderne, 1836-189
             </title>
         </titleInfo>
         <name type = "personal">

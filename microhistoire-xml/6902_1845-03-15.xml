@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Crépet U
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire et Asselineau. Textes recueillis et commentés par Jacques Crépet et Claude Pichois
@@ -108,7 +108,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OCPl II
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome II
@@ -171,7 +171,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire

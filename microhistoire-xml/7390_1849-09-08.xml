@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -63,7 +63,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pougin
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Le Théâtre historique d'Alexandre Dumas
@@ -103,7 +103,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Revue d'Art Dramatique<title>
+                <title>Revue d'Art Dramatique</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

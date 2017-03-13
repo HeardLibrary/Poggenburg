@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Villiers
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance générale et documents inédits. Ed. recueillie, classée et présentée par Joseph Bollery
@@ -87,7 +87,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Mondor--Richard
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>
@@ -102,7 +102,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Charlier
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>
@@ -117,7 +117,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Léger
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>

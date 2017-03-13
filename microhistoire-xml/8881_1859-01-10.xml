@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -107,7 +107,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Blanc
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 À propos de deux lettres inédites de Baudelaire: communication à l'Académie de Nîmes (séance du 24 novembre 1978)
@@ -145,7 +145,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Marsan A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Collection de Jules Marsan. Manuscrits et autographes. Vente à l'Hôtel George V, le 17 juin 1975
@@ -191,7 +191,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -270,7 +270,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             LAB
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Lettres à Charles Baudelaire

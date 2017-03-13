@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Crépet O
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelairiana
@@ -71,7 +71,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                     <extent unit = "page">
@@ -87,7 +87,7 @@
         </relatedItem>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                     <extent unit = "page">
@@ -103,7 +103,7 @@
         </relatedItem>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                     <extent unit = "page">
@@ -121,7 +121,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             FMCBP
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Les Fleurs du Mal. Texte de la 2e édition. Les Épaves. Additions de la 3e édition, documents et bibliographie
@@ -197,7 +197,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu

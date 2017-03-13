@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Flavien B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 J.-F. Baudelaire
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Cramérien<title>
+                <title>Le Cramérien</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

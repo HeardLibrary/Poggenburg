@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bandy A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire ou Privat d'Anglemont?
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Figaro<title>
+                <title>Le Figaro</title>
             </titleInfo>
             <part>
                 <detail type = "issue">

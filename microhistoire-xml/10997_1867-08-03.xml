@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Robb
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire à l'Hôtel Corneille: du nouveau sur La Fanfarlo
@@ -67,7 +67,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mélanges de Littérature en Hommage à Albert Kies<title>
+                <title>Mélanges de Littérature en Hommage à Albert Kies</title>
             </titleInfo>
             <part>
                 <extent unit = "page">
@@ -85,7 +85,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Balzac
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>

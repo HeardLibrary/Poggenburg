@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Mondor--Richard
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>
@@ -43,6 +43,6 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             I
-        </indentifier>
+        </identifier>
     </relatedItem>
 </mods>

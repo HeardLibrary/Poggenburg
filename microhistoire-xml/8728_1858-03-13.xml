@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bandy et Mouquet
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire en 1848
@@ -84,7 +84,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Vapereau
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Dictionnaire universel des contemporains, contenant toutes les personnes notables de la France et des pays étrangers

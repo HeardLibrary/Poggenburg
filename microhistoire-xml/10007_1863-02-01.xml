@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Tabarant A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Manet. Histoire catalographique
@@ -73,7 +73,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Leroy
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Les Premiers Amis français de Wagner
@@ -76,7 +76,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu

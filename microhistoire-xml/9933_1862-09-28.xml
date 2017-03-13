@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bailly-Herzberg
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 L'Eau-forte de peintre au XIX siècle: La Société des Aquafortistes 1862-1867
@@ -76,7 +76,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             LAB
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Lettres à Charles Baudelaire

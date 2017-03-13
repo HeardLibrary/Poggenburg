@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Raynaud B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Etude biographique et critique suivie d'un essai bibliographique et d'iconographie baudelairiennes
@@ -79,7 +79,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Graham
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 ***

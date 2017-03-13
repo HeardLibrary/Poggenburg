@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             NHE
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Nouvelles histoires extraordinaires
@@ -91,7 +91,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu

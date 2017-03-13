@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             JI
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Journaux intimes. Fusées. Mon Coeur mis à nu. Carnet
@@ -100,7 +100,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OCPl II
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome II
@@ -163,7 +163,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Dufay E
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Un Ami de Baudelaire: M. Ancelle, beau-père d'un fils du duc de Berry
@@ -193,7 +193,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -219,7 +219,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler

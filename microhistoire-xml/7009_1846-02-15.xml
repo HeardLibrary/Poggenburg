@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             BN14260
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Lettres de Marie-Amélie de Bourbon (duchesse d'Orléans puis reine des Français) à Vincenza Rizzi et à Carmela et Paolo D'Ambrosio, 1/18/1807 - 12/21/1819
@@ -60,7 +60,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Robb E
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Le Siècle de Bathilde Bouniol
@@ -90,7 +90,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin Baudelairien<title>
+                <title>Bulletin Baudelairien</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire
@@ -84,7 +84,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire

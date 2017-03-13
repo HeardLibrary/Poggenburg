@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
@@ -79,7 +79,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
@@ -127,7 +127,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OC61
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Oeuvres complètes. texte établi et annoté par Y.-G. Le Dantec; édition révisée, complétée et présentée par Claude Pichois
@@ -190,7 +190,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OCPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome I
@@ -253,7 +253,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal

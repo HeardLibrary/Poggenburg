@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois O
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 La Jeunesse de Baudelaire vue par Ernest Prarond
@@ -61,7 +61,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Etudes Littéraires<title>
+                <title>Etudes Littéraires</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

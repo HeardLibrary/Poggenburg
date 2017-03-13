@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -63,7 +63,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Badesco B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Le Génération poétique de 1860, la jeunesse des deux rives, milieux d'avant-garde et mouvements littéraires, les oeuvres et les hommes
@@ -119,7 +119,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Badesco B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Le Génération poétique de 1860, la jeunesse des deux rives, milieux d'avant-garde et mouvements littéraires, les oeuvres et les hommes

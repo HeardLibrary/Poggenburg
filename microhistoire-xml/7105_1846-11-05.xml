@@ -28,12 +28,12 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Boyé
-        </indentifier>
+        </identifier>
     </relatedItem>
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OCPl I
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>

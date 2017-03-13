@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Dufay A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Des Buveurs d'eau à la `Vie de Bohème'
@@ -68,7 +68,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

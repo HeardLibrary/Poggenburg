@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Provence A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Poète et comédienne au service de la France: Théodore de Banville et Marie Daubrun à Nice l'année de l'annexion
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

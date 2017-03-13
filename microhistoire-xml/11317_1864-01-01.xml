@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois U
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Deschanel et Baudelaire,suite
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin Baudelairien<title>
+                <title>Bulletin Baudelairien</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

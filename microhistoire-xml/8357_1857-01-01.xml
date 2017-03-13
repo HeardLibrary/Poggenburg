@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois S
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Un Carnet d'Asselineau utilisé par Baudelaire
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Quaderni Francesi<title>
+                <title>Quaderni Francesi</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

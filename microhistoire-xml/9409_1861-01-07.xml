@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bouillon
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Artiste et éditeur: correspondance de Bracquemond et de Poulet-Malassis
@@ -71,7 +71,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                 <detail type = "issue">
@@ -91,7 +91,7 @@
         </relatedItem>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                 <detail type = "issue">
@@ -111,7 +111,7 @@
         </relatedItem>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                 <detail type = "issue">
@@ -131,7 +131,7 @@
         </relatedItem>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                 <detail type = "issue">

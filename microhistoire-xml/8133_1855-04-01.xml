@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bandy B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 The Revue anecdotique and Baudelaire
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Romanic Review<title>
+                <title>Romanic Review</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

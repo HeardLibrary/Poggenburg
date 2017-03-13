@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Delvau
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 La laiterie du paradoxe
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Rabelais<title>
+                <title>Le Rabelais</title>
             </titleInfo>
             <part>
                 <detail type = "issue">

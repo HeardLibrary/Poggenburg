@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -63,7 +63,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -98,7 +98,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -177,7 +177,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -256,7 +256,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Gautier
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Documents sur Baudelaire
@@ -296,7 +296,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -320,7 +320,7 @@
         </relatedItem>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -346,7 +346,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Lefranc
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Deux Lettres inédites du général Aupick
@@ -386,7 +386,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Revue Palladienne<title>
+                <title>Revue Palladienne</title>
             </titleInfo>
             <part>
                 <detail type = "issue">
@@ -408,7 +408,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -443,7 +443,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire

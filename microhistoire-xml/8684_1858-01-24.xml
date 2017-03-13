@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat75
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Bibliothèques littéraires du romantisme à nos jours
@@ -69,7 +69,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire

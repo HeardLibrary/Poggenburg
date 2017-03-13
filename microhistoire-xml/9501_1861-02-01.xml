@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl II
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -107,7 +107,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
@@ -155,7 +155,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat77-33
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Catalogue
@@ -202,7 +202,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat24
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 E?ditions originales et autographes de Charles Baudelaire, Paul Verlaine, Arthur Rimbaud
@@ -243,7 +243,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Times19610331
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 ***
@@ -273,7 +273,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Times Literary Supplement<title>
+                <title>Times Literary Supplement</title>
             </titleInfo>
             <part>
                 <date>03/31/1961</date>
@@ -286,7 +286,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire
@@ -342,7 +342,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl II
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -421,7 +421,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl II
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -500,7 +500,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl II
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler

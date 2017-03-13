@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois F
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Le Beau-père de Baudelaire
@@ -68,7 +68,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -92,7 +92,7 @@
         </relatedItem>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -118,7 +118,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Tourneux
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Salons et expositions d'art a Paris

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Julia
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Joseph-François Baudelaire
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin Baudelairien<title>
+                <title>Bulletin Baudelairien</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -84,7 +84,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire

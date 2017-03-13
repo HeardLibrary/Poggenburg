@@ -31,6 +31,6 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
              v. SB bib
-        </indentifier>
+        </identifier>
     </relatedItem>
 </mods>

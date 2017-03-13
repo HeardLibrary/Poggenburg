@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Czyba
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire et la caricature française
@@ -82,7 +82,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Actes du Séminaire de Littératures de Besançon<title>
+                <title>Actes du Séminaire de Littératures de Besançon</title>
             </titleInfo>
             <part>
                 <extent unit = "page">

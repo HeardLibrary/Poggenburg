@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Newman
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 The Wagner Operas
@@ -79,7 +79,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Servières
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 ***

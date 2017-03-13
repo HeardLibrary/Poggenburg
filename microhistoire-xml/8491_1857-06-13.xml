@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -63,7 +63,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -142,7 +142,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -221,7 +221,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OCPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome I
@@ -284,7 +284,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
@@ -332,7 +332,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat145
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Bibliophilie de qualite?
@@ -376,7 +376,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat11
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 E?ditions originales et autographes de Charles Baudelaire, Paul Verlaine, Arthur Rimbaud
@@ -417,7 +417,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OP II
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Juvenilia. Oeuvres posthumes. Reliquiae II
@@ -465,7 +465,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OC61
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Oeuvres complètes. texte établi et annoté par Y.-G. Le Dantec; édition révisée, complétée et présentée par Claude Pichois
@@ -528,7 +528,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler

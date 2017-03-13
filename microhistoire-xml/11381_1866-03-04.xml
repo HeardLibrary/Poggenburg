@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Lazard-Brun
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Une Lettre de Baudelaire à Michel Lévy
@@ -68,7 +68,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin Baudelairien<title>
+                <title>Bulletin Baudelairien</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

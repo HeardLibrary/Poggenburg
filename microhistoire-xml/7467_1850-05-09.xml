@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bulletin 74-75
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 ***
@@ -61,7 +61,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin Pierre Berès<title>
+                <title>Bulletin Pierre Berès</title>
             </titleInfo>
             <part>
                 <detail type = "number">

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OCPl II
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome II
@@ -91,7 +91,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Richer
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Lettres de Baudelaire à Poulet-Malassis, à Charles Asselineau
@@ -121,7 +121,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Cramérien<title>
+                <title>Le Cramérien</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

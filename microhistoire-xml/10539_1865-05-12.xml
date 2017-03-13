@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl II
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -107,7 +107,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CG V
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Oeuvres complètes. Correspondance générale V: 1865-1866
@@ -170,7 +170,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Dufay C
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Autour de Baudelaire: Poulet-Malassis, l'éditeur et l'ami; Madame Sabatier, la muse et la madone

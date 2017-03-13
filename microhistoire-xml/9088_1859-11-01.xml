@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
@@ -76,7 +76,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat689
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Catalogue de la Bibliothe?que du Vicomte de D. [2e vente: 6-2. Vente du 21 au 27 mai 1930]
@@ -117,7 +117,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat1261
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Catalogue des Libraires parisiens
@@ -164,7 +164,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat20
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Catalogue des Libraires parisiens
@@ -211,7 +211,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat101
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Catalogue d'ouvrages d'auteurs du XIXe sie?cle et contemporains en e?ditions originales et quelques livres anciens composant la bibliothe?que de Fernand Vande?rem
@@ -252,7 +252,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Manuscrit73
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 ***

@@ -28,6 +28,6 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             HE 228
-        </indentifier>
+        </identifier>
     </relatedItem>
 </mods>

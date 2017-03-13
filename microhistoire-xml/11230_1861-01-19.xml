@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Duflo
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire et Constantin Guys. Trois lettres inédites
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Revue d'Histoire Littéraire de la France<title>
+                <title>Revue d'Histoire Littéraire de la France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

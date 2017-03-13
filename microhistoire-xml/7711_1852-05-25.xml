@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -63,7 +63,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Ziegler E
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Gautier, Baudelaire, Un Carré de Dames: Pomaré, Marix, Bébé, Sisina

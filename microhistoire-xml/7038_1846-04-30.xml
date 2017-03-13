@@ -28,12 +28,12 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OP II 159
-        </indentifier>
+        </identifier>
     </relatedItem>
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>
@@ -48,6 +48,6 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
     </relatedItem>
 </mods>

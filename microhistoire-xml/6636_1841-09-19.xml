@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Foucque
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire aux Iles Maurice et Bourbon
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>La Grande Revue<title>
+                <title>La Grande Revue</title>
             </titleInfo>
             <part>
                 <detail type = "issue">
@@ -84,7 +84,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Feuillerat B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire est-il allé dans l'Inde?
@@ -114,7 +114,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>French Review<title>
+                <title>French Review</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -140,7 +140,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Foucque
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire aux Iles Maurice et Bourbon
@@ -170,7 +170,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>La Grande Revue<title>
+                <title>La Grande Revue</title>
             </titleInfo>
             <part>
                 <detail type = "issue">
@@ -196,7 +196,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler

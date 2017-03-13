@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             JI
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Journaux intimes. Fusées. Mon Coeur mis à nu. Carnet
@@ -100,7 +100,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois H
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Autour de La Fanfarlo: Baudelaire, Balzac et Marie Daubrun
@@ -130,7 +130,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bandy L
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire, Busquet and English Glees
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>French Studies<title>
+                <title>French Studies</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

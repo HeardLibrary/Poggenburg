@@ -31,6 +31,6 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Names
-        </indentifier>
+        </identifier>
     </relatedItem>
 </mods>

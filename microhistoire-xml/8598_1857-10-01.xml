@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             M.R.-L.R.
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Menues Vérités, menues erreurs
@@ -71,7 +71,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Cramérien<title>
+                <title>Le Cramérien</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

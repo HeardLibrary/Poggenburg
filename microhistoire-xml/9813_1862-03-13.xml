@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Champfleury D
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Catalogue des Eaux-fortes, lithographies, caricatures, vignettes romantiques, dessins et aquarelles, formant la collection Champfleury
@@ -73,7 +73,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Lemonnier
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Les Traducteurs d'Edgar Poe en France de 1845 à 1875: Charles Baudelaire
@@ -76,7 +76,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bandy K
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Edgar Allan Poe: sa vie et ses ouvrages

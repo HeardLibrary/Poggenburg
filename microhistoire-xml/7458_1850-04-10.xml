@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatPM
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Auguste Poulet-Malassis: Catalogue de l'exposition organise?e a? la Bibliothe?que d'Alenc?on par les Amitie?s litte?raires et Artistiques, avec le concours de la municipalite?, de l'imprimerie alenc?onnaise et des collections publiques et prive?es pour les centie?me anniversaire de l'e?dition des Fleurs du Mal
@@ -76,7 +76,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois F
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Le Beau-père de Baudelaire
@@ -116,7 +116,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -140,7 +140,7 @@
         </relatedItem>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -166,7 +166,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois F
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Le Beau-père de Baudelaire
@@ -206,7 +206,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Ruff D
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire, Fils d'un prêtre
@@ -68,7 +68,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>La Quinzaine Littéraire<title>
+                <title>La Quinzaine Littéraire</title>
             </titleInfo>
             <part>
                 <detail type = "number">

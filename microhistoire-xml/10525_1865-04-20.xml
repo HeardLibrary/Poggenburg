@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl II
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -107,7 +107,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Zola
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance

@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             FM42
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Les fleurs du mal, texte de la 2.éd, suivi des pièces supprimées en 1857 et des additions de 1868. Éd. critique établie par Jacques Crépet et Georges Blin
@@ -103,7 +103,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -182,7 +182,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl II
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -261,7 +261,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl II
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome II (mars 1860-mars 1866). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -340,7 +340,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Ziegler B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelairiana: Mme Sabatier (1822-1890). Quelques notes biographiques
@@ -380,7 +380,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                 <detail type = "issue">
@@ -402,7 +402,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             BDC
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire devant ses contemporains
@@ -469,7 +469,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Champfleury C
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Souvenirs et portraits de jeunesse
@@ -517,7 +517,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois H
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Autour de La Fanfarlo: Baudelaire, Balzac et Marie Daubrun
@@ -557,7 +557,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -583,7 +583,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -662,7 +662,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OCPL II
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>

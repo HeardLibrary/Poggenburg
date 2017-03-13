@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Graux
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Dr Lucien Graux: Catalogue de sa bibliothèque. Neuvième partie
@@ -69,7 +69,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal

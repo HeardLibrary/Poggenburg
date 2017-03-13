@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Delesalle A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Miettes baudelairiennes
@@ -68,7 +68,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Revue d'Histoire Littéraire de la France<title>
+                <title>Revue d'Histoire Littéraire de la France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bornecque B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Du Rêve d'un bourgeois au Rêve d'un curieux
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                 <detail type = "issue">

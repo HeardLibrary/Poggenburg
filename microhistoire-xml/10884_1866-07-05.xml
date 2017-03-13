@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Crépet B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Les Derniers Jours de Baudelaire
@@ -68,7 +68,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                 <extent unit = "page">
@@ -84,7 +84,7 @@
         </relatedItem>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                 <extent unit = "page">
@@ -100,7 +100,7 @@
         </relatedItem>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                 <extent unit = "page">
@@ -118,10 +118,10 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Ruff-Richer
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
-                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Oeuvres: correspondances, documents
             </title>
         </titleInfo>
         <name type = "personal">

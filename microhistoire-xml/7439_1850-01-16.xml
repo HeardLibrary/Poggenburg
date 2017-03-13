@@ -28,12 +28,12 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Dijon
-        </indentifier>
+        </identifier>
     </relatedItem>
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Quand l'acteur Bignon `entra dans la peau de son personnage'
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Français Moderne<title>
+                <title>Le Français Moderne</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

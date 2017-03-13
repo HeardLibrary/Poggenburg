@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Mayne
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 The Mirror of Art: critical studies by Charles Baudelaire. Translated and edited with Notes and Illustrations by Jonathan Mayne.
@@ -79,7 +79,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
@@ -127,7 +127,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Ziegler C
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Emile Deroy (1820-1846) et l'esthétique de Baudelaire
@@ -170,7 +170,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Gazette des Beaux-Arts<title>
+                <title>Gazette des Beaux-Arts</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -199,7 +199,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bandy et Mouquet
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire en 1848
@@ -255,7 +255,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Dufay C
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Autour de Baudelaire: Poulet-Malassis, l'éditeur et l'ami; Madame Sabatier, la muse et la madone
@@ -303,7 +303,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Ziegler B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelairiana: Mme Sabatier (1822-1890). Quelques notes biographiques
@@ -343,7 +343,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                 <detail type = "issue">
@@ -365,7 +365,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire
@@ -421,7 +421,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Vapereau
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Dictionnaire universel des contemporains, contenant toutes les personnes notables de la France et des pays étrangers
@@ -469,7 +469,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pommier-Pichois
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire et Renan à l'ombre de Saint-Sulpice
@@ -517,7 +517,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -543,7 +543,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             FM59
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Les Fleurs du Mal

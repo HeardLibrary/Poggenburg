@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Contades
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Auguste Poulet-Malassis
@@ -68,7 +68,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Livre<title>
+                <title>Le Livre</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

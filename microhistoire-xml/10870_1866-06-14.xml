@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             BDC
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire devant ses contemporains
@@ -98,7 +98,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             North Peat
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Gossip from Paris during the second empire; correspondence (1864-1869) of Anthony B. North Peat

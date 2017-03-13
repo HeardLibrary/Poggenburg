@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Le Dantec A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire. Oeuvres
@@ -87,7 +87,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             BDC
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire devant ses contemporains

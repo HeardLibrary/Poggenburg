@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire
@@ -84,7 +84,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Parménié
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Histoire d'un E?diteur et de ses Auteurs: P.-J. Hetzel (Stahl)

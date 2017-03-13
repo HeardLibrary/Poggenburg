@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Guiral et Pichois
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 «L'Albatros» de Polydore Bounin
@@ -76,7 +76,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Revue d'Histoire Littéraire de la France<title>
+                <title>Revue d'Histoire Littéraire de la France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

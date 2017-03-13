@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             BA
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire et Asselineau. Textes recueillis et commentés par Jacques Crépet et Claude Pichois. Charles Baudelaire, sa vie et son oeuvre, notes inédites sur Baudelaire et Ph. Boyer, lettres à Poulet-Malassis, par Charles Asselineau.
@@ -85,7 +85,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire
@@ -141,7 +141,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire

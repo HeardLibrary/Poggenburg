@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Robb F
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Le Salon de 1846: Baudelaire s'explique
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Nineteenth Century French Studies<title>
+                <title>Nineteenth Century French Studies</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

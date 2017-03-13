@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois G
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Le Demi-frère du poète des Fleurs du mal. Claude-Alphonse Baudelaire, magistrat
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Pouvoir Judiciaire<title>
+                <title>Pouvoir Judiciaire</title>
             </titleInfo>
             <part>
                 <detail type = "number">
@@ -80,7 +80,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler

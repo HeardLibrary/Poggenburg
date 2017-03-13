@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Feuillerat A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire et la belle aux cheveux d'or
@@ -76,7 +76,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bandy K
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Edgar Allan Poe: sa vie et ses ouvrages
@@ -145,7 +145,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             BLB
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire lecteur de Balzac

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bandy K
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Edgar Allan Poe: sa vie et ses ouvrages
@@ -97,7 +97,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Guilhermoz
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Curiosités
@@ -127,7 +127,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -156,7 +156,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire

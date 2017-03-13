@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             BDC
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire devant ses contemporains
@@ -95,7 +95,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bandy et Mouquet
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire en 1848
@@ -151,7 +151,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Girard
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Un Ennemi de Baudelaire: le général Aupick
@@ -191,7 +191,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>La Revue de la Semaine<title>
+                <title>La Revue de la Semaine</title>
             </titleInfo>
             <part>
                 <detail type = "issue">
@@ -213,7 +213,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire
@@ -269,7 +269,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire
@@ -325,7 +325,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire

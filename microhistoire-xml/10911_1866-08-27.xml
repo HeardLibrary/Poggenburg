@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Crépet R
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Dix lettres inédites de Charles Baudelaire
@@ -68,7 +68,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>La Revue Fontaine<title>
+                <title>La Revue Fontaine</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

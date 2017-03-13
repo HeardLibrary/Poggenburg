@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             LAB
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Lettres à Charles Baudelaire
@@ -89,7 +89,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Nouvion
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 La Famille de Baudelaire
@@ -129,7 +129,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin de la Société Historique du VIe Arrondissement de Paris<title>
+                <title>Bulletin de la Société Historique du VIe Arrondissement de Paris</title>
             </titleInfo>
             <part>
                 <extent unit = "page">
@@ -147,7 +147,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -182,7 +182,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire
@@ -238,7 +238,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler
@@ -317,7 +317,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Launay
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 A. Poulet-Malassis; catalogue de l'exposition organisée à la Bibliothèque d'Alençon par les Amitiés Littéraires et Artistiques ... pour le centième anniversaire de l'édition des Fleurs du mal, octobre 1957

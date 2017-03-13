@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Girard
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Un Ennemi de Baudelaire: le général Aupick
@@ -68,7 +68,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>La Revue de la Semaine<title>
+                <title>La Revue de la Semaine</title>
             </titleInfo>
             <part>
                 <detail type = "issue">
@@ -90,7 +90,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois F
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Le Beau-père de Baudelaire
@@ -130,7 +130,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -154,7 +154,7 @@
         </relatedItem>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mercure de France<title>
+                <title>Mercure de France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

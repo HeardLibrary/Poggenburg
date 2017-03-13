@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bandy J
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 L'Universalité de Baudelaire
@@ -71,7 +71,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Baudelaire. Actes du Colloque de Nice<title>
+                <title>Baudelaire. Actes du Colloque de Nice</title>
             </titleInfo>
             <part>
                 <extent unit = "page">

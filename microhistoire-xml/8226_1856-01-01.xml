@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Adhémar A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire et les frères Stevens, sa modernité
@@ -74,7 +74,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Gazette des Beaux-Arts<title>
+                <title>Gazette des Beaux-Arts</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

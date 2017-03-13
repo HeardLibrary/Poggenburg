@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Lawrence
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Cazalis, sa vie, son oeuvre, son amitié avec Mallarmé
@@ -76,7 +76,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Raitt
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Villiers de l'Isle-Adam. Exorciste du réel

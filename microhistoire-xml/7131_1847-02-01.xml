@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bennett
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 The First Republication (February 1847) of Baudelaire's La Fanfarlo
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>French Studies Bulletin<title>
+                <title>French Studies Bulletin</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

@@ -28,6 +28,6 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatPM 19
-        </indentifier>
+        </identifier>
     </relatedItem>
 </mods>

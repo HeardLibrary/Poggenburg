@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CG IV
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>
@@ -43,7 +43,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl II
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             FMCBP
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Les Fleurs du Mal. Texte de la 2e édition. Les Épaves. Additions de la 3e édition, documents et bibliographie
@@ -104,7 +104,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal

@@ -28,12 +28,12 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pommier A 522
-        </indentifier>
+        </identifier>
     </relatedItem>
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OCPl II
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>

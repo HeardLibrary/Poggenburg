@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
@@ -76,7 +76,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat163
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Catalogue de?taille?, raisonne? et anecdotique de la bibliothe?que d'un homme de lettres bien connu: M. Charles Monselet
@@ -125,7 +125,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat397
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Bibliothèque, portraits, dessins et autographes de feu M. Auguste Poulet-Malassis

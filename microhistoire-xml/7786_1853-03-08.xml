@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire
@@ -84,7 +84,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Nouvion
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 La Famille de Baudelaire
@@ -124,7 +124,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin de la Société Historique du VIe Arrondissement de Paris<title>
+                <title>Bulletin de la Société Historique du VIe Arrondissement de Paris</title>
             </titleInfo>
             <part>
                 <extent unit = "page">
@@ -142,7 +142,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire

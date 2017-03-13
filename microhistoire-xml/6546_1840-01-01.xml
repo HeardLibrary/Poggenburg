@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OC61
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Oeuvres complètes. texte établi et annoté par Y.-G. Le Dantec; édition révisée, complétée et présentée par Claude Pichois
@@ -91,7 +91,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             FM1959
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>
@@ -106,17 +106,17 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Dufay E
-        </indentifier>
+        </identifier>
     </relatedItem>
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
     </relatedItem>
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CML II
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -63,7 +63,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Crépet E
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Quelques Lettres inédites de Baudelaire
@@ -93,7 +93,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Candide<title>
+                <title>Candide</title>
             </titleInfo>
             <part>
                 <detail type = "issue">

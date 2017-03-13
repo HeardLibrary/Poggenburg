@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois M1
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Comme un soupir étouffé de Weber
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Divan<title>
+                <title>Le Divan</title>
             </titleInfo>
             <part>
                 <detail type = "issue">

@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Parturier et Privat
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Duranty et Baudelaire
@@ -79,7 +79,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin du Bibliophile et du Bibliothécaire<title>
+                <title>Bulletin du Bibliophile et du Bibliothécaire</title>
             </titleInfo>
             <part>
                 <extent unit = "page">
@@ -97,7 +97,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Crépet V
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Propos sur Baudelaire. Rassemblés et annotés par Claude Pichois

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Foucque
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire aux Iles Maurice et Bourbon
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>La Grande Revue<title>
+                <title>La Grande Revue</title>
             </titleInfo>
             <part>
                 <detail type = "issue">
@@ -84,7 +84,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             EJC
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire: étude biographique / d'Eugène Crépet, revue et mise à jour par Jacques Crépet, suivie des Baudelairiana d'Asselineau et de nombreuses lettres adressées à Ch. Baudelaire

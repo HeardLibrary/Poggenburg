@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Ziegler D
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Essai biographique sur Privat d'Anglemont
@@ -74,7 +74,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Etudes Baudelairiennes VII<title>
+                <title>Etudes Baudelairiennes VII</title>
             </titleInfo>
             <part>
                 <extent unit = "page">

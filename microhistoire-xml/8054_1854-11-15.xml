@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Badesco A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire et la revue Jean Raisin. La première publication du Vin du chiffonnier
@@ -68,7 +68,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Revue des Sciences Humaines - Nouvelle Série<title>
+                <title>Revue des Sciences Humaines - Nouvelle Série</title>
             </titleInfo>
             <part>
                 <detail type = "number">
@@ -90,7 +90,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire

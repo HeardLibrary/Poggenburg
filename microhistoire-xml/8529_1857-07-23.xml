@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             BJ
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire judged by his contemporaries (1845-1867)
@@ -83,7 +83,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             LAB
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Lettres à Charles Baudelaire

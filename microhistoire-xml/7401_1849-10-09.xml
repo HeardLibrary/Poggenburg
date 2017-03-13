@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Silbert
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Un diagnostique en retard de 147 ans: Edgar Poe serait mort de la rage
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>24 Heures du Monde<title>
+                <title>24 Heures du Monde</title>
             </titleInfo>
             <part>
                 <detail type = "issue">

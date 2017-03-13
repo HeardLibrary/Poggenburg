@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Eur
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Eureka. La genèse d'un poëme: Le corbeau, méthode de composition
@@ -91,7 +91,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CG IV
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Oeuvres complètes. Correspondance générale IV: Novembre 1861-1864

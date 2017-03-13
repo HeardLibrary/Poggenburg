@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
@@ -76,7 +76,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Carriat
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 En Marge d'une exposition [sur Baudelaire, à la Bibliothèque Nationale]
@@ -106,7 +106,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Mémoires de la Société des Sciences Naturelles et Archéologiques de la Creuse<title>
+                <title>Mémoires de la Société des Sciences Naturelles et Archéologiques de la Creuse</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -128,7 +128,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Souffrin B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Une Pétition en faveur de Baudelaire avec une lettre inédite de Banville
@@ -158,7 +158,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Bayou<title>
+                <title>Le Bayou</title>
             </titleInfo>
             <part>
                 <detail type = "number">

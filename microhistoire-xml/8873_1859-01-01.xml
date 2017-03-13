@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Crépet S
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire, Fin Manoeuvrier
@@ -68,7 +68,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>La Nef<title>
+                <title>La Nef</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -94,7 +94,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OCPl II
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Oeuvres complètes. Texte établi, présenté et annoté par Claude Pichois: Tome II

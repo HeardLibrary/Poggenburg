@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -63,7 +63,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -98,7 +98,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Kunel B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire en Belgique
@@ -146,7 +146,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             EJC
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire: étude biographique / d'Eugène Crépet, revue et mise à jour par Jacques Crépet, suivie des Baudelairiana d'Asselineau et de nombreuses lettres adressées à Ch. Baudelaire
@@ -202,7 +202,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Ziegler E
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Gautier, Baudelaire, Un Carré de Dames: Pomaré, Marix, Bébé, Sisina

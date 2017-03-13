@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Patin
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Lettres de Banville à Poulet-Malassis
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Figaro Littéraire<title>
+                <title>Le Figaro Littéraire</title>
             </titleInfo>
             <part>
                 <detail type = "issue">

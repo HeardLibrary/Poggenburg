@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
@@ -76,7 +76,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
@@ -124,7 +124,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat2430
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Catalogue des Libraires parisiens
@@ -171,7 +171,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Georges Lang
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire et sa mère
@@ -201,7 +201,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Figaro<title>
+                <title>Le Figaro</title>
             </titleInfo>
             <part>
                 <detail type = "issue">
@@ -218,7 +218,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Manuscrit73
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 ***
@@ -263,7 +263,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat111
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 E?ditions originales anciennes et modernes
@@ -304,7 +304,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
@@ -352,7 +352,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Autour des Paradis artificiels: Baudelaire, Musset et De Quincey
@@ -382,7 +382,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Goéland<title>
+                <title>Le Goéland</title>
             </titleInfo>
             <part>
                 <detail type = "issue">

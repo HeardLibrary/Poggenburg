@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -63,7 +63,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Ziegler D
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Essai biographique sur Privat d'Anglemont
@@ -109,7 +109,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Etudes Baudelairiennes VII<title>
+                <title>Etudes Baudelairiennes VII</title>
             </titleInfo>
             <part>
                 <extent unit = "page">
@@ -127,7 +127,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CPl I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Correspondance: Tome I (Janvier 1832-février 1860). Texte établi, présenté et annoté par Claude Pichois avec la collaboration de Jean Ziegler

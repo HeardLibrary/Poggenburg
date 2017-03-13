@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat67
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Catalogue de vente des livres de Charles Asselineau, du 1 a? 3 decembre 1875
@@ -85,7 +85,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -120,7 +120,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat297
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Catalogue de vente du Dr. P.P.
@@ -155,7 +155,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat72
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Bibliothèque, portraits, dessins et autographes de feu M. Auguste Poulet-Malassis
@@ -196,7 +196,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Cat154
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Bibliophilie

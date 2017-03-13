@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Ferran
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire: autour du voyage en Belgique
@@ -61,7 +61,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>L'Archer<title>
+                <title>L'Archer</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

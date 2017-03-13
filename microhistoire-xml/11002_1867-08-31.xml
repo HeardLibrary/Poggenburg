@@ -31,7 +31,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBN57
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire. Exposition organisée pour le centenaire des Fleurs du Mal
@@ -79,7 +79,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             EJC
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire: étude biographique / d'Eugène Crépet, revue et mise à jour par Jacques Crépet, suivie des Baudelairiana d'Asselineau et de nombreuses lettres adressées à Ch. Baudelaire
@@ -135,7 +135,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Crépet A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Charles Baudelaire et Jeanne Duval. Lettre ouverte à Léon Deschamps
@@ -175,7 +175,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>La Plume<title>
+                <title>La Plume</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -197,7 +197,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             PPP
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Petits Poèmes en prose. (Le Spleen de Paris). Le Jeune Enchanteur
@@ -242,7 +242,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             BN294
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Lettre n. 294 de la Collection d'autographes formée par Félix et Paul Nadar: I Abatucci-Ballue
@@ -277,7 +277,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Adhémar A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire et les frères Stevens, sa modernité
@@ -320,7 +320,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Gazette des Beaux-Arts<title>
+                <title>Gazette des Beaux-Arts</title>
             </titleInfo>
             <part>
                 <detail type = "volume">
@@ -349,10 +349,10 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Ruff-Richer
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
-                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Suvres: correspondances, documents
+                Les Derniers mois de Charles Baudelaire et la publication posthume de ses Oeuvres: correspondances, documents
             </title>
         </titleInfo>
         <name type = "personal">

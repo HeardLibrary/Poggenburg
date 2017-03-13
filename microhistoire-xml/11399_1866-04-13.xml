@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-V
-        </indentifier>
+        </identifier>
         <part>
             <extent unit = "pages">
                 <start>

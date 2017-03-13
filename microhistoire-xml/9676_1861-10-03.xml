@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             JI
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Journaux intimes. Fusées. Mon Coeur mis à nu. Carnet
@@ -100,7 +100,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Kameya
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Un conteur méconnu: Louis-Charles Barbara

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             da Cal
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Eça de Queiroz, Baudelaire et Le Parnasse contemporain
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Revue de Littérature Comparée<title>
+                <title>Revue de Littérature Comparée</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

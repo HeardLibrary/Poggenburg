@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBerès3
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Catalogue
@@ -75,7 +75,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatHeilbrun107
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 E?ditions originales anciennes et modernes

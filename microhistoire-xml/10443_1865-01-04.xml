@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             LAB
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Lettres à Charles Baudelaire
@@ -89,7 +89,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Blin B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire et Alexandre Weill
@@ -129,7 +129,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Revue d'Histoire Littéraire de la France<title>
+                <title>Revue d'Histoire Littéraire de la France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

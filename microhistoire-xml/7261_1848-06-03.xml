@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -63,7 +63,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CML
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Oeuvres complètes de Charles Baudelaire. Edition présentée dans l'ordre chronologique et établie sur les textes authentiques avec des variantes inédites et une annotation originale

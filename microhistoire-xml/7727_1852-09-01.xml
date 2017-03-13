@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bandy K
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Edgar Allan Poe: sa vie et ses ouvrages
@@ -97,7 +97,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Bandy K
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Edgar Allan Poe: sa vie et ses ouvrages
@@ -166,7 +166,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Grossman
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Edgar Allan Poe in Russia. A study in legend and literary influence

@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Nouvion
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 La Famille de Baudelaire
@@ -68,7 +68,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Bulletin de la Société Historique du VIe Arrondissement de Paris<title>
+                <title>Bulletin de la Société Historique du VIe Arrondissement de Paris</title>
             </titleInfo>
             <part>
                 <extent unit = "page">
@@ -86,7 +86,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Pichois A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Autour des Paradis artificiels: Baudelaire, Musset et De Quincey
@@ -126,7 +126,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Goéland<title>
+                <title>Le Goéland</title>
             </titleInfo>
             <part>
                 <detail type = "issue">
@@ -143,7 +143,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             P-Z
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire

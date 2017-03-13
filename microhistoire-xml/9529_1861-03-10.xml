@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             AR
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 L'art romantique. Notice, notes et éclaircissements de M. Jacques Crépet
@@ -84,7 +84,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             T
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Texte vu
@@ -119,7 +119,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Wallace B
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 La Violette d'Honfleur était-elle une fleur du mal?
@@ -149,7 +149,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Revue d'Histoire Littéraire de la France<title>
+                <title>Revue d'Histoire Littéraire de la France</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

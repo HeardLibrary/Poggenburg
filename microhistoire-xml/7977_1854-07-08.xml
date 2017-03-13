@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Van Roosbroeck
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 The Source of Baudelaire's prose poem L'Horloge
@@ -68,7 +68,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Romanic Review<title>
+                <title>Romanic Review</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

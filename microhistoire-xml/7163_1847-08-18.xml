@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Wicks
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 The Parisian Stage: alphabetical indexes of plays and authors
@@ -73,7 +73,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Feuillerat A
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Baudelaire et la belle aux cheveux d'or

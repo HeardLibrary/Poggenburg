@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CC
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Memento Chronologique et Critique
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Le Cramérien<title>
+                <title>Le Cramérien</title>
             </titleInfo>
             <part>
                 <detail type = "volume">

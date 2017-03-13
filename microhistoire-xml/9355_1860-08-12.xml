@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Montauzan
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Une Lettre inédite de Baudelaire [communiquée par Marie-José Montauzan, petite-nièce d'Armand Fraisse]
@@ -58,7 +58,7 @@
         </genre>
         <relatedItem type = "host">
             <titleInfo>
-                <title>Les Cahiers Obliques<title>
+                <title>Les Cahiers Obliques</title>
             </titleInfo>
             <part>
                 <detail type = "number">

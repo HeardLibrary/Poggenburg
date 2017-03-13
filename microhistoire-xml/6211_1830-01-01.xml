@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             CatBiblio
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Catalogue de la Bibliothèque Nationale de l'Histoire de France

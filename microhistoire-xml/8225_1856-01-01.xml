@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             Barroux
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 ***
@@ -68,6 +68,6 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             De Lacretelle
-        </indentifier>
+        </identifier>
     </relatedItem>
 </mods>

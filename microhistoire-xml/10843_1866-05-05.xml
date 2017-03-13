@@ -28,7 +28,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             BN24275
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Lettre n. 514 de la Collection d'autographes formée par Félix et Paul Nadar: XVI La Fayette-Lamaire
@@ -63,7 +63,7 @@
     <relatedItem type = "references">
         <identifier displayLabel = "bibliographic abbreviation" type = "local">
             OP I
-        </indentifier>
+        </identifier>
         <titleInfo>
             <title>
                 Juvenalia. Oeuvres posthumes. Reliquiae I
