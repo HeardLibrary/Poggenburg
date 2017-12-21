@@ -2,7 +2,7 @@
 
 ## The First Edition
 
-In 1987, Raymond Poggenburg (1926-2004), a professor of French literature at Vanderbilt University, published the first edition of _Charles Baudelaire: Une Micro-histoire_. The aim of the project was to provide a detailed chronology of the life of Charles Baudelaire (1821-1867), the esteemed French poet and essayist.
+In 1987, Raymond Poggenburg (1926-2004), a professor of French literature at Vanderbilt University, published the first edition of _Charles Baudelaire: Une Micro-histoire_ with Jose Corti and the Vanderbilt University Presses. The aim of the project was to provide a detailed chronology of the life of Charles Baudelaire (1821-1867), the esteemed French poet and essayist.
 
 The first edition of the _Micro-histoire_ is divided into four parts: the chronology, references, bibliography, and chronological index. The chronology, comprised of dated entries, constitutes the majority of the tome. It begins with the birth of Baudelaire's paternal grandfather, Claude Baudelaire, in 1711 and ends shortly after Baudelaire's death in 1867. Subsequently, the references are presented much like an endnote section, with up to 10 citations for each entry. The bibliography is an additional resource unto itself, encompassing primary source documents and critical studies up to the date of publication. Finally, the chronological index allows readers to look up individuals, places, or other relevant entities and find the chronology entries in which they are referenced.
 
